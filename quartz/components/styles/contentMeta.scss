@@ -1,0 +1,25 @@
+.content-meta {
+  margin-top: 0;
+  color: var(--gray);
+
+  &[show-comma="true"] {
+    > span:not(:last-child) {
+      margin-right: 8px;
+
+      &::after {
+        content: ",";
+      }
+    }
+  }
+}
+
+#edit-btn-container .edit-btn {
+  font-weight: 400;
+  margin-right: 4px;
+}
+#edit-btn-container svg {
+  height: 1.1em;
+  margin: 0 0.1em 0 0;
+  vertical-align: middle;
+ }
+
