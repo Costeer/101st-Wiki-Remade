@@ -1,15 +1,26 @@
 ![image](https://github.com/user-attachments/assets/e7dc07b5-802b-4cb5-b4fa-4ffc5421aed1)
 
-## The official wiki oft the 101st "Hell" battalion 
+## The Official Wiki of the 101st "Hell" Battalion
 
-# https://costeer.github.io/101st-Wiki-Remade/
+This is the remake and the currently maintained version of the wiki. The old and archived version can be found [here](https://github.com/Costeer/101st-Wiki). This wiki is built using Quartz but heavily modifies the default layout.
 
-if you want to start to contribute or if you have suggestions on additions message me (Costeer) on discord!
+#### How Do I Contribute to the Wiki?
 
-#### build using Quartz
+First of all, you need to be an active member of the 101st.
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+If you are already a member, consult the Contributing page found in the wiki.
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+#### Edited in Obsidian
+
+The content in the wiki (notes and stuff) is edited using [Obsidian](https://obsidian.md/).
+
+#### Built Using Quartz
+
+Quartz is a set of tools that helps you publish your notes as a website for free. 
+Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease of use.
+
+(Copied from the Quartz repo)
+
+This is what we use to make the .md (Markdown) files appear in the browser without having to code the logic ourselves.
+
 
