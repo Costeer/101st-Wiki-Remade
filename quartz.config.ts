@@ -15,7 +15,7 @@ const config: QuartzConfig = {
       provider: "null",
     },
     locale: "en-US",
-    baseUrl: "costeer.github.io/101st-Wiki",
+    baseUrl: "costeer.github.io/101st-Wiki-Remade",
     ignorePatterns: ["**/00-Meta", "private", "**/templates/", ".obsidian"],
     defaultDateType: "modified",
     theme: {
