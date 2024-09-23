@@ -1,6 +1,6 @@
 @use "./base.scss";
 @use "./variables.scss" as *;
-/* -- MMW SCSS Modules -- */
+/* -- Custom SCSS Modules -- */
 @use "./custom/image-adjustments.scss";
 @use "./custom/callout-adjustments.scss";
 @use "./custom/column-callout.scss";
@@ -14,7 +14,7 @@
     height: 175px;
 }
 
-/* --- MMW Logo on mobile display --- */
+/* --- Logo on mobile display --- */
 
 @media screen and (max-width:$mobileBreakpoint) {
   .Logo {
@@ -123,8 +123,6 @@ kbd:active kbd {
   background: none;
 }
 
-/* ===================== */
-
 /* --- Download Link --- */
 
 a.mmw-download-link:link, a.mmw-download-link:visited {
@@ -164,3 +162,38 @@ a.mmw-download-link div.popover {
   display: none;
   /* prevent link popover from appearing */
 }
+
+//------------------------------------------------------------------------------------------------------------//
+
+
+  table {
+    width: 90%;
+    margin-left: 1px;
+    margin-right: 1px;
+    border: 0px solid #A19084;
+    border-left: 0px solid #A19084;
+    border-right: 0px solid #A19084;
+    
+    td {
+      padding: 5px;
+      text-align: center;
+      border-bottom: 0px solid #A19084;
+      border: 1px solid #A19084;
+    
+    }
+
+    th {
+    text-align: center; /* Center aligns the text in header cells */
+    padding: 0px; /* Add padding for spacing */
+    font-size: 16.5px;
+    border: 1px solid #A19084;
+    
+    }
+  }
+  img {
+    margin: 0px;
+ }
+
+
+//------------------------------------------------------------------------------------------------------------//
+

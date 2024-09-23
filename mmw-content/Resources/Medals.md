@@ -111,3 +111,6 @@ An official Awarding Ceremony needs to be held when giving away a Diamond Medal 
 Based on all of this information, your “medal” role in the server will be equal to the highest medal you own. Meaning you can have only 1 “medal holder” role!
 
 ***
+
+
+![[note-end-logo.png]]

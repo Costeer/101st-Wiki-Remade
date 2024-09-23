@@ -1,4 +1,3 @@
-![[fingerprintingImmage.png|600]]
 
 ## 101st “Hell” Battalion
 **Military Personnel File**
@@ -37,4 +36,6 @@ Gael has an interesting case for his trauma. Since he was the one who protected 
 Gael moved up the ranks with Steroid as well, being under command of Freeze and Mind. Gael worked quite well with Steroid, both having relatively similar interests and hatred, but still having wildly different experience working for the SEAF and early childhoods. They would spend most of their time going into deployments together as well as goofing around in the mess hall. His skills were unmatched in different ways, preferring to stick with the fireteam and not going solo like others. Having zero issue with ordering his subordinates around. Pushing the automaton front, and being able to use his sharp senses to hear and see patrols from extreme distances. From the thumps from hulks or the steady humms from a tank. He would be able to identify a threat when they are not even remotely near histeam. Many privates under his command have seen him look at the track of a bot patrol and accurately described each footprint, from the spacing and pattern of the track he was able to determine that there were 3 troopers, 4 devastators, 3 berserkers and 1 hulk. He has also been noted to blast off the face of a bile titan, just under 10 meters away from him, spraying the surrounding area and him with green goop from the blast of his trusty Recoilless Rifle. Gael quickly climbed the ranks, due to the massive vacancy currently available during the start of the battalion, he was raised from private to corporal quickly. Getting trained from Freeze and Mind, he rose to sergeant and quickly to the Captain. After being inactive for a bit, he was quickly put back into service and to this day, still the bold leader of the Gael/Eurasian Company.
 
 
-![[helldiversBadgeLogo.png|200]]
+
+
+![[note-end-logo.png]]

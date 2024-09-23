@@ -34,3 +34,7 @@
 | Activate Terminid Control System |
 | Enable E-710 Extraction          |
 | Eliminate Brood Commanders       |
+
+
+
+![[note-end-logo.png]]

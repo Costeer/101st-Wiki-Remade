@@ -1,4 +1,3 @@
-![[fingerprintingImmage.png|600]]
 
 ## 101st “Hell” Battalion
 **Military Personnel File**
@@ -37,3 +36,6 @@ Service in the 101st:
 After enlisting through Steroids affirmation. He was a private
 
 under Steroids rule. Crumbs spent most of his free time doing XXXXXXX and XXXXXXX. Though he didn’t know it, most of his sargents kept a keen eye on him. Quite quickly, Crumbs went from private to corporal very quickly. As he showed his sharp skills on the field, ordering privates around though he was still a private. Being a new corporal. He started to create a slew of deployments, attacking the automaton frontline and repelling the bugs. Multiple cases from privates (Who are sadly not with us anymore) tell us how his leadership skills were like no other. Delivering orders like no other, while still watching out for his team. One private said “Dude! Crumbs is crazy, like he took one glance at the map and identified a stalker lair right after we dropped down!” Unfortunately, PVT-XXXXXXXX died in a stalker encounter after the aforementioned deployment. Through a series of major orders and mass deployments, Crumbs climbed the ranks quickly leading to who he is today.
+
+
+![[note-end-logo.png]]

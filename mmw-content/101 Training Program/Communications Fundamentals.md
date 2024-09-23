@@ -77,3 +77,6 @@ Seen/Copy - say one of these to show you understand what is being said.
 “Clear Comms” is something you say when there is traffic in the comms and you need to relay a message of urgency and can be repeated 3 times. When you call out with a loud tone: “Clear Comms” it is a signal to everyone in the voice chat to lock it up and be quiet so they can hear your transmission. This can also be used when the deployment leader requires everyone’s attention however too many people are talking at once. When you hear “Clear Comms”, you must be quiet even if you were in the middle of making a callout.
 
 ## Next [[Advanced Movement Mechanics]]
+
+
+![[note-end-logo.png]]

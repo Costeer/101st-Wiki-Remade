@@ -14,3 +14,6 @@ The Basic Training is divided into 5 Sections and can be read in any order alto 
 ## [[Cadets Fundamentals]] 
 
 first is recommended as it explains some common terminology
+
+
+![[note-end-logo.png]]

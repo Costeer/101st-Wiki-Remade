@@ -73,3 +73,6 @@ and one ping 20 mins before
 ![[Pasted image 20240819201508.png|850]]
 
 after the host has opens a deployment vc found at the bottom of the list you join that vc and the deployment should start shortly
+
+
+![[note-end-logo.png]]

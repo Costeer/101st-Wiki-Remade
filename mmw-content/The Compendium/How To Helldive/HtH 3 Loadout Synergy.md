@@ -21,3 +21,5 @@ You need to consider all pros on cons of a specific Stratagem, and pair it up wi
 *Credit*
 Written by Head of Compendium SGT Styanax 
 ***
+
+![[note-end-logo.png]]

@@ -1,5 +1,13 @@
 {
   "enabledCssSnippets": [
-    "CSS.Banners"
+    "CSS.Banners",
+    "mmw-callout-adjustments",
+    "mmw-caption-callout",
+    "mmw-column-callout",
+    "mmw-image-adjustments",
+    "mmw-infobox-callout",
+    "mmw-kbd-styling",
+    "mmw-maintenance-template-callout",
+    "mmw-transclusion-adjustments"
   ]
 }

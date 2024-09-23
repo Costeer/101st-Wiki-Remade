@@ -26,3 +26,7 @@ CC weapons are found with different categories, these weapon are able to Stagger
 *Credit*
 Written by Head of Compendium SGT Styanax 
 ***
+
+
+
+![[note-end-logo.png]]

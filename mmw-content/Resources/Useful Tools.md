@@ -27,3 +27,7 @@
 | https://helldiverscompanion.com/#    |
 
 
+
+
+
+![[note-end-logo.png]]

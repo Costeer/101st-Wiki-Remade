@@ -54,3 +54,7 @@ Not only that but you must ensure that you are not in large clumps on the map as
 #### Lone Wolfing
 
 Lone Wolfing is defined as someone who prepares and commits to an action alone, outside of any command structure and without material assistance from any group. If your course is moving you away from your teammates and you do not see anything on your mini-map, it means you are lone wolfing. You want to avoid this habit at all costs because you are putting your team at risk by doing so. Unless it was an organized play that you planned for with your team, lone wolfing is considered detrimental to your team and something you should not do. As the mentality check states, the mission and people first, always go with your team unless given permission to split off.
+
+
+
+![[note-end-logo.png]]

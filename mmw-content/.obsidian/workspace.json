@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "101 Training Program/Cadets Fundamentals.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "101 Training Program/Cadets Fundamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "101 Training Program/Cadets Fundamentals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "101 Training Program/Cadets Fundamentals.md"
               }
             }
           }
@@ -160,28 +160,40 @@
   },
   "active": "b51365485dc4844d",
   "lastOpenFiles": [
-    "Chanel Overview.md",
-    "index.md",
-    "01-Pictures/animated-text-fill.png",
+    "101 Training Program/Basic Training Introduction.md",
+    "101 Training Program/Advanced Movement Mechanics.md",
+    "101 Training Program/Cadets Fundamentals.md",
+    "101 Training Program/Communications Fundamentals.md",
+    "101 Training Program/Deployment Concept Overview.md",
+    "101 Training Program/Newbie Overview.md",
     "Personnel Files/Personnel File BM-02 Steroid.md",
-    "Personnel Files/Personnel File CC-08 Gael.md",
     "Personnel Files/Personnel File CC-07 Crumbs.md",
-    "Resources/Deployments/How to Tallies.md",
-    "Resources/Deployments/SPC Deployment Course.md",
-    "Resources/Deployments/Mission Types.md",
-    "Resources/Deployments/Deployments explained.md",
+    "Personnel Files/Personnel File CC-08 Gael.md",
+    "Resources/Rank Responsibilities.md",
+    "01-Pictures/Wiki Icons.png~",
+    "01-Pictures/Wiki Icon WIP(2).png~",
+    "01-Pictures/Wiki Icon Medals(1).png~",
+    "Chanel Overview.md",
+    "contributing/Custom Formatting Features.md",
     "Resources/Chain of Command/Command Structure.md",
     "Resources/Chain of Command/Commanding Officers.md",
+    "Resources/Deployments/Deployments explained.md",
+    "Resources/Deployments/How to Tallies.md",
+    "Resources/Deployments/Mission Types.md",
+    "Resources/Deployments/SPC Deployment Course.md",
+    "Resources/Deployments/Tracking Deployments.md",
     "Resources/Acronyms Abbreviations Slang.md",
     "Resources/Medals.md",
-    "Resources/Rank Responsibilities.md",
     "Resources/Useful Tools.md",
-    "The Compendium/Weapons/Primarys/Untitled.md",
     "The Compendium/How To Helldive/HtH 1 Loadouts Types.md",
-    "The Compendium/Weapons/Primarys",
-    "The Compendium/Weapons",
     "The Compendium/How To Helldive/HtH 2 Loadout Creation.md",
     "The Compendium/How To Helldive/HtH 3 Loadout Synergy.md",
+    "01-Pictures/note-end-logo.png",
+    "01-Pictures/mmw_logo.png",
+    "contributing",
+    "01-Pictures/animated-text-fill.png",
+    "The Compendium/Weapons/Primarys",
+    "The Compendium/Weapons",
     "The Compendium/How To Helldive",
     "01-Pictures/event_edit.png",
     "01-Pictures/event_create.png",
@@ -189,14 +201,6 @@
     "01-Pictures/description_long.png",
     "01-Pictures/description_short.png",
     "01-Pictures/event_start.png",
-    "01-Pictures/title.png",
-    "Pasted image 20240912135030.png",
-    "operation title field.png",
-    "Resources/Deployments/Tracking Deployments.md",
-    "101st Basic Training Program/Advanced Movement Mechanics.md",
-    "101st Basic Training Program/Basic Training Introduction.md",
-    "101st Basic Training Program/Cadets Fundamentals.md",
-    "101st Basic Training Program/Communications Fundamentals.md",
-    "101st Basic Training Program/Deployment Concept Overview.md"
+    "01-Pictures/title.png"
   ]
 }

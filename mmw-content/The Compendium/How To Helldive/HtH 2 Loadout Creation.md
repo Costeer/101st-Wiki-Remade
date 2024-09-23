@@ -19,3 +19,5 @@ Many weapons can have synergy, having weapons that match together because they f
 *Credit*
 Written by Head of Compendium SGT Styanax 
 ***
+
+![[note-end-logo.png]]

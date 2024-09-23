@@ -36,3 +36,6 @@ The deployment leader compiles a detailed report in the deployment-tallies chann
 
 ##### More Information on how to attend Deployments: [[Deployments explained]]
 ## Next [[Communications Fundamentals]]
+
+
+![[note-end-logo.png]]

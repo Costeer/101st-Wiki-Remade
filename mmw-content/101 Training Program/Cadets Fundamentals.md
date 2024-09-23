@@ -30,8 +30,7 @@
 11. Poaching is akin to betraying the very essence of democracy! Any attempt to lure away our fellow patriots will result in swift and decisive action, including expulsion from our ranks.
 
 12. Alt accounts are as welcome as a communist in a fireworks factory! One patriot, one account. Let your actions be as transparent as the ideals we uphold.
-#### Here You can find Info About:
-[[Acronyms Abbreviations Slang]]  
-  
-[[Command Structure]]
 ## Next [[Deployment Concept Overview]]
+
+
+![[note-end-logo.png]]

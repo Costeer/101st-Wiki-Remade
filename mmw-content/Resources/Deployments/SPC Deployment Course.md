@@ -107,3 +107,6 @@ If you have any other Questions feel free to message your CO’s with these Ques
 I hope you all have a Wonderful day. At ease Soldiers!  
   
 **SM Ain signing off.**
+
+
+![[note-end-logo.png]]

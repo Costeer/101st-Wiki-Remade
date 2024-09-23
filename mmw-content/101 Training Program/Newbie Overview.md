@@ -5,3 +5,7 @@ if you haven't doe so already you should read the [[Basic Training Introduction]
 #### Channel Overview 
 Sometimes the amount of channels on this server can be a bit overwhelming so you can find an [[Chanel Overview|overview]] of most of the channels on the server in this wiki 
 
+
+
+
+![[note-end-logo.png]]

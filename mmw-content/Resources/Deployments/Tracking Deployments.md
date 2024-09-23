@@ -24,3 +24,7 @@ I am also in all squads (obviously)
 
 
 
+
+
+
+![[note-end-logo.png]]

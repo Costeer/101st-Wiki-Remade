@@ -135,3 +135,5 @@ The platoon hub is only for members of your platoon and the company hub is for m
 The company order channel is for small announcements that concern mostly just your company
 
 The company structure channel is used to display the company structure
+
+![[note-end-logo.png]]

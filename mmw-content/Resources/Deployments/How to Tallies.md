@@ -11,3 +11,6 @@
 
 ****
 thanks to Second Lieutenant Stells for her contributions to this Article
+
+
+![[note-end-logo.png]]

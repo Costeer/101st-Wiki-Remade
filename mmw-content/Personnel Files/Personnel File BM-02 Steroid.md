@@ -1,6 +1,4 @@
 
-![[fingerprintingImmage.png|600]]
-
 ## 101st “Hell” Battalion
 **Military Personnel File**
 
@@ -18,7 +16,6 @@ Demonstrates exceptional battlefield awareness and strategic command, effectivel
 #### Military Career:
 Military career began under extraordinary circumstances. As a child survivor of an Automaton invasion on his homeworld, he was rescued by a Helldiver corps during a planetary liberation campaign. Raised within the corps, he gained early exposure to military operations, supporting Helldivers on super destroyers and mastering their tactics. His unique upbringing and exceptional skills led to early induction into active duty, bypassing age regulations. Quickly ascending through the ranks due to his invaluable battlefield insights, Lieutenant Steroid caught the attention of the elite 101st "Hell" Battalion. Recognized for his potential to enhance the unit, he was recruited to lead a platoon, where he has since been instrumental in mentoring emerging heroes and bolstering the battalion’s strength and reputation.
 
-![[helldiversBadgeLogo.png|200]]
 
 ### Addendum 1: 
 
@@ -82,8 +79,6 @@ After a few sessions with his psychiatrist, the boy seems to be in a better mood
 
 Steroid talked to me and said that he wants to become a helldiver, like us. I tried to tell him otherwise but he insisted. He really wants to and brought it up multiple times to the entire squad. I have talked with my higher ups and managed to organize a personal trainer for him to surprise him with his first training session tomorrow. I do have a few concerns about him starting such intensive training at his young age, but the boy has already seen things nobody should ever see in their lives and as far as I’ve noticed, he seems very capable.
 
-![[helldiversBadgeLogo.png|250]]
-
 ### Addendum 2: 
 
 Psychological development report of Jacob Jensen  
@@ -122,7 +117,6 @@ As Steroid approaches the one-year mark of his adoption into the Helldiver squad
 
 **End of Therapy**
 
-![[helldiversBadgeLogo.png|250]]
 
 ### Addendum 3:
 
@@ -186,3 +180,6 @@ Recommendations for Further Development:
 
 
 **End of report**
+
+
+![[note-end-logo.png]]
