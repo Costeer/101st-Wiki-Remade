@@ -2,6 +2,8 @@
 
 ## The official wiki oft the 101st "Hell" battalion 
 
+# https://costeer.github.io/101st-Wiki-Remade/
+
 if you want to start to contribute or if you have suggestions on additions message me (Costeer) on discord!
 
 #### build using Quartz
