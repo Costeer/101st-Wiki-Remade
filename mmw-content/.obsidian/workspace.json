@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "101 Training Program/Cadets Fundamentals.md",
+                "file": "Resources/Chain of Command/Commanding Officers.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "59313149d48d5a09",
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "101 Training Program/Cadets Fundamentals.md",
+                "file": "Resources/Chain of Command/Commanding Officers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "101 Training Program/Cadets Fundamentals.md",
+                "file": "Resources/Chain of Command/Commanding Officers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "101 Training Program/Cadets Fundamentals.md"
+                "file": "Resources/Chain of Command/Commanding Officers.md"
               }
             }
           }
@@ -160,9 +160,10 @@
   },
   "active": "b51365485dc4844d",
   "lastOpenFiles": [
+    "101 Training Program/Cadets Fundamentals.md",
+    "Resources/Chain of Command/Command Structure.md",
     "101 Training Program/Basic Training Introduction.md",
     "101 Training Program/Advanced Movement Mechanics.md",
-    "101 Training Program/Cadets Fundamentals.md",
     "101 Training Program/Communications Fundamentals.md",
     "101 Training Program/Deployment Concept Overview.md",
     "101 Training Program/Newbie Overview.md",
@@ -175,7 +176,6 @@
     "01-Pictures/Wiki Icon Medals(1).png~",
     "Chanel Overview.md",
     "contributing/Custom Formatting Features.md",
-    "Resources/Chain of Command/Command Structure.md",
     "Resources/Chain of Command/Commanding Officers.md",
     "Resources/Deployments/Deployments explained.md",
     "Resources/Deployments/How to Tallies.md",
