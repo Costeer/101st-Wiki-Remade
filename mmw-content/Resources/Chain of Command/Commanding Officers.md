@@ -53,30 +53,50 @@
 ### Ukill-Company
 
 
-| Platoon     | Squad | Rank            | Callsign      |
-| ----------- | ----- | --------------- | ------------- |
-| Highcommand |       | Battalion Major | BM-03 "Ukill" |
-|             |       | Lieutenant      |               |
-|             |       |                 |               |
-|             |       |                 |               |
-|             |       |                 |               |
-|             |       |                 |               |
-|             |       |                 |               |
-|             |       |                 |               |
-|             |       |                 |               |
-|             |       |                 |               |
-|             |       |                 |               |
+| Platoon     | Squad                     | Rank              | Callsign               |
+| ----------- | ------------------------- | ----------------- | ---------------------- |
+| Highcommand |                           | Company Capitain  | CC-09 "Marrne"         |
+| Balor       | Senior Commanding Officer | Lieutenant        |                        |
+| Balor       | Grove                     | Sergeant-Major    | SM-0225 "Walnut"       |
+| Balor       | Wraith                    | Sergeant          | SGT-4269 "Gosteyyy"    |
+| Balor       | Vanguard                  | Sergeant          | SGT-1776 "Patriot"     |
+| Balor       | Panzer                    | Sergeant          | SGT-5071 "Firefighter" |
+| Morrigan    | Senior Commanding Officer | Second Lieutenant |                        |
+| Morrigan    | Tiger                     | Sergeant-Major    |                        |
+| Morrigan    | Malicious                 | Sergeant          |                        |
+| Morrigan    | Stuart                    | Sergeant          |                        |
+| Morrigan    | Panther                   | Sergeant          |                        |
+| Taranis     |                           | Second Lieutenant |                        |
+| Taranis     |                           | Sergeant-Major    |                        |
+| Taranis     |                           | Sergeant          |                        |
+| Taranis     |                           | Sergeant          |                        |
+| Taranis     |                           | Sergeant          |                        |
 
 ### Gael Company
 
-| Platoon     | Squad                     | Rank             | Callsign          |
-| ----------- | ------------------------- | ---------------- | ----------------- |
-| Highcommand |                           | Company Capitain |                   |
-| Snow        | Senior Commanding Officer | Lieutenant       | LT-15 "Hopman"    |
-| Snow        | Junger                    | Sergeant-Major   | SM-6584 "Blobcat" |
-| Snow        |                           |                  |                   |
-| Snow        |                           |                  |                   |
-| Snow        |                           |                  |                   |
+| Platoon     | Squad                     | Rank              | Callsign          |
+| ----------- | ------------------------- | ----------------- | ----------------- |
+| Highcommand |                           | Company Capitain  |                   |
+| Snow        | Senior Commanding Officer | Lieutenant        | LT-15 "Hopman"    |
+| Snow        | Junger                    | Sergeant-Major    | SM-6584 "Blobcat" |
+| Snow        | Goethe                    | Sergeant          |                   |
+| Snow        | Galapagos                 | Sergeant          |                   |
+| Snow        | Gunderian                 | Sergeant          |                   |
+| Hunter      | Senior Commanding Officer | Second Lieutenant |                   |
+| Hunter      | Adler                     | Sergeant-Major    |                   |
+| Hunter      | Habicht                   | Sergeant          |                   |
+| Hunter      | Falke                     | Sergeant          |                   |
+| Hunter      | Eule                      | Sergeant          |                   |
+| Erin        | Senior Commanding Officer | Second Lieutenant |                   |
+| Erin        | Collins                   | Sergeant-Major    |                   |
+| Erin        | Tone                      | Sergeant          |                   |
+| Erin        | Emmet                     | Sergeant          |                   |
+| Erin        | Boru                      | Sergeant          |                   |
+| Astarte     | Senior Commanding Officer | Second Lieutenant |                   |
+| Astarte     | Calgar                    | Sergeant-Major    |                   |
+| Astarte     | Dante                     | Sergeant          |                   |
+| Astarte     | Azrael                    | Sergeant          |                   |
+| Astarte     | Kaldor                    | Sergeant          |                   |
 
 
 
