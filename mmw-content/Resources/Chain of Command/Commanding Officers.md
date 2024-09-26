@@ -23,7 +23,7 @@
 | Hydra       | Inferno                   | Sergeant          | SGT-0451 "Torch"           |
 | Hydra       | Hazard                    | Sergeant          | SGT-5691 "Doc"             |
 | Hydra       | Wyvren                    | Sergeant          | SGT-0225 "Walnut"          |
-### Gael-Company
+### Stella-Company
 
 | Platoon     | Squad                     | Rank              | Callsign                |
 | ----------- | ------------------------- | ----------------- | ----------------------- |
@@ -66,6 +66,12 @@
 |             |       |                 |               |
 |             |       |                 |               |
 |             |       |                 |               |
+
+### Gael Company
+
+| Platoon | Squad | Rank | Callsign |
+| ------- | ----- | ---- | -------- |
+|         |       |      |          |
 
 
 
