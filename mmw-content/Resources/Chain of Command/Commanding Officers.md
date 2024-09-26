@@ -27,7 +27,7 @@
 
 | Platoon     | Squad                     | Rank              | Callsign                |
 | ----------- | ------------------------- | ----------------- | ----------------------- |
-| Highcommand |                           | Capitain          | CC-05 "Stells"          |
+| Highcommand |                           | Company Capitain  | CC-05 "Stells"          |
 |             | Senior Commanding Officer | Lieutenant        |                         |
 | Penguin     | Senior Commanding Officer | Second-Lieutenant | SL-32 "Miget"           |
 | Penguin     | Warsteel                  | Sergeant-Major    | SM-8888 "Eight"         |
@@ -56,7 +56,7 @@
 | Platoon     | Squad | Rank            | Callsign      |
 | ----------- | ----- | --------------- | ------------- |
 | Highcommand |       | Battalion Major | BM-03 "Ukill" |
-|             |       |                 |               |
+|             |       | Lieutenant      |               |
 |             |       |                 |               |
 |             |       |                 |               |
 |             |       |                 |               |
@@ -69,9 +69,14 @@
 
 ### Gael Company
 
-| Platoon | Squad | Rank | Callsign |
-| ------- | ----- | ---- | -------- |
-|         |       |      |          |
+| Platoon     | Squad                     | Rank             | Callsign          |
+| ----------- | ------------------------- | ---------------- | ----------------- |
+| Highcommand |                           | Company Capitain |                   |
+| Snow        | Senior Commanding Officer | Lieutenant       | LT-15 "Hopman"    |
+| Snow        | Junger                    | Sergeant-Major   | SM-6584 "Blobcat" |
+| Snow        |                           |                  |                   |
+| Snow        |                           |                  |                   |
+| Snow        |                           |                  |                   |
 
 
 
