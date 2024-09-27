@@ -21,7 +21,7 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [Component.Graph()],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/Costeer/101st-Wiki",
+      GitHub: "https://github.com/Costeer/101st-Wiki-Remade",
       "Discord Community": "https://github.com/Costeer/101st-Wiki",
     },
   }),
