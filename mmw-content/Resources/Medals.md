@@ -1,3 +1,8 @@
+---
+tags:
+  - ressources
+  - medals
+---
 Medals demonstrate excellent dedication or service to the 101st. Medals are grouped into 4 tiers 
 - Bronze 
 - Silver 

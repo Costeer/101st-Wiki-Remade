@@ -1,3 +1,8 @@
+---
+tags:
+  - rank
+  - ressources
+---
 ## Communication and Abbreviations
 
 | Abbreviation | Meaning                   |

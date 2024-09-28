@@ -32,8 +32,9 @@ At the current time the Wiki is not finished and might still contain some mistak
 - Gael (Oversees the Project)
 - Ain [[SPC Deployment Course]]
 #### Acknowledgements
-
 - layout heavily inspired by the [Morrowind Modding wiki](https://github.com/morrowind-modding/morrowind-modding.github.io)
-![[mmw_logo.png|130]]
 
 ![[note-end-logo.png]]
+
+
+![https://brainmade.org/white-logo.svg|120](https://brainmade.org/white-logo.svg)

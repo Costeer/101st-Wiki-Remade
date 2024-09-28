@@ -1,3 +1,8 @@
+---
+tags:
+  - ressources
+  - rank
+---
 Per rank breakdown of the responsibilities faced by the holders of the rank
 
 <h2 style="color:rgb(170, 114, 213)">Cadet</h2>

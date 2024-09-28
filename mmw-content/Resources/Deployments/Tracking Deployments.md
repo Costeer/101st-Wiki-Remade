@@ -1,7 +1,7 @@
 this is a suggestion on how to keep track on deployments You are not required to keep track but it might be helpful to know
 
 #### Deployments done in the 101st
-I am also in all squads (obviously)
+I (costeer) am also in all squads (obviously)
 
 | Date/Time                        | Planet         | Diff | Squad                            | Leader   | Operation                             |
 | :------------------------------- | :------------- | :--- | :------------------------------- | :------- | :------------------------------------ |

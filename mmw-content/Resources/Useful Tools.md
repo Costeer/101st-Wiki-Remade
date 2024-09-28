@@ -1,3 +1,8 @@
+---
+tags:
+  - tools
+  - ressources
+---
 ## Index
 - [[#Color your Discord messages]]
 - [[#Date Picker]]
