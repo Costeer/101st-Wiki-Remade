@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Resources/Rank Responsibilities.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:ressources",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Resources/Rank Responsibilities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Resources/Rank Responsibilities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Resources/Rank Responsibilities.md"
               }
             }
           }
@@ -146,37 +146,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b51365485dc4844d",
+  "active": "569d8c2a474e1c92",
   "lastOpenFiles": [
-    "101 Training Program/Advanced Movement Mechanics.md",
-    "101 Training Program/Basic Training Introduction.md",
-    "The Compendium/Compendium Index.md",
-    "Chanel Overview.md",
-    "index.md",
-    "The Compendium/How To Helldive/HtH 2 Loadout Creation.md",
-    "The Compendium/How To Helldive/HtH 3 Loadout Synergy.md",
+    "101 Training Program/Communications Fundamentals.md",
+    "101 Training Program/Deployment Concept Overview.md",
+    "101 Training Program/Newbie Overview.md",
+    "contributing/Custom Formatting Features.md",
+    "Personnel Files/Personnel File BM-02 Steroid.md",
+    "Personnel Files/Personnel File CC-07 Crumbs.md",
+    "Personnel Files/Personnel File CC-08 Gael.md",
+    "Resources/Chain of Command/Commanding Officers.md",
+    "Resources/Chain of Command/Command Structure.md",
+    "Resources/Deployments/Deployments explained.md",
+    "Resources/Deployments/How to Tallies.md",
+    "Resources/Deployments/SPC Deployment Course.md",
+    "Resources/Deployments/Mission Types.md",
     "Resources/Deployments/Tracking Deployments.md",
     "Resources/Acronyms Abbreviations Slang.md",
     "Resources/Medals.md",
     "Resources/Rank Responsibilities.md",
     "Resources/Useful Tools.md",
+    "The Compendium/Compendium Index.md",
+    "index.md",
+    "101 Training Program/Advanced Movement Mechanics.md",
+    "101 Training Program/Basic Training Introduction.md",
+    "Chanel Overview.md",
+    "The Compendium/How To Helldive/HtH 2 Loadout Creation.md",
+    "The Compendium/How To Helldive/HtH 3 Loadout Synergy.md",
     "The Compendium/How To Helldive/HtH 1 Loadouts Types.md",
-    "Resources/Chain of Command/Commanding Officers.md",
-    "Resources/Chain of Command/Command Structure.md",
-    "101 Training Program/Cadets Fundamentals.md",
-    "101 Training Program/Communications Fundamentals.md",
-    "101 Training Program/Deployment Concept Overview.md",
-    "101 Training Program/Newbie Overview.md",
-    "Personnel Files/Personnel File BM-02 Steroid.md",
-    "Personnel Files/Personnel File CC-07 Crumbs.md",
-    "Personnel Files/Personnel File CC-08 Gael.md",
     "01-Pictures/Wiki Icons.png~",
     "01-Pictures/Wiki Icon WIP(2).png~",
     "01-Pictures/Wiki Icon Medals(1).png~",
-    "contributing/Custom Formatting Features.md",
-    "Resources/Deployments/Deployments explained.md",
-    "Resources/Deployments/How to Tallies.md",
-    "Resources/Deployments/Mission Types.md",
     "01-Pictures/note-end-logo.png",
     "01-Pictures/mmw_logo.png",
     "contributing",

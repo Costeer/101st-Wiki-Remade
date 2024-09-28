@@ -1,5 +1,7 @@
 ---
-tags: 
+tags:
+  - guide
+  - contributing
 description: Custom formatting features implemented for use in the Wiki
 title: Custom Formatting Features
 aliases:

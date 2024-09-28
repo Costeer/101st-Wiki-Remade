@@ -1,3 +1,9 @@
+---
+tags:
+  - deployments
+  - tallies
+  - ressources
+---
 ### Enemy Agnostic 
 
 | Pump Fuel to ICBM            |

@@ -1,3 +1,8 @@
+---
+tags:
+  - ressources
+  - deployments
+---
 this is a suggestion on how to keep track on deployments You are not required to keep track but it might be helpful to know
 
 #### Deployments done in the 101st

@@ -1,3 +1,8 @@
+---
+tags:
+  - tallies
+  - ressources
+---
 ### Basics 
 - Use a [[00 Default|template]]
 - Read this Guide by SM Ain [[SPC Deployment Course]]

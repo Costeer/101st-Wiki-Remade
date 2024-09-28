@@ -1,3 +1,7 @@
+---
+tags:
+  - personnel-file
+---
 
 ## 101st “Hell” Battalion
 **Military Personnel File**
