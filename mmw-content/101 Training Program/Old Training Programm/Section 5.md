@@ -73,4 +73,4 @@ This command is an alternative to the Breach Doorway command for use with corner
 ![[Pasted image 20240814154505.png]]
 
 ## Want to learn more about the channels in the Server?
-[[Chanel Overview]]
+[[channel-overview]]

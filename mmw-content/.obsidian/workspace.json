@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Rank Responsibilities.md",
+                "file": "Resources/useful-tools.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "89ab78b813f9fab1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Contributing/note-properties.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 275.5
   },
   "right": {
     "id": "59313149d48d5a09",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Rank Responsibilities.md",
+                "file": "Contributing/note-properties.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Rank Responsibilities.md",
+                "file": "Contributing/note-properties.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Rank Responsibilities.md"
+                "file": "Contributing/note-properties.md"
               }
             }
           }
@@ -146,40 +159,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "569d8c2a474e1c92",
+  "active": "89ab78b813f9fab1",
   "lastOpenFiles": [
-    "101 Training Program/Communications Fundamentals.md",
-    "101 Training Program/Deployment Concept Overview.md",
-    "101 Training Program/Newbie Overview.md",
-    "contributing/Custom Formatting Features.md",
-    "Personnel Files/Personnel File BM-02 Steroid.md",
-    "Personnel Files/Personnel File CC-07 Crumbs.md",
-    "Personnel Files/Personnel File CC-08 Gael.md",
-    "Resources/Chain of Command/Commanding Officers.md",
-    "Resources/Chain of Command/Command Structure.md",
-    "Resources/Deployments/Deployments explained.md",
-    "Resources/Deployments/How to Tallies.md",
-    "Resources/Deployments/SPC Deployment Course.md",
-    "Resources/Deployments/Mission Types.md",
-    "Resources/Deployments/Tracking Deployments.md",
-    "Resources/Acronyms Abbreviations Slang.md",
-    "Resources/Medals.md",
-    "Resources/Rank Responsibilities.md",
-    "Resources/Useful Tools.md",
-    "The Compendium/Compendium Index.md",
+    "Resources/Deployments/departure-course.md",
+    "Resources/Deployments/deployment-tallie-guide.md",
+    "Resources/rank-responsibilities.md",
+    "Resources/medals.md",
+    "Resources/deployment-course.md",
+    "Resources/acronyms-abbreviations-slang.md",
+    "Personnel Files/personnel-file-crumbs.md",
+    "Contributing/custom-formatting-features.md",
+    "101 Training Program/cadets-fundamentals.md",
+    "101 Training Program/communications-fundamentals.md",
+    "101 Training Program/deployment-concept-overview.md",
     "index.md",
-    "101 Training Program/Advanced Movement Mechanics.md",
-    "101 Training Program/Basic Training Introduction.md",
-    "Chanel Overview.md",
-    "The Compendium/How To Helldive/HtH 2 Loadout Creation.md",
-    "The Compendium/How To Helldive/HtH 3 Loadout Synergy.md",
-    "The Compendium/How To Helldive/HtH 1 Loadouts Types.md",
+    "channel-overview.md",
+    "00-Meta/Deployment Signups.md",
+    "101 Training Program/advanced-movement-mechanics.md",
+    "101 Training Program/basic-training-introduction.md",
+    "101 Training Program/newbie-overview.md",
+    "Personnel Files/personnel-file-steroid.md",
+    "Personnel Files/personnel-file-gael.md",
+    "Resources/Chain of Command/commanding-officers.md",
+    "Resources/Deployments/Templates/deployment-templates.md",
+    "Resources/Deployments/mission-types.md",
+    "Resources/Deployments/Templates/00 Default.md",
+    "Resources/useful-tools.md",
+    "Resources/Deployments/Templates/tally-modified.md",
+    "Resources/points.md",
+    "01-Pictures/test-properties.png",
+    "01-Pictures/empty-properties.png",
+    "Pasted image 20240929234820.png",
     "01-Pictures/Wiki Icons.png~",
     "01-Pictures/Wiki Icon WIP(2).png~",
     "01-Pictures/Wiki Icon Medals(1).png~",
     "01-Pictures/note-end-logo.png",
     "01-Pictures/mmw_logo.png",
-    "contributing",
+    "Contributing",
     "01-Pictures/animated-text-fill.png",
     "The Compendium/Weapons/Primarys",
     "The Compendium/Weapons",
@@ -187,9 +203,6 @@
     "01-Pictures/event_edit.png",
     "01-Pictures/event_create.png",
     "Pasted image 20240912140216.png",
-    "01-Pictures/description_long.png",
-    "01-Pictures/description_short.png",
-    "01-Pictures/event_start.png",
-    "01-Pictures/title.png"
+    "01-Pictures/description_long.png"
   ]
 }

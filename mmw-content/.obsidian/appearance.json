@@ -9,5 +9,7 @@
     "mmw-kbd-styling",
     "mmw-maintenance-template-callout",
     "mmw-transclusion-adjustments"
-  ]
+  ],
+  "theme": "obsidian",
+  "cssTheme": "Vanilla AMOLED"
 }
