@@ -8,7 +8,7 @@ As proud members of the 101st “Hell” Battalion, your mission is clear: prior
 
 No matter if you're a Shiny private or a decorated captain in our glorious 101st “Hell” Battalion, one thing remains steadfast: you must follow our rules with the reverence of a pilgrim at the Liberty Bell and treat your comrades with the respect befitting heroes of democracy, regardless of their stripes or stars. Whether you're a rookie fresh from boot camp or a seasoned veteran with more medals than a Fourth of July parade, in our battalion, every patriot is equal in the eyes of High Command!
 
-![[code-of-conduct|no-title no-title]]
+![[code-of-conduct|clean]]
 ## Next [[deployment-concept-overview|Deployment Concept Overview]]
 
 

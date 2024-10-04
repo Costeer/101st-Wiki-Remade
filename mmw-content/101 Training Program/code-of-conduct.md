@@ -1,8 +1,6 @@
 ---
 title: Code of Conduct
 ---
-## Code of Conduct
-
 1. Uphold and salute your Commanding Officers with unwavering respect and obedience, for they are the mighty beacons guiding our glorious crusade. Follow the chain of command diligently, as a true patriot would.
 
 2. Stay as active as a hyper charged Patriot Armor! If you're to embark on a covert mission away from the battlefield for an extended period, report your absence promptly. Remember, inactivity is akin to surrendering to the enemy and will result in assignment to the dreaded Freedom Camp.
