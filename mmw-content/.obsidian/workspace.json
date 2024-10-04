@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "101 Training Program/cadet-fundamentals.md",
+                "file": "Resources/medals.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "101 Training Program/cadet-fundamentals.md",
+                "file": "Resources/medals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "101 Training Program/cadet-fundamentals.md",
+                "file": "Resources/medals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "101 Training Program/cadet-fundamentals.md"
+                "file": "Resources/medals.md"
               }
             }
           }
@@ -161,8 +161,11 @@
   },
   "active": "8e6f0e7ebe10cac4",
   "lastOpenFiles": [
-    "101 Training Program/code-of-conduct.md",
+    "index.md",
+    "Untitled.md",
+    "channel-overview.md",
     "101 Training Program/cadet-fundamentals.md",
+    "101 Training Program/code-of-conduct.md",
     "101 Training Program/basic-training-introduction.md",
     "101 Training Program/communication-fundamentals.md",
     "101 Training Program/deployment-concept-overview.md",
@@ -185,9 +188,7 @@
     "Contributing/quick-start-guide-obsidian.md",
     "Personnel Files/personnel-file-crumbs.md",
     "Contributing/Untitled.md",
-    "index.md",
     "The Compendium/compendium-index.md",
-    "channel-overview.md",
     "Resources/Deployments/departure-course.md",
     "Resources/Deployments/deployment-tallie-guide.md",
     "Resources/rank-responsibilities.md",
@@ -196,7 +197,6 @@
     "Resources/acronyms-abbreviations-slang.md",
     "Personnel Files/personnel-file-steroid.md",
     "Personnel Files/personnel-file-gael.md",
-    "Resources/Chain of Command/commanding-officers.md",
     "01-Pictures/Wiki Icons.png~",
     "01-Pictures/Wiki Icon WIP(2).png~",
     "01-Pictures/Wiki Icon Medals(1).png~",

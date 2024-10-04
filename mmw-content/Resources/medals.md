@@ -37,8 +37,9 @@ In this intricate tapestry of valor and recognition, Commanding Officers meticul
 
 **Requirements:** Active member, Hosts deployments (if able) and doesn’t leech, responds to deployments, attends events and helps with documentation.
 
-| Bronze Service Medal                                         |
+|                                                              |
 | ------------------------------------------------------------ |
+| Bronze Service Medal                                         |
 | Silver Service Medal (must have bronze service medal before) |
 | Gold Service Medal (must have silver service medal before)   |
 
@@ -53,8 +54,9 @@ Recruitment Medals are awarded for introducing large numbers of new cadets into 
 
 Make sure you invite people with your own link so we can track it!
 
-| Bronze Service Medal                                         | 5 members recruited  |
+| Medal Type                                                   | Requirements         |
 | ------------------------------------------------------------ | -------------------- |
+| Bronze Service Medal                                         | 5 members recruited  |
 | Silver Service Medal (must have bronze service medal before) | 12 members recruited |
 | Gold Service Medal (must have silver service medal before)   | 20 members recruited |
 ***
@@ -65,8 +67,9 @@ Make sure you invite people with your own link so we can track it!
 
 Deployment Host Medals are awarded for hosting large numbers of deployments with your members. Those interested in Deployment Host Medals should keep a log of contracts they run through the deployment-tallies channel in the Discord.
 
-| Bronze Service Medal                                         | 8 deployments hosted  |
+| Medal Type                                                   | Requirements          |
 | ------------------------------------------------------------ | --------------------- |
+| Bronze Service Medal                                         | 8 deployments hosted  |
 | Silver Service Medal (must have bronze service medal before) | 24 deployments hosted |
 | Gold Service Medal (must have silver service medal before)   | 56 deployments hosted |
 ***
@@ -77,8 +80,9 @@ Deployment Host Medals are awarded for hosting large numbers of deployments with
 
 Deployment Attendance Medals are awarded for attending large numbers of deployments, including as the deployment leader. Those interested in Deployment Attendance Medals should keep a log of deployments they attend, noting the date and the deployment leader keeping an eye out for the deployment tallies channel in the Discord.
 
-| Bronze Service Medal                                         | 15 Deployments attended |
+| Medal Type                                                   | Requirements            |
 | ------------------------------------------------------------ | ----------------------- |
+| Bronze Service Medal                                         | 15 Deployments attended |
 | Silver Service Medal (must have bronze service medal before) | 35 Deployments attended |
 | Gold Service Medal (must have silver service medal before)   | 70 Deployments attended |
 
@@ -88,12 +92,13 @@ Deployment Attendance Medals are awarded for attending large numbers of deployme
 *available to*
 **Everyone**
 
-Media Medals are awarded for receiving large numbers of views on social media, including instagram, tik-tok, X, youtube. Keep in mind that only the content that is related strictly to the 101st Hell Battalion counts towards this medal!
+Media Medals are awarded for receiving large numbers of views on social media, including instagram, tik-tok, twitter, youtube. Keep in mind that only the content that is related strictly to the 101st Hell Battalion counts towards this medal!
 
-| Bronze Service Medal | 800 views |
-| -------------------- | --------- |
-| Silver Service Medal | 2k views  |
-| Gold Service Medal   | 5k views  |
+| Medal Type           | Requirements |
+| -------------------- | ------------ |
+| Bronze Service Medal | 800 views    |
+| Silver Service Medal | 2k views     |
+| Gold Service Medal   | 5k views     |
 ***
 #### Trainer Medals
 
@@ -102,11 +107,12 @@ Media Medals are awarded for receiving large numbers of views on social media, i
 
 Medal is awarded to drill sergeants who have taken new cadets through training drops and written the subsequent tally for said drops. The count of cadets per drop does not matter, the number of training drops is what counts toward the medal.
 
-| Bronze Service Medal | 8 training drops  |
+| Medal Type           | Requirements      |
 | -------------------- | ----------------- |
+| Bronze Service Medal | 8 training drops  |
 | Silver Service Medal | 16 training drops |
 | Gold Service Medal   | 32 training drops |
-| Diamond Medal        | 4 Gold Medals     |
+
 ***
 
 #### Diamond Medals

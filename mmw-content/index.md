@@ -35,6 +35,3 @@ At the current time the Wiki is not finished and might still contain some mistak
 - layout heavily inspired by the [Morrowind Modding wiki](https://github.com/morrowind-modding/morrowind-modding.github.io)
 
 ![[note-end-logo.png]]
-
-
-![https://brainmade.org/white-logo.svg|120](https://brainmade.org/white-logo.svg)
