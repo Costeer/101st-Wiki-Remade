@@ -38,7 +38,7 @@ With precision, each member of the unit contributes their insights and observati
 The deployment leader compiles a detailed report in the deployment-tallies channel, often including screenshots or Recordings to illuminate the end result. This report fosters transparency and accountability, guiding our unit forward with lessons learned. In these digital records, our camaraderie and spirit endure, resilient in the face of adversity.
 
 ##### More Information on how to attend Deployments: [[Deployment Signups]]
-## Next [[communications-fundamentals]]
+## Next [[communication-fundamentals]]
 
 
 ![[note-end-logo.png]]

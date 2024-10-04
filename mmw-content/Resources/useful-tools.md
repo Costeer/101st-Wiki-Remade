@@ -22,13 +22,13 @@ title: Useful Tools
 
 ## Helldiver Training Manual
 
-| ![[Pasted image 20240910164658.png]]  |
+| ![[helldivers-manual.png]]  |
 | ------------------------------------- |
 | https://helldiverstrainingmanual.com/ |
 
 ## Helldivers Companion
 
-| ![[Pasted image 20240910165742.png]] |
+| ![[war-map.png]] |
 | ------------------------------------ |
 | https://helldiverscompanion.com/#    |
 

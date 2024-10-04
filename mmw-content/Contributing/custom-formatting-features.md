@@ -194,7 +194,7 @@ Use [[custom-formatting-features#Callout Positioning|Callout Positioning]] metad
 
 A wiki-style infobox displayed in the top right of an article to summarize data from the article, such as requirements for a tutorial article.
 
-> [!infobox]
+> [!infobox|right]
 > 
 > ## Infobox
 > 

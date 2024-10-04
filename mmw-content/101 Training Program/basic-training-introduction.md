@@ -1,7 +1,10 @@
 ---
 title: Basic Training Introduction
 ---
-<span style="color:rgb(138, 138, 138)">For use by all members of the 101st “Hell” Battalion. Completion of this program ensures a new cadet gains membership”. Inspired by the 51st “Inferno” Battalion.</span>
+***
+
+<span style="color:rgb(138, 138, 138)">For use by all members of the 101st “Hell” Battalion. Completion of this program ensures a new cadet gains membership. Inspired by the 51st “Inferno” Battalion.</span>
+***
 
 Welcome to the 101st Basic Cadet Training (BCT) Program where we mold mere mortals into the fearless defenders of liberty and democracy. Get ready to embrace the irony of sweating profusely while reciting the Pledge of Allegiance.
 
@@ -14,7 +17,7 @@ Forget about the pursuit of happiness; in our program, we pursue physical exhaus
 So congratulations, cadets, on embarking on this epic journey of self-discovery and profound suffering. Remember, as you slog through the trenches of BCT, you're not just becoming soldiers – you're becoming the living embodiment of sarcasm, patriotism, and the Super Earth way.
 
 The Basic Training is divided into 5 Sections and can be read in any order alto reading 
-## [[cadets-fundamentals]] 
+## [[cadet-fundamentals|Cadet Fundamentals]] 
 
 first is recommended as it explains some common terminology
 

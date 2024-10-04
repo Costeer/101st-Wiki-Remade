@@ -37,3 +37,6 @@ but we know that that would not look good on the Website so changing the display
 the aliases property is used to make the note easier to find when a user is using the search function of the wiki. 
 Here you can add words (or sentences) to make a note that is called something like
 "Where to find Samples" pop up in the search results when someone types "Research" into the Search bar.
+
+### Tags
+the tags property is nothing other that something like #deployments being added to the note it functions as a link between notes for people that want to dive into a topic for example every note that has something to do with medals gets the #medals tag which makes them easier to find for people looking into the medals system
