@@ -19,16 +19,13 @@ This wiki serves as a overview for all of the different resources you can find i
 
 At the current time the Wiki is not finished and might still contain some mistakes if you find anything that doesn't look right please message one of the Current maintainers of the Wiki
 
-
-![[under-construction-banner.gif]]
-
 ***
 
 #### Current Maintainers of the Wiki:
 - Costeer (Head of Wiki)
 - Titan
 #### Thanks to the contributors of the Wiki
-- Stells [[departure-course]]
+- Stells 
 - Styanax (Head of the Compendium)
 - Gael (Oversees the Project)
 - Ain [[deployment-course]]

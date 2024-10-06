@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "101 Training Program/advanced-movement-mechanics.md",
+                "file": "Resources/Deployments/departure-course.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "101 Training Program/advanced-movement-mechanics.md",
+                "file": "Resources/Deployments/departure-course.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "101 Training Program/advanced-movement-mechanics.md",
+                "file": "Resources/Deployments/departure-course.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "101 Training Program/advanced-movement-mechanics.md"
+                "file": "Resources/Deployments/departure-course.md"
               }
             }
           }
@@ -161,6 +161,9 @@
   },
   "active": "8e6f0e7ebe10cac4",
   "lastOpenFiles": [
+    "index.md",
+    "01-Pictures/under-construction-banner.gif",
+    "101 Training Program/advanced-movement-mechanics.md",
     "101 Training Program/basic-training-introduction.md",
     "101 Training Program/cadet-fundamentals.md",
     "101 Training Program/code-of-conduct.md",
@@ -184,13 +187,9 @@
     "Resources/Deployments/departure-course.md",
     "The Compendium/compendium-index.md",
     "channel-overview.md",
-    "index.md",
-    "01-Pictures/under-construction-banner.gif",
     "01-Pictures/compendium-header.png",
     "Pasted image 20241006030202.png",
     "under-construction-banner 1.gif",
-    "Untitled.md",
-    "Personnel Files/personnel-file-crumbs.md",
     "Contributing/clarifications",
     "01-Pictures/101stSkullAngwy.png",
     "01-Pictures/animated-text-fill.png",

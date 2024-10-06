@@ -5,7 +5,7 @@ tags:
 title: Departure Course
 ---
 
-![[under-construction-banner.gif]]
+![[under-construction-banner.gif|900]]
 
 This will be a short course or Reminder on how to create and manage Departure Notices. If you have any Questions after this please feel free to message your Commanding Officer and if they are not reachable the Person above them.
 
