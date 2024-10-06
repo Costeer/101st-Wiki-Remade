@@ -7,6 +7,8 @@ title: Useful Tools
 ## Index
 - [[#Color your Discord messages]]
 - [[#Date Picker]]
+- [[#Helldiver Training Manual]]
+- [[#Helldivers Companion]]
 
 ## Color your Discord messages
 

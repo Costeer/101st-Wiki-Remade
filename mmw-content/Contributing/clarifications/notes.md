@@ -1,0 +1,1 @@
+Notes are the files people can view in the wiki and aren't used for wiki editing stuff

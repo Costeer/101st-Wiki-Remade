@@ -2,7 +2,7 @@
 tags:
   - ressources
   - medals
-title: Medals
+title: Medal System
 ---
 Medals demonstrate excellent dedication or service to the 101st. Medals are grouped into 4 tiers 
 - Bronze 
@@ -11,8 +11,7 @@ Medals demonstrate excellent dedication or service to the 101st. Medals are grou
 - [[#Diamond Medals|Diamond]] 
 
 ##### **Non SPC and J/SCO**
-
-the only medals you can't get are the [[#Deployment Host Medals]], and the [[#Trainer Medals]] to get them you need to climb the ranks of the Battalion
+the only medals you can't get are the [[#Deployment Host Medals]], and the [[#Trainer Medals]] to get them you will need to climb the ranks of the Battalion
 
 
 #### Index

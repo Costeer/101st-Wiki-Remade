@@ -1,6 +1,9 @@
 ---
 title: Quick start Guide Obsidian
 ---
+
+![[under-construction-banner.gif]]
+
 ### What is [Obsidian](https://obsidian.md/)
 besides the mineral Obsidian is a electron based Markdown editor.
 If only half of those words made sense to you then don't worry i will explain most of them.

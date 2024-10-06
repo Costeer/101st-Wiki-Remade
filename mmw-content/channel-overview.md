@@ -1,6 +1,8 @@
 ---
 title: Chanel Overview
 ---
+
+![[under-construction-banner.gif]]
 ***
 ## Server Stats
 

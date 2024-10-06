@@ -3,7 +3,7 @@ title: Code of Conduct
 ---
 1. Uphold and salute your Commanding Officers with unwavering respect and obedience, for they are the mighty beacons guiding our glorious crusade. Follow the chain of command diligently, as a true patriot would.
 
-2. Stay as active as a hyper charged Patriot Armor! If you're to embark on a covert mission away from the battlefield for an extended period, report your absence promptly. Remember, inactivity is akin to surrendering to the enemy and will result in assignment to the dreaded Freedom Camp.
+2. Stay as active as a hyper-charged Patriot Armor! If you're to embark on a covert mission away from the battlefield for an extended period, report your absence promptly. Remember, inactivity is akin to surrendering to the enemy and will result in assignment to the dreaded Freedom Camp.
 
 3. Let freedom reign, but keep it PG-13! No hint of nudity, lewdness, or anything that might make General Brash blush. We're all about spreading democracy, not indecency. And remember, even your profile picture should be as pure as the stars and stripes.
 
@@ -17,7 +17,7 @@ title: Code of Conduct
 
 8. Mutiny and dissent are the enemies of democracy! Any talk of revolt or undermining our Commanding Officers will be met with the most severe penalties, from demotion to expulsion from our ranks.
 
-9. Time is precious, like the last charge of a Liberty Launcher. Don't waste the valuable time of our staff with frivolous inquiries. Consult our documents and basic-info before raising a flag of concern.
+9. Time is precious, like the last charge of a Liberty Launcher. Don't waste the valuable time of our staff with frivolous inquiries. Consult our documents and basic info before raising a flag of concern.
 
 10. Loyalty is our currency! Patriots of the 101st shall not double-dip in other milsims or clans. Our allegiance lies solely with the cause of spreading democracy. Starsims and other games are exempt, for freedom knows no bounds.
 
