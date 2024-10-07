@@ -23,12 +23,14 @@ At the current time the Wiki is not finished and might still contain some mistak
 
 #### Current Maintainers of the Wiki:
 - Costeer (Head of Wiki)
-- Titan
 #### Thanks to the contributors of the Wiki
 - Stells 
 - Styanax (Head of the Compendium)
 - Gael (Oversees the Project)
 - Ain [[deployment-course]]
+
+##### Past Maintainers:
+- Titan
 #### Acknowledgements
 - layout heavily inspired by the [Morrowind Modding wiki](https://github.com/morrowind-modding/morrowind-modding.github.io)
 
