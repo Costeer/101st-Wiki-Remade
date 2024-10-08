@@ -2,7 +2,7 @@
 tags:
   - HTH
   - Compendium
-title: HtH 1 Loadouts Types
+title: 1 Loadouts Types
 ---
 Hello Divers! This is Loadouts explained. This document will show you what types of weapons there are and in Part 2 will show you how to make a proper loadout. As you may know, weapons can fit into different types at the same time.
 

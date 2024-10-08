@@ -48,7 +48,7 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   right: [
     Component.MobileOnly(Component.Explorer({
-      folderClickBehavior: "link", 
+       
       filterFn: (node) => node.name !== "templates",
     })),
     Component.Search(),
@@ -64,7 +64,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.DesktopOnly(Component.Explorer({
-      folderClickBehavior: "link", 
+      folderClickBehavior: "expand",        
       filterFn: (node) => node.name !== "templates",
     })),
   ],

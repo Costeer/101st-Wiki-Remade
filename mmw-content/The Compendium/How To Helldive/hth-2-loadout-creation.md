@@ -2,7 +2,7 @@
 tags:
   - Compendium
   - HTH
-title: HtH 2 Loadout Creation
+title: 2 Loadout Creation
 ---
 **DISCLAIMER: PLEASE READ** 
 **[[hth-1-loadout-types]]**

@@ -12,22 +12,22 @@ title: Useful Tools
 
 ## Color your Discord messages
 
-| ![[colorpickerimmage.png]]                   |
+| ![[colorpickerimmage.png]]                             |
 | ------------------------------------------------------ |
 | https://rebane2001.com/discord-colored-text-generator/ |
-
+***
 ## Discord Date Picker
 
-| ![[datepickerimmage.png]] |
-| ------------------------------------ |
-| https://discord-date.shyked.fr/      |
-
+| ![[datepickerimmage.png]]       |
+| ------------------------------- |
+| https://discord-date.shyked.fr/ |
+***
 ## Helldiver Training Manual
 
-| ![[helldivers-manual.png]]  |
+| ![[helldivers-manual.png]]            |
 | ------------------------------------- |
 | https://helldiverstrainingmanual.com/ |
-
+***
 ## Helldivers Companion
 
 | ![[war-map.png]] |
