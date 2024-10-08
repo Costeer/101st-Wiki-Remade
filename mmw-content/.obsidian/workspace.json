@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "H.E.A.T./heat-resources.md",
+                "file": "H.E.A.T./heat-index.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "H.E.A.T./heat-resources.md",
+                "file": "H.E.A.T./heat-index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "H.E.A.T./heat-resources.md",
+                "file": "H.E.A.T./heat-index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "H.E.A.T./heat-resources.md"
+                "file": "H.E.A.T./heat-index.md"
               }
             }
           }
@@ -173,19 +173,20 @@
   },
   "active": "8e6f0e7ebe10cac4",
   "lastOpenFiles": [
-    "H.E.A.T./heat-index.md",
-    "H.E.A.T./frequently-asked-questions-heat.md",
-    "01-Pictures/heat-please.png",
     "H.E.A.T./heat-resources.md",
+    "H.E.A.T./frequently-asked-questions-heat.md",
+    "H.E.A.T./heat-index.md",
+    "Resources/Deployments/deployment-tallie-guide.md",
+    "Resources/useful-tools.md",
+    "channel-overview.md",
+    "01-Pictures/heat-please.png",
     "Contributing/custom-formatting-features.md",
     "101 Training Program/cadet-fundamentals.md",
     "The Compendium/How To Helldive/hth-3-loadout-synergy.md",
     "H.E.A.T.",
     "The Compendium/How To Helldive/hth-1-loadout-types.md",
     "The Compendium/How To Helldive/hth-2-loadout-creation.md",
-    "Resources/useful-tools.md",
     "Resources/rank-responsibilities.md",
-    "channel-overview.md",
     "index.md",
     "Resources/Deployments/departure-course.md",
     "01-Pictures/under-construction-banner.gif",

@@ -1,3 +1,6 @@
+---
+title: FAQ
+---
 **Q:** Where can I find in-depth information?
 **A:**  [[heat-resources]]
 
@@ -23,3 +26,7 @@
 
 *Temporary* **Q:** What if I want T2 training?
 **A:** As of day of launch, T2 is developed but not validated. We are prioritizing T1 training and there is no reward for being first, so be patient and learn skills in the meantime. Our division is trying to avoid burnout that has happened to many managers and hosts.
+
+
+
+![[note-end-logo.png]]
