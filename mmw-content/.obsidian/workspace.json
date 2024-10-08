@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "H.E.A.T./heat-index.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "H.E.A.T./heat-index.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "H.E.A.T./heat-index.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "H.E.A.T./heat-index.md"
+                "file": "index.md"
               }
             }
           }
@@ -173,50 +173,51 @@
   },
   "active": "8e6f0e7ebe10cac4",
   "lastOpenFiles": [
-    "H.E.A.T./heat-resources.md",
-    "H.E.A.T./frequently-asked-questions-heat.md",
-    "H.E.A.T./heat-index.md",
-    "Resources/Deployments/deployment-tallie-guide.md",
-    "Resources/useful-tools.md",
     "channel-overview.md",
-    "01-Pictures/heat-please.png",
-    "Contributing/custom-formatting-features.md",
-    "101 Training Program/cadet-fundamentals.md",
+    "The Compendium/compendium-index.md",
     "The Compendium/How To Helldive/hth-3-loadout-synergy.md",
-    "H.E.A.T.",
-    "The Compendium/How To Helldive/hth-1-loadout-types.md",
     "The Compendium/How To Helldive/hth-2-loadout-creation.md",
+    "The Compendium/How To Helldive/hth-1-loadout-types.md",
+    "Resources/useful-tools.md",
     "Resources/rank-responsibilities.md",
-    "index.md",
-    "Resources/Deployments/departure-course.md",
-    "01-Pictures/under-construction-banner.gif",
-    "101 Training Program/advanced-movement-mechanics.md",
-    "101 Training Program/basic-training-introduction.md",
-    "101 Training Program/code-of-conduct.md",
-    "101 Training Program/deployment-concept-overview.md",
-    "101 Training Program/newbie-overview.md",
-    "101 Training Program/communication-fundamentals.md",
-    "Contributing/note-properties.md",
+    "01-Pictures/header-rresp.png",
+    "Resources/medals.md",
+    "Resources/deployment-course.md",
+    "Resources/acronyms-abbreviations-slang.md",
+    "H.E.A.T./heat-resources.md",
+    "01-Pictures/header-heatres.png",
+    "H.E.A.T./heat-index.md",
+    "H.E.A.T./frequently-asked-questions-heat.md",
     "Contributing/quick-start-guide-obsidian.md",
-    "Contributing/clarifications/notes.md",
-    "Contributing/clarifications/tags.md",
-    "Resources/Chain of Command/commanding-officers.md",
+    "Contributing/note-properties.md",
+    "Contributing/custom-formatting-features.md",
+    "101 Training Program/newbie-overview.md",
+    "101 Training Program/deployment-concept-overview.md",
+    "01-Pictures/header-chao.png",
+    "01-Pictures/header-loads.png",
+    "01-Pictures/header-loadc.png",
+    "01-Pictures/header-loadt.png",
+    "01-Pictures/header-uset.png",
+    "01-Pictures/header-rankr.png",
+    "Resources/Deployments/departure-course.md",
+    "01-Pictures/header-medals.png",
+    "01-Pictures/header-deplc.png",
+    "Resources/Deployments/mission-types.md",
+    "Resources/Deployments/deployment-tallie-guide.md",
     "Resources/Chain of Command/Command Structure.md",
-    "01-Pictures/compendium-header.png",
-    "Pasted image 20241006030202.png",
-    "under-construction-banner 1.gif",
+    "Resources/Chain of Command/commanding-officers.md",
+    "Personnel Files/personnel-file-crumbs.md",
+    "Personnel Files/personnel-file-gael.md",
+    "Personnel Files/personnel-file-steroid.md",
+    "01-Pictures/header-dco.png~",
+    "01-Pictures/header-coc.png~",
+    "01-Pictures/header-bti.png~",
+    "H.E.A.T.",
     "Contributing/clarifications",
-    "01-Pictures/101stSkullAngwy.png",
-    "01-Pictures/animated-text-fill.png",
-    "01-Pictures/Diagonals(2).png",
-    "01-Pictures/empty-properties.png",
-    "01-Pictures/description_long.png",
     "01-Pictures/Wiki Icons.png~",
     "01-Pictures/Wiki Icon WIP(2).png~",
     "01-Pictures/Wiki Icon Medals(1).png~",
     "Contributing",
-    "The Compendium/Weapons/Primarys",
-    "The Compendium/Weapons",
-    "The Compendium/How To Helldive"
+    "The Compendium/Weapons/Primarys"
   ]
 }

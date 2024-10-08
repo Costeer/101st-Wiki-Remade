@@ -17,6 +17,8 @@ This wiki serves as a overview for all of the different resources you can find i
 
 ***
 
+We are always looking for Interested Helldivers who want to help maintaining the wiki 
+
 At the current time the Wiki is not finished and might still contain some mistakes if you find anything that doesn't look right please message one of the Current maintainers of the Wiki
 
 ***

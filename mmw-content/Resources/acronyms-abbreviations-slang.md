@@ -4,6 +4,7 @@ tags:
   - ressources
 title: Acronyms Abbreviations Slang
 ---
+![[header-aas.png]]
 ## Communication and Abbreviations
 
 | Abbreviation | Meaning                   |

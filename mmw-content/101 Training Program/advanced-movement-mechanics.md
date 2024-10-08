@@ -1,6 +1,7 @@
 ---
 title: Advanced Movement Mechanics
 ---
+![[header-amm.png]]
 ### Movement Speeds
 
 Depending on the situation, the team might be required to move at different speeds in order to move effectively as a unit. It could be used to slow down to let others catch up while still maintaining movement at all times to avoid being vulnerable, or to speed up to catch up with others or to approach an objective much faster.

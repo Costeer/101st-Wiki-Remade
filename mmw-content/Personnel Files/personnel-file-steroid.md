@@ -3,7 +3,6 @@ tags:
   - personnel-file
 title: Personnel File BM-02 Steroid
 ---
-
 ## 101st “Hell” Battalion
 **Military Personnel File**
 

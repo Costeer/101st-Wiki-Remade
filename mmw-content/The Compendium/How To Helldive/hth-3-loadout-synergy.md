@@ -9,7 +9,7 @@ aliases:
   - "3"
 title: 3 Loadout Synergy
 ---
-
+![[header-loads.png]]
 **DISCLAIMER: PLEASE READ** 
 **[[hth-1-loadout-types]] & [[hth-2-loadout-creation]]**
 **BEFORE READING THIS DOCUMENT** 

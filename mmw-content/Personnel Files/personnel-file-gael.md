@@ -3,7 +3,6 @@ tags:
   - personnel-file
 title: Personnel File IAC-08 Gael
 ---
-
 ## 101st “Hell” Battalion
 **Military Personnel File**
 

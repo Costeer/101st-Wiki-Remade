@@ -3,7 +3,6 @@ tags:
   - personnel-file
 title: Personnel File CC-07 Crumbs
 ---
-
 ## 101st “Hell” Battalion
 **Military Personnel File**
 

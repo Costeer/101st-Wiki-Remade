@@ -18,7 +18,12 @@ const graphConfig = {
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [Component.LinksHeader()],
-  afterBody: [Component.Graph()],
+  afterBody: [
+    Component.ContentMeta(),
+    //Component.Graph(),
+    Component.TagList(),
+    
+  ],
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/Costeer/101st-Wiki-Remade",
@@ -31,9 +36,8 @@ export const sharedPageComponents: SharedLayout = {
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.Breadcrumbs(),
-    Component.ArticleTitle(),
-    Component.ContentMeta(),
-    Component.TagList(),
+    //Component.ArticleTitle(),
+    
     Component.MobileOnly(Component.TableOfContents2()),
   ],
   left: [

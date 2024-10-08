@@ -4,6 +4,7 @@ tags:
   - HTH
 title: 2 Loadout Creation
 ---
+![[header-loadc.png]]
 **DISCLAIMER: PLEASE READ** 
 **[[hth-1-loadout-types]]**
 **BEFORE READING THIS DOCUMENT** 

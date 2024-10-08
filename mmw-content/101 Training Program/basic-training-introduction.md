@@ -1,6 +1,7 @@
 ---
 title: Basic Training Introduction
 ---
+![[header-bti.png]]
 ***
 <span style="color:rgb(138, 138, 138)">For use by all members of the 101st “Hell” Battalion. Completion of this program ensures a new cadet gains membership. Inspired by the 51st “Inferno” Battalion.</span>
 ***

@@ -1,6 +1,7 @@
 ---
 title: Communications Fundamentals
 ---
+![[header-commf.png]]
 ### Situation Reports
 
 When someone requests a Situation Report or Sit-Rep, they want to know how the situation is going or being handled. Even if you have not reached a certain objective yet, your superiors still want a clear image about what your plan is to move to an objective.

@@ -1,7 +1,7 @@
 ---
 title: Chanel Overview
 ---
-
+![[header-chao.png]]
 ***
 ## Server Stats
 

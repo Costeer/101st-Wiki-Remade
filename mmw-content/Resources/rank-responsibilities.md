@@ -4,6 +4,7 @@ tags:
   - rank
 title: Rank Responsibilities
 ---
+![[header-rresp.png]]
 <h2 style="color:rgb(170, 114, 213)">Cadet</h2>
 your only responsibility is to make sure to get your first training as fast as possible so you can be placed in a Squad and to become a Private
 

@@ -1,6 +1,8 @@
 ---
 title: FAQ
 ---
+![[header--heat-faq.png]]
+***
 **Q:** Where can I find in-depth information?
 **A:**  [[heat-resources]]
 

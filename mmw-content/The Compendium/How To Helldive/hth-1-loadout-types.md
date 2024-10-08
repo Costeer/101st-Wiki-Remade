@@ -4,6 +4,7 @@ tags:
   - Compendium
 title: 1 Loadouts Types
 ---
+![[header-loadt.png]]
 Hello Divers! This is Loadouts explained. This document will show you what types of weapons there are and in Part 2 will show you how to make a proper loadout. As you may know, weapons can fit into different types at the same time.
 
 **Types:** There are several types of weapons a Diver would bring for a loudout. 

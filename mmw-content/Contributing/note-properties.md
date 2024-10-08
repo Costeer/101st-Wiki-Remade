@@ -5,10 +5,7 @@ tags:
 aliases: 
 title: Note Properties
 ---
-Here’s the refined and spellchecked version of your text:
-
----
-
+![[header-notep.png]]
 ## What are Note Properties?
 
 You can't see them on the website, but Properties are a central part of managing the [[notes|notes]] in the Wiki. They allow us to add [[tags|Tags]], [[aliases|Aliases]], and change the note's Title without having to modify the filename.
