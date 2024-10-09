@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "H.E.A.T./frequently-asked-questions-heat.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "H.E.A.T./frequently-asked-questions-heat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "H.E.A.T./frequently-asked-questions-heat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "H.E.A.T./frequently-asked-questions-heat.md"
               }
             }
           }
@@ -173,6 +173,7 @@
   },
   "active": "8e6f0e7ebe10cac4",
   "lastOpenFiles": [
+    "index.md",
     "channel-overview.md",
     "The Compendium/compendium-index.md",
     "The Compendium/How To Helldive/hth-3-loadout-synergy.md",
@@ -208,7 +209,6 @@
     "Resources/Chain of Command/commanding-officers.md",
     "Personnel Files/personnel-file-crumbs.md",
     "Personnel Files/personnel-file-gael.md",
-    "Personnel Files/personnel-file-steroid.md",
     "01-Pictures/header-dco.png~",
     "01-Pictures/header-coc.png~",
     "01-Pictures/header-bti.png~",
