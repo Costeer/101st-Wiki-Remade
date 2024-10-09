@@ -1,6 +1,7 @@
 ---
 title: IA Resources
 ---
+![[header-iaresources.png]]
 ## 1.) Purpose and Scope:
 Purpose and Scope The Internal Affairs (IA) department ensures the integrity, discipline, and proper conduct within the 101st "Hell" Battalion. This SOP provides guidelines for addressing and investigating complaints, rule violations, and ensuring community standards are upheld. IA operates independently to maintain impartiality.
 

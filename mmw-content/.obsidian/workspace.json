@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contributing/how-to-contribute.md",
+                "file": "Internal Affairs/ia-resources.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Contributing/how-to-contribute.md",
+                "file": "Internal Affairs/ia-resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Contributing/how-to-contribute.md",
+                "file": "Internal Affairs/ia-resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Contributing/how-to-contribute.md"
+                "file": "Internal Affairs/ia-resources.md"
               }
             }
           }
@@ -161,6 +161,11 @@
   },
   "active": "8e6f0e7ebe10cac4",
   "lastOpenFiles": [
+    "H.E.A.T./frequently-asked-questions-heat.md",
+    "H.E.A.T./heat-index.md",
+    "Internal Affairs/ia-resources.md",
+    "Personnel Files/personnel-file-gael.md",
+    "Contributing/how-to-contribute.md",
     "01-Pictures/contributing-guide/Pasted image 20241010001526.png",
     "01-Pictures/contributing-guide/Pasted image 20241010001512.png",
     "01-Pictures/contributing-guide/Pasted image 20241010001457.png",
@@ -171,12 +176,9 @@
     "01-Pictures/contributing-guide/Pasted image 20241010001337.png",
     "01-Pictures/contributing-guide/Pasted image 20241010001304.png",
     "01-Pictures/contributing-guide/Pasted image 20241010001256.png",
-    "01-Pictures/contributing-guide/Pasted image 20241010001249.png",
     "01-Pictures/contributing-guide",
     "Contributing/markdown-guide.md",
     "Contributing/note-properties.md",
-    "Contributing/how-to-contribute.md",
-    "Internal Affairs/ia-resources.md",
     "101 Training Program/code-of-conduct.md",
     "101 Training Program/cadet-fundamentals.md",
     "101 Training Program/advanced-movement-mechanics.md",
@@ -202,8 +204,6 @@
     "Contributing/quick-start-guide-obsidian.md",
     "Contributing/writing-new-notes.md",
     "101 Training Program/communication-fundamentals.md",
-    "101 Training Program/deployment-concept-overview.md",
-    "101 Training Program/newbie-overview.md",
     "01-Pictures/header-dco.png~",
     "01-Pictures/header-coc.png~",
     "01-Pictures/header-bti.png~"
