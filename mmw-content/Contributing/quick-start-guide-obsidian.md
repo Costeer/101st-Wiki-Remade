@@ -1,7 +1,8 @@
 ---
 title: Quick start Guide Obsidian
 ---
-![[header-qsto.png]]
+`![[header-qsto.png]]`
+***
 
 ![[under-construction-banner.gif]]
 

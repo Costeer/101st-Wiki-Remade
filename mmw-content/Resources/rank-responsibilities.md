@@ -12,7 +12,7 @@ your only responsibility is to make sure to get your first training as fast as p
 you don't really have any responsibilities just follow the rules, [[deployment-concept-overview|Join Deployments]] and have fun dying for the Battalion
 
 <h2 style="color:rgb(103, 122, 131)">Specialist</h2> 
-Specialists need to Host at least 1-2 deployment per Week and need to be active in The general and in the squad Chat
+Specialists need to Host at least 1 deployment per Week and need to be active in The general and in the squad Chat If your Sergeant allows it you can host "Squad only Deployments"
 
 <h2 style="color:rgb(99, 99, 99)">Corporal</h2>
 Corporals are squad 2ICs, meaning they support the squad's Sergeant in leading the squad, helping them to complete their duties when they are online and taking charge when they are not. As a Corporal, you will often be the first point of contact for Troopers in your squad with requests, complaints or questions. You should be able to help them with their problem the vast majority of the time, even if this simply entails pointing them to the relevant form, document or CO. This requires an up-to-date knowledge of how the 101st functions. As such, you should keep a constant eye on the announcement and promotion channels for changes to procedures or the chain of command.

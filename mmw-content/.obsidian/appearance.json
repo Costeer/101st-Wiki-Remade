@@ -11,5 +11,7 @@
     "mmw-transclusion-adjustments"
   ],
   "theme": "obsidian",
-  "cssTheme": "Vanilla AMOLED"
+  "cssTheme": "Vanilla AMOLED",
+  "showViewHeader": false,
+  "nativeMenus": false
 }

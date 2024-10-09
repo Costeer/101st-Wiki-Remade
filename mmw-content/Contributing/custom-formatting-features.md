@@ -7,7 +7,8 @@ title: Custom Formatting Features
 aliases:
   - Custom Formatting Features
 ---
-![[header-cff.png]]
+`![[header-cff.png]]`
+***
 ## About
 
 This page is an outline of custom formatting features implemented for use in the 101st Wiki. To use these in Obsidian, enable all CSS snippets in Obsidian's 'Appearance' settings so they render correctly in Obsidian.

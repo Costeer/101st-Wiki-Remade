@@ -2,6 +2,7 @@
 title: Deployment Concept Overview
 ---
 ![[header-dco.png]]
+***
 ### Deployment Premise
 
 When it comes to deployments, we're talking about the pinnacle of organized play, where the bonds of brotherhood are forged in the fires of teamwork! But beware, for in this digital battlefield, the chain of command may shift like the winds of liberty. Whether you're following the orders of a seasoned sergeant or a fresh-faced lieutenant, one thing remains constant: obedience is the name of the game.

@@ -2,6 +2,8 @@
 title: Chanel Overview
 ---
 ![[header-chao.png]]
+# Currently <span style="color:rgb(255, 255, 0)">OUT OF DATE</span>
+
 ***
 ## Server Stats
 

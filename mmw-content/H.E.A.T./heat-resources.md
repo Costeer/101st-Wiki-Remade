@@ -2,6 +2,7 @@
 title: H.E.A.T. Resources
 ---
 ![[header-heatres.png]]
+***
 
 ![[heat-please.png]]
 ***

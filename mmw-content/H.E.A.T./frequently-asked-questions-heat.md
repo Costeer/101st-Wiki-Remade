@@ -1,5 +1,5 @@
 ---
-title: FAQ
+title: H.E.A.T. FAQ
 ---
 ![[header-heatfaq.png]]
 ***
