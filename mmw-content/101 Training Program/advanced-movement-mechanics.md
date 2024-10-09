@@ -1,5 +1,5 @@
 ---
-title: Advanced Movement Mechanics
+title: Advanced Movement Mech.
 ---
 ![[header-amm.png]]
 ### Movement Speeds

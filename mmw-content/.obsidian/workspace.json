@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/rank-responsibilities.md",
+                "file": "Internal Affairs/ia-resources.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/rank-responsibilities.md",
+                "file": "Internal Affairs/ia-resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/rank-responsibilities.md",
+                "file": "Internal Affairs/ia-resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/rank-responsibilities.md"
+                "file": "Internal Affairs/ia-resources.md"
               }
             }
           }
@@ -161,6 +161,14 @@
   },
   "active": "8e6f0e7ebe10cac4",
   "lastOpenFiles": [
+    "101 Training Program/code-of-conduct.md",
+    "101 Training Program/cadet-fundamentals.md",
+    "101 Training Program/advanced-movement-mechanics.md",
+    "101 Training Program/basic-training-introduction.md",
+    "Internal Affairs/ia-resources.md",
+    "Internal Affairs/Untitled.md",
+    "index.md",
+    "Resources/rank-responsibilities.md",
     "Internal Affairs",
     "Resources/Chain of Command/command-structure.md",
     "01-Pictures/header-commandstructure.png",
@@ -168,7 +176,6 @@
     "01-Pictures/edeting-files/header.kra~",
     "Resources/useful-tools.md",
     "01-Pictures/header-sanctions.png~",
-    "Resources/rank-responsibilities.md",
     "Resources/medals.md",
     "Resources/external-resources.md",
     "01-Pictures/header-dco.png",
@@ -178,9 +185,7 @@
     "Resources/deployment-course.md",
     "01-Pictures/header-externalr.png",
     "01-Pictures/header-sanctions.png",
-    "101 Training Program/cadet-fundamentals.md",
     "Contributing/custom-formatting-features.md",
-    "index.md",
     "channel-overview.md",
     "The Compendium/compendium-index.md",
     "Contributing/markdown-guide.md",
@@ -192,10 +197,6 @@
     "101 Training Program/newbie-overview.md",
     "H.E.A.T./frequently-asked-questions-heat.md",
     "H.E.A.T./heat-index.md",
-    "H.E.A.T./heat-resources.md",
-    "The Compendium/How To Helldive/hth-3-loadout-synergy.md",
-    "The Compendium/How To Helldive/hth-2-loadout-creation.md",
-    "The Compendium/How To Helldive/hth-1-loadout-types.md",
     "01-Pictures/header-rresp.png",
     "01-Pictures/header-heatres.png",
     "01-Pictures/header-chao.png",
@@ -205,7 +206,6 @@
     "01-Pictures/header-dco.png~",
     "01-Pictures/header-coc.png~",
     "01-Pictures/header-bti.png~",
-    "H.E.A.T.",
-    "Contributing/clarifications"
+    "H.E.A.T."
   ]
 }
