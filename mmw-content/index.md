@@ -32,5 +32,6 @@ At the current time the Wiki is not finished and might still contain some mistak
 - Ain [[deployment-course]]
 #### Acknowledgements
 - layout heavily inspired by the [Morrowind Modding wiki](https://github.com/morrowind-modding/morrowind-modding.github.io)
+- credit for none s
 
 ![[note-end-logo.png]]
