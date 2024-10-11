@@ -7,7 +7,7 @@ cssclasses: []
 
 ***
 
-This is the wiki of the 101st "Hell" Battalion the most active Helldivers 2 Millsim Server
+This is the WIKI of the 101st "Hell" Battalion, the most active Helldivers 2 Millsim Server.
 
 ***
 ![[header(2).png|350]]
@@ -25,6 +25,17 @@ At the current time the Wiki is not finished and might still contain some mistak
 
 ***
 
+This WIKI serves as an overview for all the different resources you can find on the server. The WIKI is constantly being expanded with new resources, guides and more.
+
+***
+
+We are always looking for interested Helldivers willing to help maintaining the WIKI.
+
+At the current time the Wiki is not finished and might still contain some mistakes. If you find anything that doesn't look right, please message one of the current maintainers of the Wiki.
+
+
+***
+
 #### Current Maintainers of the Wiki:
 - Costeer (Head of Wiki)
 #### Thanks to the contributors of the Wiki
@@ -34,6 +45,5 @@ At the current time the Wiki is not finished and might still contain some mistak
 - Ain [[deployment-course]]
 #### Acknowledgements
 - layout heavily inspired by the [Morrowind Modding wiki](https://github.com/morrowind-modding/morrowind-modding.github.io)
-- credit for none s
 
 ![[note-end-logo.png]]
