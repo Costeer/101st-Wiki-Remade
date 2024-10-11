@@ -27,7 +27,7 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/Costeer/101st-Wiki-Remade",
-      "Discord Community": "https://github.com/Costeer/101st-Wiki",
+      "Discord Community": "https://discord.gg/101st",
     },
   }),
 }
