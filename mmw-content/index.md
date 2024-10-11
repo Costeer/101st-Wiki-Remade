@@ -13,11 +13,13 @@ This is the wiki of the 101st "Hell" Battalion the most active Helldivers 2 Mill
 ![[header(2).png|350]]
 - Start here: [[newbie-overview]]
 
-This wiki serves as a overview for all of the different resources you can find in the discord the wiki is constantly being expanded with new resources, guides and more.
-
 ***
 
+This wiki serves as a overview for all of the different resources you can find in the discord the wiki is constantly being expanded with new resources, guides and more.
+
 We are always looking for Interested Helldivers who want to help maintaining the wiki 
+
+***
 
 At the current time the Wiki is not finished and might still contain some mistakes if you find anything that doesn't look right please message one of the Current maintainers of the Wiki
 

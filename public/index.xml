@@ -6,16 +6,46 @@
       <description>Last 10 notes on 101st-Wiki-Remade</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Advanced Movement Mech.</title>
-    <link>https://costeer.github.io/101st-Wiki-Remade/101-Training-Program/advanced-movement-mechanics</link>
-    <guid>https://costeer.github.io/101st-Wiki-Remade/101-Training-Program/advanced-movement-mechanics</guid>
-    <description> Movement Speeds Depending on the situation, the team might be required to move at different speeds in order to move effectively as a unit. It could be used to slow down to let others catch up while still maintaining movement at all times to avoid being vulnerable, or to speed up to catch up with others or to approach an objective much faster.</description>
-    <pubDate>Wed, 09 Oct 2024 22:02:44 GMT</pubDate>
+    <title>Departure Course</title>
+    <link>https://costeer.github.io/101st-Wiki-Remade/Resources/Deployments/departure-course</link>
+    <guid>https://costeer.github.io/101st-Wiki-Remade/Resources/Deployments/departure-course</guid>
+    <description>This will be a short course or Reminder on how to create and manage Departure Notices. If you have any Questions after this please feel free to message your Commanding Officer and if they are not reachable the Person above them.</description>
+    <pubDate>Thu, 10 Oct 2024 02:29:41 GMT</pubDate>
+  </item><item>
+    <title>External Resources</title>
+    <link>https://costeer.github.io/101st-Wiki-Remade/Resources/external-resources</link>
+    <guid>https://costeer.github.io/101st-Wiki-Remade/Resources/external-resources</guid>
+    <description> Battalion Roster You can find most information about Company’s Platoons Squads and individual members in the Battalion Roster. Battalion Steam Community post SCO Leadership Course Tech Department Detailed Data Sheet Enemy Weak Points and Damage Numbers docs.google.com/spreadsheets/d/e/2PACX-1vRBrOIXQIYaOBNw8v9zRX4Qj8BDP0xaMTAzGhL1Tv6QxOU43RXM_ByDHwk4xw_HRjsCXhpif-jUlQAn/pubhtml 101st Tech Document: Armor Penetration and Weak Points explained docs.google.com/document/d/1uBE9SS0gcKGBTMJQ02LuG0LV79A2OtrJipnDjtRZVSk/edit 101st Tech Document: Health and Armor docs.google.com/document/d/12fqZmm1_1GoQFq-aabzwHPujTtprDQ4ua5nC_ck-mPU/edit .</description>
+    <pubDate>Thu, 10 Oct 2024 02:29:41 GMT</pubDate>
+  </item><item>
+    <title>rules</title>
+    <link>https://costeer.github.io/101st-Wiki-Remade/Resources/rules</link>
+    <guid>https://costeer.github.io/101st-Wiki-Remade/Resources/rules</guid>
+    <description>Misc Rules Rules about pinging people BG-01 &quot;Mind&quot; Never ping something above you, like platoon company etc etc If ur SL You can ping platoon and below Only ur platoon If ...</description>
+    <pubDate>Thu, 10 Oct 2024 02:29:41 GMT</pubDate>
+  </item><item>
+    <title>Welcome</title>
+    <link>https://costeer.github.io/101st-Wiki-Remade/</link>
+    <guid>https://costeer.github.io/101st-Wiki-Remade/</guid>
+    <description>...</description>
+    <pubDate>Thu, 10 Oct 2024 02:29:41 GMT</pubDate>
   </item><item>
     <title>IA Resources</title>
     <link>https://costeer.github.io/101st-Wiki-Remade/Internal-Affairs/ia-resources</link>
     <guid>https://costeer.github.io/101st-Wiki-Remade/Internal-Affairs/ia-resources</guid>
-    <description>1.) Purpose and Scope: Purpose and Scope The Internal Affairs (IA) department ensures the integrity, discipline, and proper conduct within the 101st “Hell” Battalion ...</description>
+    <description>...</description>
+    <pubDate>Wed, 09 Oct 2024 22:34:00 GMT</pubDate>
+  </item><item>
+    <title>How to Contribute</title>
+    <link>https://costeer.github.io/101st-Wiki-Remade/Contributing/how-to-contribute</link>
+    <guid>https://costeer.github.io/101st-Wiki-Remade/Contributing/how-to-contribute</guid>
+    <description>How to set up Obsidian and Git to Contribute to the wiki.</description>
+    <pubDate>Wed, 09 Oct 2024 22:20:51 GMT</pubDate>
+  </item><item>
+    <title>Advanced Movement Mech.</title>
+    <link>https://costeer.github.io/101st-Wiki-Remade/101-Training-Program/advanced-movement-mechanics</link>
+    <guid>https://costeer.github.io/101st-Wiki-Remade/101-Training-Program/advanced-movement-mechanics</guid>
+    <description> Movement Speeds Depending on the situation, the team might be required to move at different speeds in order to move effectively as a unit. It could be used to slow down to let others catch up while still maintaining movement at all times to avoid being vulnerable, or to speed up to catch up with others or to approach an objective much faster.</description>
     <pubDate>Wed, 09 Oct 2024 22:02:44 GMT</pubDate>
   </item><item>
     <title>Communications Fundamentals</title>
@@ -34,36 +64,6 @@
     <link>https://costeer.github.io/101st-Wiki-Remade/101-Training-Program/newbie-overview</link>
     <guid>https://costeer.github.io/101st-Wiki-Remade/101-Training-Program/newbie-overview</guid>
     <description>...</description>
-    <pubDate>Wed, 09 Oct 2024 19:39:31 GMT</pubDate>
-  </item><item>
-    <title>Custom Formatting Features</title>
-    <link>https://costeer.github.io/101st-Wiki-Remade/Contributing/custom-formatting-features</link>
-    <guid>https://costeer.github.io/101st-Wiki-Remade/Contributing/custom-formatting-features</guid>
-    <description>Custom formatting features implemented for use in the Wiki.</description>
-    <pubDate>Wed, 09 Oct 2024 19:39:31 GMT</pubDate>
-  </item><item>
-    <title>markdown-guide</title>
-    <link>https://costeer.github.io/101st-Wiki-Remade/Contributing/markdown-guide</link>
-    <guid>https://costeer.github.io/101st-Wiki-Remade/Contributing/markdown-guide</guid>
-    <description>source: www.markdownguide.org/cheat-sheet/ Overview Nearly all Markdown applications support the basic syntax outlined in the original Markdown design document ...</description>
-    <pubDate>Wed, 09 Oct 2024 19:39:31 GMT</pubDate>
-  </item><item>
-    <title>Note Properties</title>
-    <link>https://costeer.github.io/101st-Wiki-Remade/Contributing/note-properties</link>
-    <guid>https://costeer.github.io/101st-Wiki-Remade/Contributing/note-properties</guid>
-    <description>![[header-notep.png]] What are Note Properties? You can’t see them on the website, but Properties are a central part of managing the notes in the Wiki ...</description>
-    <pubDate>Wed, 09 Oct 2024 19:39:31 GMT</pubDate>
-  </item><item>
-    <title>Quick start Guide Obsidian</title>
-    <link>https://costeer.github.io/101st-Wiki-Remade/Contributing/quick-start-guide-obsidian</link>
-    <guid>https://costeer.github.io/101st-Wiki-Remade/Contributing/quick-start-guide-obsidian</guid>
-    <description>![[header-qsto.png]] What is Obsidian besides the mineral Obsidian is a electron based Markdown editor. If only half of those words made sense to you then don’t worry i will explain most of them.</description>
-    <pubDate>Wed, 09 Oct 2024 19:39:31 GMT</pubDate>
-  </item><item>
-    <title>writing-new-notes</title>
-    <link>https://costeer.github.io/101st-Wiki-Remade/Contributing/writing-new-notes</link>
-    <guid>https://costeer.github.io/101st-Wiki-Remade/Contributing/writing-new-notes</guid>
-    <description>Temporary Note If you want to contribute a new note to the wiki it is important that you remember that: note titles need to be all lowercase and without spaces use - instead all notes (exept ...</description>
     <pubDate>Wed, 09 Oct 2024 19:39:31 GMT</pubDate>
   </item>
     </channel>

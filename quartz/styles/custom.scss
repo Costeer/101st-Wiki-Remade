@@ -195,5 +195,24 @@ a.mmw-download-link div.popover {
  }
 
 
-//------------------------------------------------------------------------------------------------------------//
+
+
+.dividernc {
+  font: "Chakra Petch";
+  font-size: 30px;
+  display: flex;
+  align-items: center;
+  margin: 0px;
+  /*margin-right: 300px;*/
+  position: relative;
+}
+
+.dividernc::before, .dividernc::after {
+  flex: 1;
+  content: '';
+  padding: 1px;
+  background-color: #4f4f4f;
+  margin: 10px;
+  width: -20%;
+}
 

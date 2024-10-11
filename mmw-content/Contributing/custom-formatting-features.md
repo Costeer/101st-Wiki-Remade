@@ -275,4 +275,17 @@ Embeds can be made to float to the left or right of a page by adding `|left` or 
 
 As well as being a stylistic choice to move supplementary content outside of the main flow of the text, it is also necessary when embedding a block which contains an element with a float property already stipulated (e.g., an infobox callout).
 
+#### MISC
+
+**CSS divider**
+```
+<div class="dividernc">divider</div>
+```
+**Output:**
+
+<div class="dividernc">divider</div>
+
+
+
+
 ![[note-end-logo.png]]
