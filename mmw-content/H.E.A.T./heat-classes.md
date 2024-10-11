@@ -160,7 +160,7 @@ You trust in your AP, INC and AT Mines, EMS Mortar, Orbital EMS and Smokes to bl
   
 This is a difficult role, but very satisfying to play. You have to understand that you will always have the least kills, and learning the best places to put your EMS and Smokes is tricky, Mines can be even harder to figure out (Note: Tremors will instantly destroy all mines). But if you can master this, you will become such a valuable member of the party that people will be fighting over you!
 
-<div class="dividernc">Scout</div>
+# <div class="dividernc">Scout</div>
 
 Within this category of classes your goal is to sneak around and complete the smaller objectives. Whether that be hunting down POI’s and Samples, Scouting out patrols or trashing every structure in sight. Your tactics are hit and run or just don’t be seen. You keep a long way from the main squad but that does not make you a lone gun. 
 
@@ -195,7 +195,7 @@ Packing your FAF-14 Spear or the MLS-4X Commando alongside the Orbital Precision
 
 You focus on structures - this does mean that you can fall lacking on Chaff clear or fighting heavies so make sure you have someone who can take care of those for you. 120MM and 380MM are great for softening up bases and trashing lots in there before you start an attack. Don’t hesitate to use them.
 
-<div class="dividernc">Mechanized</div>
+# <div class="dividernc">Mechanized</div>
 
 Within this category of classes your goal is to bring the armor. Super Earth saw fit to train you in how to use some of the most expensive gear, so you chose how to make the best of it. There is no better feeling than the THUD of an Exo-suit hitting the ground.
 
