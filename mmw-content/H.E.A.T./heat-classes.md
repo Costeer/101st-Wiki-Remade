@@ -1,3 +1,8 @@
+---
+title: Heat Classes
+---
+# <span style="color:rgb(255, 82, 82)">NOT DONE</span>
+
 In this document we will be detailing the parameters around the H.E.A.T. Training system.  
 
 #### **Index**
