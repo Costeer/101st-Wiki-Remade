@@ -1,8 +1,6 @@
 ---
 title: Heat Classes
 ---
-# <span style="color:rgb(255, 82, 82)">NOT DONE</span>
-
 In this document we will be detailing the parameters around the H.E.A.T. Training system.  
 
 #### **Index**
@@ -15,7 +13,17 @@ In this document we will be detailing the parameters around the H.E.A.T. Trainin
 	- [[#Supressive]]
 	- [[#Quartermaster]]
 - **[[#defence|Defence]]**
-
+	- [[#Stationary Defense]]
+	- [[#Mobile Defense]]
+	- [[#Passive Defense]]
+- **[[#scout|Scout]]**
+	- [[#Radar]]
+	- [[#Scavenger]]
+	- [[#Demolitionist]]
+- **[[#mechanized|Mechanized]]**
+	- [[#Exo-suits]]
+	- [[#Armored Personnel Carriers]]
+	- [[#All Terrain Vehicles]]
 
 ### The system is broken down into 5 Tiers.  
   
@@ -112,7 +120,7 @@ Packing your B-1 Supply Pack and LAS-98 Laser Cannon as well as some Smokes and 
 
 This is a very high upkeep role and generally nets you the one dishing out commands - so if you find yourself often leading and liking to support, this may be the playstyle for you. Sit back, watch and let you kids(team) have fun!
 
-# <div class="dividernc">Defence</div>
+# <div class="dividernc">Defense</div>
 
 Within this category of classes your goal is to secure and defense with your sentries, smokes and mines. Whether you find yourself defending HV assets, holding down the E-170 pumps or just simply moving from one spot to the next, make use of Super Earths finest AI (Not intelligent) to help defend yourself and quell the enemy forces.
 
@@ -123,3 +131,95 @@ Here the category is broken down into three segments:
 - PD (Passive Defence) 
 
 Each of these represent a class - AKA playstyle. These are not restrictions on weapons, but rather stipulations as to how you play them. When you choose one of these roles you adopt a mindset as to who you become. Whether you prefer to hold your ground and let none pass, use your turrets as a second or third man or prefer the more stealthy and incapacitating approach, this is the Helldiver you must become.
+
+### Stationary Defense
+
+As this role you are the bastion of defence, the first and last line. You utilize the powers of your sentries to make a stand and hold your place letting no bug or bot get through.
+
+  
+
+By bringing a various assortment of MG, Gatling, Autocannon and Rocket sentries as well as Shield relays and your trusty Flam-40 Flamethrower or RL-77 Airburst Rocket Launcher to pack an extra punch when needed, nothing gets past you.  
+  
+The biggest thing with this role is knowing how to space out your sentries. Both in location and uptime. Sometimes you need the firepower of multiples all at once, but keep in mind, that may have you defenceless for a time. Spacing them out to have one always active may be the better choice.
+
+### Mobile Defense
+
+As this role you are the harbinger of death. Bringing your tech with you as you traverse the battlefield and using them to add extra firepower and keep the attention of the enemy. You turn the bugs to mist and use the bots own tech against them. 
+
+  
+By bringing a various assortment of MG, Gatling, Autocannon and Rocket sentries as well as Shield relays and your trusty GL-21 Grenade Launcher or the RS-422 Railgun to pack an extra punch when needed, you bring the death to the enemy.  
+  
+The biggest thing with this role is knowing how to space out your sentries. Both in location and uptime. As you are constantly on the run, making sure to always have at least one sentry available is key - especially if you do not bring a support weapon. Understand how your sentries target and what they can kill is also key.
+
+### Passive Defense
+As this role you are the quiet, sneaky and annoying class for the enemy. However, to your teammates - although you do not have many ways of killing the enemy - you excel at keeping them unaware or off balance. 
+
+  
+
+You trust in your AP, INC and AT Mines, EMS Mortar, Orbital EMS and Smokes to blind and slow the enemy as well as stop them in their tracks. Never leave your destroyer without your LAS-98 Laser Cannon as sometimes, you have no choice but to kill.  
+  
+This is a difficult role, but very satisfying to play. You have to understand that you will always have the least kills, and learning the best places to put your EMS and Smokes is tricky, Mines can be even harder to figure out (Note: Tremors will instantly destroy all mines). But if you can master this, you will become such a valuable member of the party that people will be fighting over you!
+
+<div class="dividernc">Scout</div>
+
+Within this category of classes your goal is to sneak around and complete the smaller objectives. Whether that be hunting down POI’s and Samples, Scouting out patrols or trashing every structure in sight. Your tactics are hit and run or just don’t be seen. You keep a long way from the main squad but that does not make you a lone gun. 
+
+Here the category is broken down into three segments:  
+
+- RDR (Radar)
+- SKV (Scavenger)  
+- DEMO (Demolitionist)  
+
+Each of these represent a class - AKA playstyle. These are not restrictions on weapons, but rather stipulations as to how you play them. When you choose one of these roles you adopt a mindset as to who you become. Whether you prefer to sneak around with your long range rifle and watch your team - calling out any potential threats, running around being a little sample goblin or, wielding your FAF and making sure there is no structure left standing, this is the Helldiver you must become.
+
+### Radar
+As this role you are the quiet, sneaky scout. You take up a long range position from the main party and keep your eyes peeled for any and all potential threats - you do prefer NOT to engage as this does give away your position but if need be, trust your aim to be true. One shot, One kill. 
+
+Packing your APW-1 Anti-Material Rifle, LIFT-850 Jetpack, and Smokes, your gear is not your class. You are. Your skills at stealth and aim are what is important.
+
+Shhhh. This is your word. Scout armor and patience are your friend. Most enemies will ignore you if you go prone and crawl past. If you need to, any hellpod strat can be used as a distraction for patrols so you can safely sneak by (Just make sure to throw it on the other side of the patrol from you). Practice your aim as if you do need to shoot something you want to get it done as quickly as you can.
+
+### Scavenger
+As this role you are the sample goblin. You are the one who loves to run around the map (Seemingly senseless - don’t question the hunt) and gather every POI and completing the small objectives.
+
+The M-105 Stalwart and EAT-17 Expendable Anti-Tank are your best friends. Paired with an Orbital Precision Strike, Eagle Cluster Bombs, Orbital Gatling Barrage or Orbital Gas Strike, these are your tools to deal with small patrols and outposts/nests quickly. 
+
+
+Scout or Engineer armors work the best. Just remember that although you pack all the tools needed to deal with small stuff - you are not a 1-man army. Your tactic is SPEED. If you have to waste time fighting or waiting, you’re not doing it right. Big maps need lots of attention. Don’t get caught up in firefights. (Sentries are helpful for getting away, they draw enemy fire allowing you an escape)
+
+### Demolitionist
+As this role you are the bane of any structure in the game. Fabricators, Spore Spewers, Shriker Nests, Detector Towers. Anything you can trash or destroy is your pick. Bull in a china shop - trashing everything in its path. 
+
+
+Packing your FAF-14 Spear or the MLS-4X Commando alongside the Orbital Precision Strike, Eagle Airstrike, 120MM Barrage, or Orbital Laser - you bring everything that can cause massive destruction.
+
+You focus on structures - this does mean that you can fall lacking on Chaff clear or fighting heavies so make sure you have someone who can take care of those for you. 120MM and 380MM are great for softening up bases and trashing lots in there before you start an attack. Don’t hesitate to use them.
+
+<div class="dividernc">Mechanized</div>
+
+Within this category of classes your goal is to bring the armor. Super Earth saw fit to train you in how to use some of the most expensive gear, so you chose how to make the best of it. There is no better feeling than the THUD of an Exo-suit hitting the ground.
+
+Here the category is broken down into three segments:  
+  
+- EXO (Exo-suits)
+- APC (Armored Personnel Carriers)  
+- ATV (All Terrain Vehicles)
+
+Each of these represent a class - AKA playstyle. These are not restrictions on weapons, but rather stipulations as to how you play them. When you choose one of these roles you adopt a mindset as to who you become. Whether you pack a punch with the Exo-suits, offer reliable and durable transportation or focus on getting the team around the map quickly, this is the Helldiver you must become.
+
+### Exo-suits
+As this role you are the walking armor. You bring the heavy-duty war machines capable of insurmountable death and destruction. You become the machine to kill the machine.  
+  
+Expert pilot of both the EXO-49 Emancipator and EXO-45 Patriot suits, you bring the hulks of steel to bear on all but the toughest foes and you stand your ground.  
+  
+Although the mechs are tough, they are not unkillable, so learning how to keep your machine alive as long as you can is key. Ammo conservation is also important. Don’t waste half your ammo on one Bile Titan when your Spear gunner can take him down in 1-2 shots. Spears can be reloaded, the Mechs cannot. Also, remember even if you are out of ammo or missing your arms you can still stomp and it’s reliable transportation. Use the mech until it is completely gone.
+
+### Armored Personnel Carriers
+TBD  
+  
+This is a placeholder for future stratagem development.
+
+### All Terrain Vehicles
+TBD  
+  
+This is a placeholder for future stratagem development.
