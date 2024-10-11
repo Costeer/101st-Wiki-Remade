@@ -6,6 +6,30 @@
       <description>Last 10 notes on 101st-Wiki-Remade</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>heat-classes</title>
+    <link>https://costeer.github.io/101st-Wiki-Remade/H.E.A.T./heat-classes</link>
+    <guid>https://costeer.github.io/101st-Wiki-Remade/H.E.A.T./heat-classes</guid>
+    <description>In this document we will be detailing the parameters around the H.E.A.T. Training system. The system is broken down into 5 Tiers. Tier 0: Every person who completed their basic training starts at T0.</description>
+    <pubDate>Fri, 11 Oct 2024 13:59:25 GMT</pubDate>
+  </item><item>
+    <title>Custom Formatting Features</title>
+    <link>https://costeer.github.io/101st-Wiki-Remade/Contributing/custom-formatting-features</link>
+    <guid>https://costeer.github.io/101st-Wiki-Remade/Contributing/custom-formatting-features</guid>
+    <description>Custom formatting features implemented for use in the Wiki.</description>
+    <pubDate>Fri, 11 Oct 2024 13:46:59 GMT</pubDate>
+  </item><item>
+    <title>H.E.A.T. Resources</title>
+    <link>https://costeer.github.io/101st-Wiki-Remade/H.E.A.T./heat-resources</link>
+    <guid>https://costeer.github.io/101st-Wiki-Remade/H.E.A.T./heat-resources</guid>
+    <description> Challenges for HEAT HEAT Certification Rules 101st “Hell” Battalion Basic Certification Classes Guide H.E.A.T. Certification Request Template **Callsign:**[Ping Yourself] **Certification Requested: **[Tier + Class] **Availability:** [Time] Reason for seeking training: [Give us some lore; bring a little RP into here] Remember to Ping yourself The availability time should be formatted in UTC +2 or using Discord date picker .</description>
+    <pubDate>Fri, 11 Oct 2024 13:46:59 GMT</pubDate>
+  </item><item>
+    <title>Welcome</title>
+    <link>https://costeer.github.io/101st-Wiki-Remade/</link>
+    <guid>https://costeer.github.io/101st-Wiki-Remade/</guid>
+    <description> This is the WIKI of the 101st “Hell” Battalion, the most active Helldivers 2 Millsim Server. Start here: newbie-overview This wiki serves as a overview for all of the different resources you can find in the discord the wiki is constantly being expanded with new resources, guides and more.</description>
+    <pubDate>Fri, 11 Oct 2024 13:46:59 GMT</pubDate>
+  </item><item>
     <title>Departure Course</title>
     <link>https://costeer.github.io/101st-Wiki-Remade/Resources/Deployments/departure-course</link>
     <guid>https://costeer.github.io/101st-Wiki-Remade/Resources/Deployments/departure-course</guid>
@@ -22,12 +46,6 @@
     <link>https://costeer.github.io/101st-Wiki-Remade/Resources/rules</link>
     <guid>https://costeer.github.io/101st-Wiki-Remade/Resources/rules</guid>
     <description>Misc Rules Rules about pinging people BG-01 &quot;Mind&quot; Never ping something above you, like platoon company etc etc If ur SL You can ping platoon and below Only ur platoon If ...</description>
-    <pubDate>Thu, 10 Oct 2024 02:29:41 GMT</pubDate>
-  </item><item>
-    <title>Welcome</title>
-    <link>https://costeer.github.io/101st-Wiki-Remade/</link>
-    <guid>https://costeer.github.io/101st-Wiki-Remade/</guid>
-    <description>...</description>
     <pubDate>Thu, 10 Oct 2024 02:29:41 GMT</pubDate>
   </item><item>
     <title>IA Resources</title>
@@ -47,24 +65,6 @@
     <guid>https://costeer.github.io/101st-Wiki-Remade/101-Training-Program/advanced-movement-mechanics</guid>
     <description> Movement Speeds Depending on the situation, the team might be required to move at different speeds in order to move effectively as a unit. It could be used to slow down to let others catch up while still maintaining movement at all times to avoid being vulnerable, or to speed up to catch up with others or to approach an objective much faster.</description>
     <pubDate>Wed, 09 Oct 2024 22:02:44 GMT</pubDate>
-  </item><item>
-    <title>Communications Fundamentals</title>
-    <link>https://costeer.github.io/101st-Wiki-Remade/101-Training-Program/communication-fundamentals</link>
-    <guid>https://costeer.github.io/101st-Wiki-Remade/101-Training-Program/communication-fundamentals</guid>
-    <description> Situation Reports When someone requests a Situation Report or Sit-Rep, they want to know how the situation is going or being handled. Even if you have not reached a certain objective yet, your superiors still want a clear image about what your plan is to move to an objective.</description>
-    <pubDate>Wed, 09 Oct 2024 19:39:31 GMT</pubDate>
-  </item><item>
-    <title>Deployment Concept Overview</title>
-    <link>https://costeer.github.io/101st-Wiki-Remade/101-Training-Program/deployment-concept-overview</link>
-    <guid>https://costeer.github.io/101st-Wiki-Remade/101-Training-Program/deployment-concept-overview</guid>
-    <description>...</description>
-    <pubDate>Wed, 09 Oct 2024 19:39:31 GMT</pubDate>
-  </item><item>
-    <title>Newbie Overview</title>
-    <link>https://costeer.github.io/101st-Wiki-Remade/101-Training-Program/newbie-overview</link>
-    <guid>https://costeer.github.io/101st-Wiki-Remade/101-Training-Program/newbie-overview</guid>
-    <description>...</description>
-    <pubDate>Wed, 09 Oct 2024 19:39:31 GMT</pubDate>
   </item>
     </channel>
   </rss>

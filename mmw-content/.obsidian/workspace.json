@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "H.E.A.T./heat-classes.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "H.E.A.T./heat-classes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "H.E.A.T./heat-classes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "H.E.A.T./heat-classes.md"
               }
             }
           }
@@ -161,9 +161,14 @@
   },
   "active": "3f9a2f1029bd9761",
   "lastOpenFiles": [
-    "H.E.A.T./heat-resources.md",
+    "H.E.A.T./frequently-asked-questions-heat.md",
+    "00-Meta/templates/divider-text.md",
+    "00-Meta/templates/template.md",
     "Contributing/custom-formatting-features.md",
+    "H.E.A.T./heat-classes.md",
+    "The Compendium/compendium-index.md",
     "index.md",
+    "H.E.A.T./heat-resources.md",
     "Resources/rules.md",
     "Resources/deployment-course.md",
     "Resources/external-resources.md",
@@ -182,9 +187,6 @@
     "Contributing/writing-new-notes.md",
     "Contributing/quick-start-guide-obsidian.md",
     "H.E.A.T./heat-index.md",
-    "H.E.A.T./frequently-asked-questions-heat.md",
-    "Internal Affairs/ia-resources.md",
-    "Personnel Files/personnel-file-gael.md",
     "01-Pictures/contributing-guide/Pasted image 20241010001526.png",
     "01-Pictures/contributing-guide/Pasted image 20241010001512.png",
     "01-Pictures/contributing-guide/Pasted image 20241010001457.png",
@@ -196,8 +198,6 @@
     "01-Pictures/contributing-guide/Pasted image 20241010001304.png",
     "01-Pictures/contributing-guide/Pasted image 20241010001256.png",
     "01-Pictures/contributing-guide",
-    "101 Training Program/code-of-conduct.md",
-    "101 Training Program/cadet-fundamentals.md",
     "Internal Affairs",
     "01-Pictures/edeting-files/header.kra~",
     "01-Pictures/header-sanctions.png~",
