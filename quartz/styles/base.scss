@@ -16,6 +16,7 @@ section {
   box-sizing: border-box;
   background-color: var(--light);
   font-family: var(--bodyFont);
+  font-size: 1.1em;
   color: var(--darkgray);
 }
 
@@ -422,7 +423,7 @@ pre {
 }
 
 code {
-  font-size: 0.9em;
+  font-size: 1em;
   color: var(--dark);
   font-family: var(--codeFont);
   border-radius: 5px;

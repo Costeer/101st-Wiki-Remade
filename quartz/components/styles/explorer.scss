@@ -9,9 +9,10 @@ button#explorer {
   color: var(--dark);
   display: flex;
   align-items: center;
+  font-size: 0.9em;
 
   & h2 {
-    font-size: 1rem;
+    font-size: 1.4rem;
     display: inline-block;
     margin: 0;
   }
@@ -50,6 +51,7 @@ button#explorer {
     visibility 0s linear 0s;
   margin-top: 0.5rem;
   visibility: visible;
+  font-size: 0.9em;
 
   &.collapsed {
     transition:

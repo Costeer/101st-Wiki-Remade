@@ -1,3 +1,8 @@
+---
+title: Rules
+---
+![[header-rules.png]]
+
 ## Misc Rules
 ***
 **Rules about pinging people**

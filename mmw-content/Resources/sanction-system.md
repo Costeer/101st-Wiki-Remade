@@ -1,3 +1,6 @@
+---
+title: Sanction System
+---
 ![[header-sanctions.png]]
 In the spirit of maintaining discipline and order, violations of our sacred code will not go unpunished. Our Commanding Officers (COs) shall mete out justice with a firm yet fair hand, employing a system of warning points commensurate with the transgression. Behold the consequences:
 
@@ -16,7 +19,7 @@ Upon accumulating 15 points, patriots find themselves consigned to the promotion
 - Submit to a tribunal presided over by the esteemed BC-01 "Mind", wherein your actions shall be weighed against the scales of justice, and redemption may be earned.
 
 ## For High Command and Senior Command
-Senctions in High/Senior Command don't follow the normal point System.
+Sanctions in High/Senior Command don't follow the normal point System.
 
 **For Senior Command**
 - 3 Strikes and you are relived of your Senior Command duties 
