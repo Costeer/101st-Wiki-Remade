@@ -2,13 +2,20 @@
 title: External Resources
 ---
 ![[header-externalr.png]]
-## [Battalion Roster](https://docs.google.com/spreadsheets/d/17zzqAVn1xhtg_z6zDec9ZrLaSYuxFPiBX3qc83I-51w/edit?usp=sharing)
+## [Battalion Roster](https://docs.google.com/spreadsheets/d/1D1jGrBB1qZpftDeHL7laI_1r4HBO2NDjnYSBF-NVh4s/edit?usp=sharing)
 You can find most information about Company's Platoons Squads and individual members in the Battalion Roster.
 
 ## [Battalion Steam Community post](https://steamcommunity.com/sharedfiles/filedetails/?id=3254089053 "https://steamcommunity.com/sharedfiles/filedetails/?id=3254089053")
 
 
 ## [SCO Leadership Course](https://docs.google.com/document/d/1rhKn3eonk-LN9OF9oenVpCNp7glfQvC7EBzkkngjwCc/edit?usp=sharing)
+
+
+(not external resources but here are the links anyway)
+## [[medals|Medal System]]
+
+
+## [[basic-training-introduction|Basic Training Program]]
 
 ***
 # Tech Department

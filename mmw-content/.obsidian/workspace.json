@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Resources/external-resources.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Resources/external-resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Resources/external-resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Resources/external-resources.md"
               }
             }
           }
@@ -161,18 +161,20 @@
   },
   "active": "3f9a2f1029bd9761",
   "lastOpenFiles": [
+    "101 Training Program/basic-training-introduction.md",
+    "101 Training Program/cadet-fundamentals.md",
+    "101 Training Program/advanced-movement-mechanics.md",
+    "Resources/external-resources.md",
+    "Resources/rules.md",
+    "index.md",
     "channel-overview.md",
     "Lore/lore.md",
-    "index.md",
     "Lore",
     "101 Training Program/newbie-overview.md",
     "101 Training Program/deployment-concept-overview.md",
     "00-Meta/deployment-dignups.md",
     "101 Training Program/communication-fundamentals.md",
-    "101 Training Program/cadet-fundamentals.md",
     "101 Training Program/code-of-conduct.md",
-    "101 Training Program/advanced-movement-mechanics.md",
-    "101 Training Program/basic-training-introduction.md",
     "H.E.A.T./heat-resources.md",
     "H.E.A.T./heat-index.md",
     "H.E.A.T./heat-classes.md",
@@ -182,13 +184,11 @@
     "Contributing/writing-new-notes.md",
     "Resources/Deployments/deployment-templates.md",
     "Resources/acronyms-abbreviations-slang.md",
-    "Resources/rules.md",
     "01-Pictures/header-rules.png",
     "Resources/sanction-system.md",
     "Contributing/note-properties.md",
     "Contributing/markdown-guide.md",
     "Contributing/how-to-contribute.md",
-    "00-Meta/templates/divider-text.md",
     "01-Pictures/contributing-guide/Pasted image 20241010001526.png",
     "01-Pictures/contributing-guide/Pasted image 20241010001512.png",
     "01-Pictures/contributing-guide/Pasted image 20241010001457.png",

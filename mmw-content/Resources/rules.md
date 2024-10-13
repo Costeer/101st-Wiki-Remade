@@ -18,6 +18,8 @@ Same goes with the rest
 I dont wanna se CPLs doing platoon wide pings
 And SLs doing company wide pings
 
+- Be respectful to everyone, especially JCOs, SCOs, HC and especially in public channels. If you have something to say or suggest, go to your CPL/SGT first and run it by them
+
 ***
 
 
@@ -42,17 +44,6 @@ And SLs doing company wide pings
  
 - Loyalty is our currency! Patriots of the 101st shall not double-dip in other milsims or clans. Our allegiance lies solely with the cause of spreading democracy. Starsims and other games are exempt, for freedom knows no bounds.
 
-Poaching is akin to betraying the very essence of democracy! Any attempt to lure away our fellow patriots will result in swift and decisive action, including expulsion from our ranks.
+- Poaching is akin to betraying the very essence of democracy! Any attempt to lure away our fellow patriots will result in swift and decisive action, including expulsion from our ranks.
 
-Alt accounts are as welcome as a communist in a fireworks factory! One patriot, one account. Let your actions be as transparent as the ideals we uphold.
-
-Never ping something above you, like platoon company etc etc
-f ur SL
-You can ping platoon and below
-Only ur platoon
-If ur SM ur 2nd IC of a platoon
-You can ping it but only yours
-Same goes with the rest
-I dont wanna se CPLs doing platoon wide pings
-And SLs doing company wide pings
-
+- Alt accounts are as welcome as a communist in a fireworks factory! One patriot, one account. Let your actions be as transparent as the ideals we uphold.
