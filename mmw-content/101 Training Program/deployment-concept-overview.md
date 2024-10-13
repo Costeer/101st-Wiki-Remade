@@ -2,8 +2,7 @@
 title: Deployment Concept Overview
 ---
 ![[header-dco.png]]
-***
-### Deployment Premise
+## <div class="dividernc">Deployment Premise</div>
 
 When it comes to deployments, we're talking about the pinnacle of organized play, where the bonds of brotherhood are forged in the fires of teamwork! But beware, for in this digital battlefield, the chain of command may shift like the winds of liberty. Whether you're following the orders of a seasoned sergeant or a fresh-faced lieutenant, one thing remains constant: obedience is the name of the game.
 
@@ -11,7 +10,7 @@ As you load into the fray alongside your comrades, the deployment leader holds t
 
 So remember, when the deployment leader speaks, listen closely and follow their lead. For in the chaos of war, it's the unity of purpose that will carry us to victory!
 
-## Deployment Rules
+## <div class="dividernc">Deployment Rules</div>
 
 As we embark on our noble quest for victory, let's not forget the rules of engagement that govern our actions on the battlefield. Respect, discipline, and adherence to protocol are the cornerstones of our mission, so pay heed to the following directives:
 
@@ -27,20 +26,20 @@ As we embark on our noble quest for victory, let's not forget the rules of engag
 
 Let these rules guide you as we march forward, united in purpose and steadfast in our resolve to crush tyranny beneath our collective boot!
 
-## Following Leadership
+## <div class="dividernc">Following Leadership</div>
+
 
 Within our ranks, every troop is a vital cog in the machinery of freedom, bound by duty and honor to heed the commands of their superiors. It is not merely a responsibility, but a sacred obligation, to rally alongside our brothers-in-arms and march forward as one cohesive force. Together, we strive tirelessly towards a common goal, driven by the noble ideals of liberty and justice for all. Let the spirit of camaraderie and unity guide our every step, for in our unity lies the strength to overcome any obstacle and emerge victorious on the battlefield of freedom!
 
-## Debriefings
+## <div class="dividernc">Debriefings</div>
+
 
 After the dust settles and victory or defeat hangs heavy in the air, the deployment leader takes charge once more, guiding the unit into a hallowed ritual known as the debriefing phase. This is not merely a procedural formality; it is a cornerstone of our collective ethos, reminiscent of the democratic ideals upon which our Super Earth was founded. As the stars and stripes wave proudly overhead, we gather as equals, from the most seasoned veterans to the freshest recruits, to engage in a profound reflection on our shared journey.
 
 With precision, each member of the unit contributes their insights and observations.. Here, there is no rank nor file; only the common bond of service to a cause greater than ourselves. Troopers and cadets, emboldened by the spirit of liberty, speak freely, unafraid to voice concerns or criticisms of their superiors should they arise. For it is in this sacred space of dialogue and camaraderie that the seeds of improvement are sown, nourished by the fertile soil of mutual respect and understanding.
 
 The deployment leader compiles a detailed report in the deployment-tallies channel, often including screenshots or Recordings to illuminate the end result. This report fosters transparency and accountability, guiding our unit forward with lessons learned. In these digital records, our camaraderie and spirit endure, resilient in the face of adversity.
-
-##### More Information on how to attend Deployments: [[Deployment Signups]]
-## Next [[communication-fundamentals]]
+## Next [[communication-fundamentals|Communication Fundamentals]]
 
 
 ![[note-end-logo.png]]

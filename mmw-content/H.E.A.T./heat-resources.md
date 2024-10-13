@@ -11,7 +11,7 @@ title: H.E.A.T. Resources
 #### [HEAT Certification Rules](https://docs.google.com/document/d/1_QIrqXWPbaftLJhrRuXSrLEWRSUbcX41Nd8e1ZI4-Yk/edit?usp=sharing)
 
 #### [101st "Hell" Battalion Basic Certification Classes Guide](https://docs.google.com/presentation/d/1dZMNV413d6bxONV-ZCc657jZ-VLcR5Bn9w8lqzGHK9I/edit#slide=id.g2f240a3e088_0_0)
-***
+
 <div class="dividernc">H.E.A.T. Certification Request Template</div>
 
 ```

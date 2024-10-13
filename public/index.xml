@@ -6,6 +6,42 @@
       <description>Last 10 notes on 101st-Wiki-Remade</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Battalion Lore Document</title>
+    <link>https://costeer.github.io/101st-Wiki-Remade/Lore/lore</link>
+    <guid>https://costeer.github.io/101st-Wiki-Remade/Lore/lore</guid>
+    <description>Introduction &amp; Founding Once upon a time, in a land where patriotism burned brighter than the sun, there existed the 51st Inferno Battalion, renowned for their unwavering loyalty ...</description>
+    <pubDate>Sun, 13 Oct 2024 13:11:34 GMT</pubDate>
+  </item><item>
+    <title>Deployment Templates</title>
+    <link>https://costeer.github.io/101st-Wiki-Remade/Resources/Deployments/deployment-templates</link>
+    <guid>https://costeer.github.io/101st-Wiki-Remade/Resources/Deployments/deployment-templates</guid>
+    <description>If you are a new SPC or you need to fresh up your memory on how departure notices work read this guide by SL Ain Departure Notice Template If you are a new SPC or you need to fresh up your memory ...</description>
+    <pubDate>Sun, 13 Oct 2024 12:09:51 GMT</pubDate>
+  </item><item>
+    <title>Welcome</title>
+    <link>https://costeer.github.io/101st-Wiki-Remade/</link>
+    <guid>https://costeer.github.io/101st-Wiki-Remade/</guid>
+    <description> This is the WIKI of the 101st “Hell” Battalion, the most active Helldivers 2 Millsim Server. After retiring from active duty in the 51st Inferno Battalion “Mind” assume command of the 101st Hell Battalion The 101st Hell Battalion was a ragtag and disorganized group, often ridiculed and underestimated by their peers.</description>
+    <pubDate>Sun, 13 Oct 2024 12:09:51 GMT</pubDate>
+  </item><item>
+    <title>writing-new-notes</title>
+    <link>https://costeer.github.io/101st-Wiki-Remade/Contributing/writing-new-notes</link>
+    <guid>https://costeer.github.io/101st-Wiki-Remade/Contributing/writing-new-notes</guid>
+    <description>Temporary Note Someone smart probably: there is nothing more permanent than a temporary solution If you want to contribute a new note to the wiki it is important that you remember that: ...</description>
+    <pubDate>Sat, 12 Oct 2024 15:00:11 GMT</pubDate>
+  </item><item>
+    <title>Rules</title>
+    <link>https://costeer.github.io/101st-Wiki-Remade/Resources/rules</link>
+    <guid>https://costeer.github.io/101st-Wiki-Remade/Resources/rules</guid>
+    <description>...</description>
+    <pubDate>Sat, 12 Oct 2024 15:00:11 GMT</pubDate>
+  </item><item>
+    <title>Sanction System</title>
+    <link>https://costeer.github.io/101st-Wiki-Remade/Resources/sanction-system</link>
+    <guid>https://costeer.github.io/101st-Wiki-Remade/Resources/sanction-system</guid>
+    <description> In the spirit of maintaining discipline and order, violations of our sacred code will not go unpunished. Our Commanding Officers (COs) shall mete out justice with a firm yet fair hand, employing a system of warning points commensurate with the transgression.</description>
+    <pubDate>Sat, 12 Oct 2024 15:00:11 GMT</pubDate>
+  </item><item>
     <title>Heat Classes</title>
     <link>https://costeer.github.io/101st-Wiki-Remade/H.E.A.T./heat-classes</link>
     <guid>https://costeer.github.io/101st-Wiki-Remade/H.E.A.T./heat-classes</guid>
@@ -29,42 +65,6 @@
     <guid>https://costeer.github.io/101st-Wiki-Remade/H.E.A.T./heat-resources</guid>
     <description> Challenges for HEAT HEAT Certification Rules 101st “Hell” Battalion Basic Certification Classes Guide H.E.A.T. Certification Request Template **Callsign:**[Ping Yourself] **Certification Requested: **[Tier + Class] **Availability:** [Time] Reason for seeking training: [Give us some lore; bring a little RP into here] Remember to Ping yourself The availability time should be formatted in UTC +2 or using Discord date picker .</description>
     <pubDate>Fri, 11 Oct 2024 13:46:59 GMT</pubDate>
-  </item><item>
-    <title>Welcome</title>
-    <link>https://costeer.github.io/101st-Wiki-Remade/</link>
-    <guid>https://costeer.github.io/101st-Wiki-Remade/</guid>
-    <description> This is the WIKI of the 101st “Hell” Battalion, the most active Helldivers 2 Millsim Server. Start here: newbie-overview At the current time the Wiki is not finished and might still contain some mistakes if you find anything that doesn’t look right please message one of the Current maintainers of the Wiki This WIKI serves as an overview for all the different resources you can find on the server.</description>
-    <pubDate>Fri, 11 Oct 2024 13:46:59 GMT</pubDate>
-  </item><item>
-    <title>Departure Course</title>
-    <link>https://costeer.github.io/101st-Wiki-Remade/Resources/Deployments/departure-course</link>
-    <guid>https://costeer.github.io/101st-Wiki-Remade/Resources/Deployments/departure-course</guid>
-    <description>This will be a short course or Reminder on how to create and manage Departure Notices. If you have any Questions after this please feel free to message your Commanding Officer and if they are not reachable the Person above them.</description>
-    <pubDate>Thu, 10 Oct 2024 02:29:41 GMT</pubDate>
-  </item><item>
-    <title>External Resources</title>
-    <link>https://costeer.github.io/101st-Wiki-Remade/Resources/external-resources</link>
-    <guid>https://costeer.github.io/101st-Wiki-Remade/Resources/external-resources</guid>
-    <description> Battalion Roster You can find most information about Company’s Platoons Squads and individual members in the Battalion Roster. Battalion Steam Community post SCO Leadership Course Tech Department Detailed Data Sheet Enemy Weak Points and Damage Numbers docs.google.com/spreadsheets/d/e/2PACX-1vRBrOIXQIYaOBNw8v9zRX4Qj8BDP0xaMTAzGhL1Tv6QxOU43RXM_ByDHwk4xw_HRjsCXhpif-jUlQAn/pubhtml 101st Tech Document: Armor Penetration and Weak Points explained docs.google.com/document/d/1uBE9SS0gcKGBTMJQ02LuG0LV79A2OtrJipnDjtRZVSk/edit 101st Tech Document: Health and Armor docs.google.com/document/d/12fqZmm1_1GoQFq-aabzwHPujTtprDQ4ua5nC_ck-mPU/edit .</description>
-    <pubDate>Thu, 10 Oct 2024 02:29:41 GMT</pubDate>
-  </item><item>
-    <title>Rules</title>
-    <link>https://costeer.github.io/101st-Wiki-Remade/Resources/rules</link>
-    <guid>https://costeer.github.io/101st-Wiki-Remade/Resources/rules</guid>
-    <description>...</description>
-    <pubDate>Thu, 10 Oct 2024 02:29:41 GMT</pubDate>
-  </item><item>
-    <title>IA Resources</title>
-    <link>https://costeer.github.io/101st-Wiki-Remade/Internal-Affairs/ia-resources</link>
-    <guid>https://costeer.github.io/101st-Wiki-Remade/Internal-Affairs/ia-resources</guid>
-    <description>...</description>
-    <pubDate>Wed, 09 Oct 2024 22:34:00 GMT</pubDate>
-  </item><item>
-    <title>How to Contribute</title>
-    <link>https://costeer.github.io/101st-Wiki-Remade/Contributing/how-to-contribute</link>
-    <guid>https://costeer.github.io/101st-Wiki-Remade/Contributing/how-to-contribute</guid>
-    <description>How to set up Obsidian and Git to Contribute to the wiki.</description>
-    <pubDate>Wed, 09 Oct 2024 22:20:51 GMT</pubDate>
   </item>
     </channel>
   </rss>

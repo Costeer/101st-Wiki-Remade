@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Lore/lore.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Lore/lore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Lore/lore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Lore/lore.md"
               }
             }
           }
@@ -161,12 +161,21 @@
   },
   "active": "3f9a2f1029bd9761",
   "lastOpenFiles": [
+    "index.md",
+    "Lore/lore.md",
+    "Lore",
+    "101 Training Program/newbie-overview.md",
+    "101 Training Program/deployment-concept-overview.md",
+    "00-Meta/deployment-dignups.md",
+    "101 Training Program/communication-fundamentals.md",
     "101 Training Program/cadet-fundamentals.md",
     "101 Training Program/code-of-conduct.md",
-    "101 Training Program/communication-fundamentals.md",
-    "101 Training Program/deployment-concept-overview.md",
     "101 Training Program/advanced-movement-mechanics.md",
-    "index.md",
+    "101 Training Program/basic-training-introduction.md",
+    "H.E.A.T./heat-resources.md",
+    "H.E.A.T./heat-index.md",
+    "H.E.A.T./heat-classes.md",
+    "H.E.A.T./frequently-asked-questions-heat.md",
     "Contributing/custom-formatting-features.md",
     "Contributing/quick-start-guide-obsidian.md",
     "Contributing/writing-new-notes.md",
@@ -178,16 +187,8 @@
     "Contributing/note-properties.md",
     "Contributing/markdown-guide.md",
     "Contributing/how-to-contribute.md",
-    "H.E.A.T./heat-classes.md",
-    "H.E.A.T./frequently-asked-questions-heat.md",
     "00-Meta/templates/divider-text.md",
     "00-Meta/templates/template.md",
-    "The Compendium/compendium-index.md",
-    "H.E.A.T./heat-resources.md",
-    "Resources/deployment-course.md",
-    "Resources/external-resources.md",
-    "Resources/Deployments/deployment-tallie-guide.md",
-    "Resources/Deployments/mission-types.md",
     "01-Pictures/contributing-guide/Pasted image 20241010001526.png",
     "01-Pictures/contributing-guide/Pasted image 20241010001512.png",
     "01-Pictures/contributing-guide/Pasted image 20241010001457.png",
@@ -205,7 +206,6 @@
     "01-Pictures/header-heatres.png-autosave.kra",
     "01-Pictures/header-uset.png-autosave.kra",
     "01-Pictures/header-dco.png~",
-    "01-Pictures/header-coc.png~",
-    "01-Pictures/header-bti.png~"
+    "01-Pictures/header-coc.png~"
   ]
 }

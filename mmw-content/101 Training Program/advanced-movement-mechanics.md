@@ -2,8 +2,7 @@
 title: Advanced Movement Mech.
 ---
 ![[header-amm.png]]
-### Movement Speeds
-
+# <div class="dividernc">Movement Speeds</div>
 Depending on the situation, the team might be required to move at different speeds in order to move effectively as a unit. It could be used to slow down to let others catch up while still maintaining movement at all times to avoid being vulnerable, or to speed up to catch up with others or to approach an objective much faster.
 
 ##### Single Time:
@@ -17,9 +16,7 @@ Normal Sprinting Pace by holding the “W” key and the “Sprint” key. This 
 ##### Triple Time:
 
 Fast Running Pace by utilizing equipment available or utility. This is used to get to an objective as fast as possible and with as little downtime, usually used to capture an objective or to board a Pelican.
-
-***
-### General Movement
+#  <div class="dividernc">General Movement</div>
 
 ##### Situational Awareness:
 
