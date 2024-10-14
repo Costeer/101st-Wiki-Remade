@@ -13,9 +13,10 @@ After retiring from active duty in the 51st Inferno Battalion "Mind" assume comm
 The 101st Hell Battalion was a ragtag and disorganized group, often ridiculed and underestimated by their peers. As quickly as Mind assumed command the 101st was rapidly transformed into an organized fighting force that gave hope to the civilians they saved and invoked fear in the hearts of the wretched enemies of liberty before their swift eradication, the 101st were reborn and willing to deploy into hell itself as under the command of Mind they felt certain of victory no matter the odds.
 
 -[[lore|Battalion Lore Document]] 
+***
+
 
 ## New to the 101st?
-***
 we have a very short Getting started guide for you so you can start defending Managed Democracy as fast as Possible [[newbie-overview]]
 
 ***
