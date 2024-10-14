@@ -107,3 +107,6 @@ We promise, this is the last page. This is your opportunity to explain your chan
 ![[Pasted image 20241010001526.png]]
 
 Reviews may be quick or not, but, please do what you are able to communicate with the team regarding any questions or issues that may come up during review. Pull Requests that are abandoned after 30 days will be assumed to be left in the entirely hands of the team and will be handled according to their judgment.
+
+*credit: morowind modding wiki* 
+only small parts have been edited to make them apply to the 101st wiki

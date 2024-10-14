@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Contributing/how-to-contribute.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Contributing/how-to-contribute.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Contributing/how-to-contribute.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Contributing/how-to-contribute.md"
               }
             }
           }
@@ -173,6 +173,8 @@
   },
   "active": "f06d1c58115acd86",
   "lastOpenFiles": [
+    "Contributing/quick-start-guide-obsidian.md",
+    "index.md",
     "Ministry of Truth/Personnel Files/personnel-file-steroid.md",
     "Ministry of Truth/Personnel Files/personnel-file-cross.md",
     "Ministry of Truth/Personnel Files/personnel-file-crumbs.md",
@@ -189,7 +191,6 @@
     "101 Training Program/basic-training-introduction.md",
     "101 Training Program/cadet-fundamentals.md",
     "101 Training Program/advanced-movement-mechanics.md",
-    "index.md",
     "channel-overview.md",
     "Ministry of Truth/lore.md",
     "Ministry of Truth",
@@ -199,7 +200,6 @@
     "101 Training Program/code-of-conduct.md",
     "H.E.A.T./heat-resources.md",
     "H.E.A.T./heat-index.md",
-    "H.E.A.T./heat-classes.md",
     "01-Pictures/header-rules.png",
     "01-Pictures/contributing-guide/Pasted image 20241010001526.png",
     "01-Pictures/contributing-guide/Pasted image 20241010001512.png",
