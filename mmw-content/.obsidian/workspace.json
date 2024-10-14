@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ministry of Truth/Personnel Files/personnel-file-cross.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ministry of Truth/Personnel Files/personnel-file-cross.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ministry of Truth/Personnel Files/personnel-file-cross.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ministry of Truth/Personnel Files/personnel-file-cross.md"
+                "file": "index.md"
               }
             }
           }
@@ -171,7 +171,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "569d8c2a474e1c92",
+  "active": "f06d1c58115acd86",
   "lastOpenFiles": [
     "Ministry of Truth/Personnel Files/personnel-file-steroid.md",
     "Ministry of Truth/Personnel Files/personnel-file-cross.md",
