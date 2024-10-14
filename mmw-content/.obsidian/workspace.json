@@ -8,31 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8e6f0e7ebe10cac4",
+            "id": "3f9a2f1029bd9761",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/rules.md",
+                "file": "Lore/Personnel Files/personnel-file-steroid.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3f9a2f1029bd9761",
+            "id": "d2a8432cf784e44b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/external-resources.md",
+                "file": "Lore/Personnel Files/personnel-file-steroid.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f06d1c58115acd86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore/Personnel Files/Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/external-resources.md",
+                "file": "Lore/Personnel Files/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/external-resources.md",
+                "file": "Lore/Personnel Files/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/external-resources.md"
+                "file": "Lore/Personnel Files/Untitled.md"
               }
             }
           }
@@ -159,18 +171,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3f9a2f1029bd9761",
+  "active": "f06d1c58115acd86",
   "lastOpenFiles": [
+    "Lore/Personnel Files/personnel-file-steroid.md",
+    "Lore/Personnel Files/Untitled.md",
+    "Contributing/custom-formatting-features.md",
+    "Resources/Deployments/deployment-templates.md",
+    "Resources/rank-responsibilities.md",
+    "Resources/Chain of Command/command-structure.md",
+    "Resources/external-resources.md",
+    "Resources/medals.md",
+    "Resources/rules.md",
+    "101 Training Program/newbie-overview.md",
     "101 Training Program/basic-training-introduction.md",
     "101 Training Program/cadet-fundamentals.md",
     "101 Training Program/advanced-movement-mechanics.md",
-    "Resources/external-resources.md",
-    "Resources/rules.md",
     "index.md",
     "channel-overview.md",
     "Lore/lore.md",
     "Lore",
-    "101 Training Program/newbie-overview.md",
     "101 Training Program/deployment-concept-overview.md",
     "00-Meta/deployment-dignups.md",
     "101 Training Program/communication-fundamentals.md",
@@ -179,16 +198,9 @@
     "H.E.A.T./heat-index.md",
     "H.E.A.T./heat-classes.md",
     "H.E.A.T./frequently-asked-questions-heat.md",
-    "Contributing/custom-formatting-features.md",
     "Contributing/quick-start-guide-obsidian.md",
     "Contributing/writing-new-notes.md",
-    "Resources/Deployments/deployment-templates.md",
-    "Resources/acronyms-abbreviations-slang.md",
     "01-Pictures/header-rules.png",
-    "Resources/sanction-system.md",
-    "Contributing/note-properties.md",
-    "Contributing/markdown-guide.md",
-    "Contributing/how-to-contribute.md",
     "01-Pictures/contributing-guide/Pasted image 20241010001526.png",
     "01-Pictures/contributing-guide/Pasted image 20241010001512.png",
     "01-Pictures/contributing-guide/Pasted image 20241010001457.png",

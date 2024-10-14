@@ -23,5 +23,11 @@ Sergeants are squad ICs, meaning they are the direct leader of everyone in their
 <h2 style="color:rgb(0, 122, 55)">Sergeant Mayor</h2>
 Sergeant Majors are platoon 2ICs, as well as Squad ICs, meaning they have all of the duties of a Sergeant mentioned throughout this cadre, as well as a separate set of duties specific to them. As a Sergeant Major, you should build a strong understanding of the squads, Sergeants and Corporals in your platoon, in order to liaise with them and help them to communicate with each other and with the platoon's Lieutenant. Your duties will include issuing specific tasks and targets to the Sergeants in your platoon based upon your Lieutenant's goals and them helping those Sergeants to achieve them. You must also encourage the activity of the Sergeants and Corporals in your platoon and report any inactive or incompetent COs to your Lieutenant. Finally, you must ensure that squads which are active and full or near-full have a strong Corporal to support the Sergeant in leading the squad. This is discussed more in the Standard Operating Procedures section of the cadre
 
+- they are to report squad activity and overall platoon activity to their SL/LT
+- they must keep track and have a good eye on their squad and platoon, ensuring zero to none fuck ups
+- they must be the first point of contact for the SGT's and also help them resolve the issue or pass it up
+- they are to be Drill SGT's
+- they are to help moderate the platoon chat and also report and problems to their CO's
+
 
 ![[note-end-logo.png]]
