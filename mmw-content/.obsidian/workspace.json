@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Personnel Files/personnel-file-steroid.md",
+                "file": "Ministry of Truth/Personnel Files/personnel-file-steroid.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Personnel Files/personnel-file-steroid.md",
+                "file": "Ministry of Truth/Personnel Files/personnel-file-steroid.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Personnel Files/personnel-file-cross.md",
+                "file": "Ministry of Truth/Personnel Files/personnel-file-cross.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lore/Personnel Files/personnel-file-cross.md",
+                "file": "Ministry of Truth/Personnel Files/personnel-file-cross.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lore/Personnel Files/personnel-file-cross.md",
+                "file": "Ministry of Truth/Personnel Files/personnel-file-cross.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lore/Personnel Files/personnel-file-cross.md"
+                "file": "Ministry of Truth/Personnel Files/personnel-file-cross.md"
               }
             }
           }
@@ -171,12 +171,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f06d1c58115acd86",
+  "active": "569d8c2a474e1c92",
   "lastOpenFiles": [
-    "Lore/Personnel Files/personnel-file-steroid.md",
-    "Lore/Personnel Files/personnel-file-cross.md",
-    "Lore/Personnel Files/personnel-file-crumbs.md",
-    "Lore/Personnel Files/personnel-file-gael.md",
+    "Ministry of Truth/Personnel Files/personnel-file-steroid.md",
+    "Ministry of Truth/Personnel Files/personnel-file-cross.md",
+    "Ministry of Truth/Personnel Files/personnel-file-crumbs.md",
+    "Ministry of Truth/Personnel Files/personnel-file-gael.md",
     "00-Meta/templates/personnel-file-header.md",
     "Contributing/custom-formatting-features.md",
     "Resources/Deployments/deployment-templates.md",
@@ -191,8 +191,8 @@
     "101 Training Program/advanced-movement-mechanics.md",
     "index.md",
     "channel-overview.md",
-    "Lore/lore.md",
-    "Lore",
+    "Ministry of Truth/lore.md",
+    "Ministry of Truth",
     "101 Training Program/deployment-concept-overview.md",
     "00-Meta/deployment-dignups.md",
     "101 Training Program/communication-fundamentals.md",
