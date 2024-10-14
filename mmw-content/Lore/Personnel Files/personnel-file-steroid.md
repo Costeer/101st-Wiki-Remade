@@ -3,12 +3,18 @@ tags:
   - personnel-file
 title: Personnel File BM-02 Steroid
 ---
-## 101st “Hell” Battalion
-**Military Personnel File**
+> [!column|flex 3]
+>
+> >  ![[101stSkullAngwy.png|150]]
+> >
+> 
+> > [!yellow|clean] ‎ 
+> > 
+> > ## 101st “Hell” Battalion
+> > ## Military Personnel File
 
-|                                                                                      |                                                                                                                                                                             |
-| ------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Codename: BM-02 Steroid<br>Name:  ██████████<br>Rank: Battalion Major<br>DOB: ██████ | With the permission of Super Earth High<br>Command, Battalion Major Steroid has been granted<br>a processed version of E-710 for medical and <br>recreational purposes.<br> |
+| ------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 
 #### Duties:

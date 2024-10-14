@@ -3,12 +3,19 @@ tags:
   - personnel-file
 title: Personnel File IAC-08 Gael
 ---
-## 101st “Hell” Battalion
-**Military Personnel File**
 
-|                                                                              |                                                                           |
-| ---------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+> [!column|flex 3]
+>
+> >  ![[101stSkullAngwy.png|150]]
+> >
+> 
+> > [!yellow|clean] ‎ 
+> > 
+> > ## 101st “Hell” Battalion
+> > ## Military Personnel File
+
 | Codename: IAC-08 “Gael”<br>Name:  ██████████<br>Rank: Captain<br>DOB: ██████ | “Ad Victoriam Pro Terra Aeterna”    <br>                   -IAC-08 “Gael” |
+| ---------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
 
 **Duties:**
 Captain of the Eurasian Company, he is a tough, but strong leader. Leading his many platoons to victory no matter the adversary, from the scorching temperatures of Hellmire, dense jungles of Malevelon creek, to the freezing temperatures of Marfark. He uses real-life tactics to strategize in tough situations, saving the lives of many, divers or civilians apart.
