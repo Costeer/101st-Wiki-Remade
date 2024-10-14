@@ -6,29 +6,41 @@
       <description>Last 10 notes on 101st-Wiki-Remade</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Welcome</title>
+    <link>https://costeer.github.io/101st-Wiki-Remade/</link>
+    <guid>https://costeer.github.io/101st-Wiki-Remade/</guid>
+    <description>...</description>
+    <pubDate>Mon, 14 Oct 2024 22:19:50 GMT</pubDate>
+  </item><item>
     <title>Personnel File CC-07 Cross</title>
     <link>https://costeer.github.io/101st-Wiki-Remade/Ministry-of-Truth/Personnel-Files/personnel-file-cross</link>
     <guid>https://costeer.github.io/101st-Wiki-Remade/Ministry-of-Truth/Personnel-Files/personnel-file-cross</guid>
     <description>...</description>
-    <pubDate>Mon, 14 Oct 2024 02:51:51 GMT</pubDate>
+    <pubDate>Mon, 14 Oct 2024 02:56:03 GMT</pubDate>
   </item><item>
     <title>Personnel File CC-07 Crumbs</title>
     <link>https://costeer.github.io/101st-Wiki-Remade/Ministry-of-Truth/Personnel-Files/personnel-file-crumbs</link>
     <guid>https://costeer.github.io/101st-Wiki-Remade/Ministry-of-Truth/Personnel-Files/personnel-file-crumbs</guid>
     <description>...</description>
-    <pubDate>Mon, 14 Oct 2024 02:44:59 GMT</pubDate>
+    <pubDate>Mon, 14 Oct 2024 02:56:03 GMT</pubDate>
   </item><item>
     <title>Personnel File IAC-08 Gael</title>
     <link>https://costeer.github.io/101st-Wiki-Remade/Ministry-of-Truth/Personnel-Files/personnel-file-gael</link>
     <guid>https://costeer.github.io/101st-Wiki-Remade/Ministry-of-Truth/Personnel-Files/personnel-file-gael</guid>
     <description>...</description>
-    <pubDate>Mon, 14 Oct 2024 02:44:49 GMT</pubDate>
+    <pubDate>Mon, 14 Oct 2024 02:56:03 GMT</pubDate>
   </item><item>
     <title>Personnel File BM-02 Steroid</title>
     <link>https://costeer.github.io/101st-Wiki-Remade/Ministry-of-Truth/Personnel-Files/personnel-file-steroid</link>
     <guid>https://costeer.github.io/101st-Wiki-Remade/Ministry-of-Truth/Personnel-Files/personnel-file-steroid</guid>
     <description>...</description>
-    <pubDate>Mon, 14 Oct 2024 02:44:30 GMT</pubDate>
+    <pubDate>Mon, 14 Oct 2024 02:56:03 GMT</pubDate>
+  </item><item>
+    <title>Battalion Lore Document</title>
+    <link>https://costeer.github.io/101st-Wiki-Remade/Ministry-of-Truth/lore</link>
+    <guid>https://costeer.github.io/101st-Wiki-Remade/Ministry-of-Truth/lore</guid>
+    <description>Introduction &amp; Founding Once upon a time, in a land where patriotism burned brighter than the sun, there existed the 51st Inferno Battalion, renowned for their unwavering loyalty ...</description>
+    <pubDate>Mon, 14 Oct 2024 02:56:03 GMT</pubDate>
   </item><item>
     <title>Deployment Templates</title>
     <link>https://costeer.github.io/101st-Wiki-Remade/Resources/Deployments/deployment-templates</link>
@@ -53,18 +65,6 @@
     <guid>https://costeer.github.io/101st-Wiki-Remade/Resources/rules</guid>
     <description>...</description>
     <pubDate>Sun, 13 Oct 2024 17:23:10 GMT</pubDate>
-  </item><item>
-    <title>Welcome</title>
-    <link>https://costeer.github.io/101st-Wiki-Remade/</link>
-    <guid>https://costeer.github.io/101st-Wiki-Remade/</guid>
-    <description> This is the WIKI of the 101st “Hell” Battalion, the most active Helldivers 2 Millsim Server. After retiring from active duty in the 51st Inferno Battalion “Mind” assume command of the 101st Hell Battalion The 101st Hell Battalion was a ragtag and disorganized group, often ridiculed and underestimated by their peers.</description>
-    <pubDate>Sun, 13 Oct 2024 13:16:21 GMT</pubDate>
-  </item><item>
-    <title>Advanced Movement Mech.</title>
-    <link>https://costeer.github.io/101st-Wiki-Remade/101-Training-Program/advanced-movement-mechanics</link>
-    <guid>https://costeer.github.io/101st-Wiki-Remade/101-Training-Program/advanced-movement-mechanics</guid>
-    <description> Movement Speeds Depending on the situation, the team might be required to move at different speeds in order to move effectively as a unit. It could be used to slow down to let others catch up while still maintaining movement at all times to avoid being vulnerable, or to speed up to catch up with others or to approach an objective much faster.</description>
-    <pubDate>Sun, 13 Oct 2024 13:12:20 GMT</pubDate>
   </item>
     </channel>
   </rss>
