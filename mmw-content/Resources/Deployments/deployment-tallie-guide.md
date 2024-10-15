@@ -10,22 +10,22 @@ This will be a short course or Reminder on how to create and manage Departure No
 
 This Guide will be split into 2 Parts:
 
-#### [[#Tallie Formatting]]
+**[[#Tallie Formatting]]**
  - [[#Potential Templates]]
  - [[#Deployment Header]]
  - [[#Mission Reports]]
  - [[#Additional Information]]
 
-#### [[#Tallie Rules]]
+**[[#Tallie Rules]]**
  - [[#Rules for Information]]
  - [[#Rules for Attendance]]
 
 
-#### Tallie Formatting:
-##### Potential Templates:
+## Tallie Formatting:
+### Potential Templates:
 There are 2 given ways to write a Tallie. One is with a direct Message in the Discord following a given Template for the Header that will be discussed in a later point. This will require you to write each Mission separately as its own Report such as
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXf-sWR9_uL9DEF1LGKQkWg1CaaMUn8yMR2eerZ7E_fouFBNxcTkGnc6inJjtkCufx0n4dCiovhuHr5qdihugl0x85sXzgc__-lls5n3EoRBOFn0MF3wk0fqcQh1mS12G9Y1v9pecJjpwNNlFsu79WZgTuXH?key=aYL5TZa9qzrai8kFWC76zg)
+![[deployment-guide-img1.png]]
 
 In here you can see that the Tallie is split up into 3 Different Sections with a Mission Report for every Mission. If you need any help or ideas for writing a Tallie there is also a Template pinged in the channel made by Battalion General Mind: [101ST MISSION REPORT](https://docs.google.com/document/d/1Sn6gsPAzKgqqhBUZ6ydYEjyEe58B2_G7Tesu7nAVKGQ/edit)
 
@@ -55,11 +55,11 @@ Mission Reports are made for each individual Mission. You are free to write this
 ##### Additional Information:
 You are also free to add additional Information to your Tallie that you think might be important to know. For example if there is a special Theme or purpose on the Deployment feel free to make an extra section above the Mission reports to inform the reader of said purpose. For example if you are hosting a Specialist training Deployment you could add something like this:
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdYzjD-pYLxb9yp-aKbzz_X-JCvSmff5OLUQs_vcZpHHQrRKGL8xnV4h-3HRy9Gr8L6J-koZLhfH89NMYm7UbgNDE9_N-KLQoyqEP_cKq_mVyjHCC5XwTzpKWS3Ni3cO18RwX3537XGYmF-AiCv-KgqzzEJ?key=aYL5TZa9qzrai8kFWC76zg)
+![[deployment-guide-img3.png]]
 
 You could also add a few notes at the bottom about how the Deployment went and the specific performance of the Members within said deployment:
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXekjxyQQL0YMYDwvjxhr7aLOO3zvsYeeWDE58qdfHavfzcTwnbNNoOOPt0PGmFMaQsVSQvxyIhHe4vd8kvZMkJG3MWQs6np3GyARFEAmUXeSwT_G07kvdkYo_mLszjlZZCZrrwA_AYVAO6m2H9kgjR-Bs8f?key=aYL5TZa9qzrai8kFWC76zg)
+![[deployment-guide-img2.png]]
 
 These are optional but are always nice to see in Tallies.
 

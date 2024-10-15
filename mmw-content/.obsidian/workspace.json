@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/external-resources.md",
+                "file": "Resources/Deployments/deployment-tallie-guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/external-resources.md",
+                "file": "Resources/Deployments/deployment-tallie-guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/external-resources.md",
+                "file": "Resources/Deployments/deployment-tallie-guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/external-resources.md"
+                "file": "Resources/Deployments/deployment-tallie-guide.md"
               }
             }
           }
@@ -173,12 +173,17 @@
   },
   "active": "f06d1c58115acd86",
   "lastOpenFiles": [
-    "Resources/medals.md",
-    "Resources/external-resources.md",
-    "Resources/acronyms-abbreviations-slang.md",
-    "Resources/Deployments/deployment-templates.md",
-    "Resources/Deployments/mission-types.md",
+    "Resources/Deployments/deployment-course.md",
+    "Resources/Deployments/departure-course.md",
     "Resources/Deployments/deployment-tallie-guide.md",
+    "Resources/Deployments/deployment-templates.md",
+    "01-Pictures/deployment-guide-img1.png",
+    "01-Pictures/deployment-guide-img3.png",
+    "01-Pictures/deployment-guide-img2.png",
+    "Resources/external-resources.md",
+    "Resources/medals.md",
+    "Resources/acronyms-abbreviations-slang.md",
+    "Resources/Deployments/mission-types.md",
     "Contributing/how-to-contribute.md",
     "Contributing/quick-start-guide-obsidian.md",
     "index.md",
@@ -198,8 +203,6 @@
     "channel-overview.md",
     "Ministry of Truth/lore.md",
     "Ministry of Truth",
-    "101 Training Program/deployment-concept-overview.md",
-    "00-Meta/deployment-dignups.md",
     "01-Pictures/header-rules.png",
     "01-Pictures/contributing-guide/Pasted image 20241010001526.png",
     "01-Pictures/contributing-guide/Pasted image 20241010001512.png",
@@ -207,9 +210,6 @@
     "01-Pictures/contributing-guide/Pasted image 20241010001443.png",
     "01-Pictures/contributing-guide/Pasted image 20241010001435.png",
     "01-Pictures/contributing-guide/Pasted image 20241010001425.png",
-    "01-Pictures/contributing-guide/Pasted image 20241010001355.png",
-    "01-Pictures/contributing-guide/Pasted image 20241010001337.png",
-    "01-Pictures/contributing-guide/Pasted image 20241010001304.png",
     "01-Pictures/contributing-guide",
     "Internal Affairs",
     "01-Pictures/edeting-files/header.kra~",
