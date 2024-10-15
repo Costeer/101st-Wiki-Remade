@@ -18,6 +18,10 @@ You can find most information about Company's Platoons Squads and individual mem
 ## [[basic-training-introduction|Basic Training Program]]
 
 ***
+
+![[deployment-templates]]
+
+***
 # Tech Department
 ## [Detailed Data Sheet Enemy Weak Points and Damage Numbers](https://docs.google.com/spreadsheets/d/e/2PACX-1vRBrOIXQIYaOBNw8v9zRX4Qj8BDP0xaMTAzGhL1Tv6QxOU43RXM_ByDHwk4xw_HRjsCXhpif-jUlQAn/pubhtml)
 

@@ -6,11 +6,29 @@
       <description>Last 10 notes on 101st-Wiki-Remade</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Tallie Writing Guide</title>
+    <link>https://costeer.github.io/101st-Wiki-Remade/Resources/Deployments/deployment-tallie-guide</link>
+    <guid>https://costeer.github.io/101st-Wiki-Remade/Resources/Deployments/deployment-tallie-guide</guid>
+    <description>This will be a short course or Reminder on how to create and manage Departure Notices. If you have any Questions after this please feel free to message your Commanding Officer and if they are not reachable the Person above them.</description>
+    <pubDate>Tue, 15 Oct 2024 14:17:47 GMT</pubDate>
+  </item><item>
+    <title>Templates</title>
+    <link>https://costeer.github.io/101st-Wiki-Remade/Resources/Deployments/deployment-templates</link>
+    <guid>https://costeer.github.io/101st-Wiki-Remade/Resources/Deployments/deployment-templates</guid>
+    <description>If you are a new SPC or you need to fresh up your memory on how departure notices work read this guide by SL Ain Departure Notice Template Discord Tallie Template SITREP Template ...</description>
+    <pubDate>Tue, 15 Oct 2024 14:17:47 GMT</pubDate>
+  </item><item>
+    <title>How to Contribute</title>
+    <link>https://costeer.github.io/101st-Wiki-Remade/Contributing/how-to-contribute</link>
+    <guid>https://costeer.github.io/101st-Wiki-Remade/Contributing/how-to-contribute</guid>
+    <description>How to set up Obsidian and Git to Contribute to the wiki.</description>
+    <pubDate>Mon, 14 Oct 2024 22:28:30 GMT</pubDate>
+  </item><item>
     <title>Welcome</title>
     <link>https://costeer.github.io/101st-Wiki-Remade/</link>
     <guid>https://costeer.github.io/101st-Wiki-Remade/</guid>
     <description>...</description>
-    <pubDate>Mon, 14 Oct 2024 22:19:50 GMT</pubDate>
+    <pubDate>Mon, 14 Oct 2024 22:23:49 GMT</pubDate>
   </item><item>
     <title>Personnel File CC-07 Cross</title>
     <link>https://costeer.github.io/101st-Wiki-Remade/Ministry-of-Truth/Personnel-Files/personnel-file-cross</link>
@@ -42,29 +60,11 @@
     <description>Introduction &amp; Founding Once upon a time, in a land where patriotism burned brighter than the sun, there existed the 51st Inferno Battalion, renowned for their unwavering loyalty ...</description>
     <pubDate>Mon, 14 Oct 2024 02:56:03 GMT</pubDate>
   </item><item>
-    <title>Deployment Templates</title>
-    <link>https://costeer.github.io/101st-Wiki-Remade/Resources/Deployments/deployment-templates</link>
-    <guid>https://costeer.github.io/101st-Wiki-Remade/Resources/Deployments/deployment-templates</guid>
-    <description>If you are a new SPC or you need to fresh up your memory on how departure notices work read this guide by SL Ain Departure Notice Template If you are a new SPC or you need to fresh up your memory ...</description>
-    <pubDate>Mon, 14 Oct 2024 02:34:22 GMT</pubDate>
-  </item><item>
     <title>Rank Responsibilities</title>
     <link>https://costeer.github.io/101st-Wiki-Remade/Resources/rank-responsibilities</link>
     <guid>https://costeer.github.io/101st-Wiki-Remade/Resources/rank-responsibilities</guid>
     <description>...</description>
     <pubDate>Mon, 14 Oct 2024 02:34:22 GMT</pubDate>
-  </item><item>
-    <title>External Resources</title>
-    <link>https://costeer.github.io/101st-Wiki-Remade/Resources/external-resources</link>
-    <guid>https://costeer.github.io/101st-Wiki-Remade/Resources/external-resources</guid>
-    <description> Battalion Roster You can find most information about Company’s Platoons Squads and individual members in the Battalion Roster. Battalion Steam Community post SCO Leadership Course (not external resources but here are the links anyway) Medal System Basic Training Program Tech Department Detailed Data Sheet Enemy Weak Points and Damage Numbers 101st Tech Document: Armor Penetration and Weak Points explained 101st Tech Document: Health and Armor .</description>
-    <pubDate>Sun, 13 Oct 2024 17:51:15 GMT</pubDate>
-  </item><item>
-    <title>Rules</title>
-    <link>https://costeer.github.io/101st-Wiki-Remade/Resources/rules</link>
-    <guid>https://costeer.github.io/101st-Wiki-Remade/Resources/rules</guid>
-    <description>...</description>
-    <pubDate>Sun, 13 Oct 2024 17:23:10 GMT</pubDate>
   </item>
     </channel>
   </rss>
