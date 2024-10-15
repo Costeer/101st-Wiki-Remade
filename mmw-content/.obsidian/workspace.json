@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contributing/how-to-contribute.md",
+                "file": "Resources/Deployments/deployment-templates.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Contributing/how-to-contribute.md",
+                "file": "Resources/Deployments/deployment-templates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Contributing/how-to-contribute.md",
+                "file": "Resources/Deployments/deployment-templates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Contributing/how-to-contribute.md"
+                "file": "Resources/Deployments/deployment-templates.md"
               }
             }
           }
@@ -173,6 +173,8 @@
   },
   "active": "f06d1c58115acd86",
   "lastOpenFiles": [
+    "Resources/Deployments/deployment-tallie-guide.md",
+    "Contributing/how-to-contribute.md",
     "Contributing/quick-start-guide-obsidian.md",
     "index.md",
     "Ministry of Truth/Personnel Files/personnel-file-steroid.md",
@@ -198,8 +200,6 @@
     "00-Meta/deployment-dignups.md",
     "101 Training Program/communication-fundamentals.md",
     "101 Training Program/code-of-conduct.md",
-    "H.E.A.T./heat-resources.md",
-    "H.E.A.T./heat-index.md",
     "01-Pictures/header-rules.png",
     "01-Pictures/contributing-guide/Pasted image 20241010001526.png",
     "01-Pictures/contributing-guide/Pasted image 20241010001512.png",

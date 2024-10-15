@@ -1,5 +1,5 @@
 ---
-title: Deployment Tallie Guide
+title: Tallie Writing Guide
 tags:
   - guide
   - ressources
