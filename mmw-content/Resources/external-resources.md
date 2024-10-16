@@ -2,7 +2,7 @@
 title: External Resources
 ---
 ![[header-externalr.png]]
-## [Battalion Roster](https://docs.google.com/spreadsheets/d/1D1jGrBB1qZpftDeHL7laI_1r4HBO2NDjnYSBF-NVh4s/edit?usp=sharing)
+## [Battalion Roster](https://docs.google.com/spreadsheets/d/1D1jGrBB1qZpftDeHL7laI_1r4HBO2NDjnYSBF-NVh4s/edit?gid=538383608#gid=538383608)
 You can find most information about Company's Platoons Squads and individual members in the Battalion Roster.
 
 ## [Battalion Steam Community post](https://steamcommunity.com/sharedfiles/filedetails/?id=3254089053 "https://steamcommunity.com/sharedfiles/filedetails/?id=3254089053")

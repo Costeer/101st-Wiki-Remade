@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Deployments/deployment-tallie-guide.md",
+                "file": "Resources/external-resources.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Deployments/deployment-tallie-guide.md",
+                "file": "Resources/external-resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Deployments/deployment-tallie-guide.md",
+                "file": "Resources/external-resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Deployments/deployment-tallie-guide.md"
+                "file": "Resources/external-resources.md"
               }
             }
           }
@@ -173,9 +173,9 @@
   },
   "active": "f06d1c58115acd86",
   "lastOpenFiles": [
+    "Resources/Deployments/deployment-tallie-guide.md",
     "Resources/Deployments/deployment-course.md",
     "Resources/Deployments/departure-course.md",
-    "Resources/Deployments/deployment-tallie-guide.md",
     "Resources/Deployments/deployment-templates.md",
     "01-Pictures/deployment-guide-img1.png",
     "01-Pictures/deployment-guide-img3.png",
