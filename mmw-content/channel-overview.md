@@ -99,7 +99,7 @@ This is where you can request a helmet if you are a Sargent or if you aren't che
 
 ![[loa.png]]
 
-LOA request is where you write a message to let the people in the server now if you are unavailable **PLEASE ONLY MAKE A LOA REQUEST IF YOU WILL BE GONE FOR MORE THAN 5 DAYS**
+LOA request is where you write a message to let the people in the server know if you are unavailable **PLEASE ONLY MAKE A LOA REQUEST IF YOU WILL BE GONE FOR MORE THAN 5 DAYS**
 
 ***
 

@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/external-resources.md",
+                "file": "channel-overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/external-resources.md",
+                "file": "channel-overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/external-resources.md",
+                "file": "channel-overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/external-resources.md"
+                "file": "channel-overview.md"
               }
             }
           }
@@ -173,6 +173,15 @@
   },
   "active": "f06d1c58115acd86",
   "lastOpenFiles": [
+    "index.md",
+    "channel-overview.md",
+    "Resources/useful-tools.md",
+    "Resources/sanction-system.md",
+    "Resources/rules.md",
+    "Resources/rank-responsibilities.md",
+    "Resources/medals.md",
+    "Resources/external-resources.md",
+    "Resources/acronyms-abbreviations-slang.md",
     "Resources/Deployments/deployment-tallie-guide.md",
     "Resources/Deployments/deployment-course.md",
     "Resources/Deployments/departure-course.md",
@@ -180,28 +189,19 @@
     "01-Pictures/deployment-guide-img1.png",
     "01-Pictures/deployment-guide-img3.png",
     "01-Pictures/deployment-guide-img2.png",
-    "Resources/external-resources.md",
-    "Resources/medals.md",
-    "Resources/acronyms-abbreviations-slang.md",
     "Resources/Deployments/mission-types.md",
     "Contributing/how-to-contribute.md",
     "Contributing/quick-start-guide-obsidian.md",
-    "index.md",
     "Ministry of Truth/Personnel Files/personnel-file-steroid.md",
     "Ministry of Truth/Personnel Files/personnel-file-cross.md",
     "Ministry of Truth/Personnel Files/personnel-file-crumbs.md",
     "Ministry of Truth/Personnel Files/personnel-file-gael.md",
     "00-Meta/templates/personnel-file-header.md",
     "Contributing/custom-formatting-features.md",
-    "Resources/rank-responsibilities.md",
     "Resources/Chain of Command/command-structure.md",
-    "Resources/rules.md",
     "101 Training Program/newbie-overview.md",
     "101 Training Program/basic-training-introduction.md",
     "101 Training Program/cadet-fundamentals.md",
-    "101 Training Program/advanced-movement-mechanics.md",
-    "channel-overview.md",
-    "Ministry of Truth/lore.md",
     "Ministry of Truth",
     "01-Pictures/header-rules.png",
     "01-Pictures/contributing-guide/Pasted image 20241010001526.png",
