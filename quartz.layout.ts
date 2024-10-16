@@ -37,16 +37,15 @@ export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     //Component.Breadcrumbs(),
     //Component.ArticleTitle(),
-    
+    Component.MobileOnly(),
     Component.MobileOnly(Component.TableOfContents2()),
   ],
   left: [
-    Component.DesktopOnly(Component.PageTitle()),
+    Component.PageTitle(),
     //Component.MobileOnly(Component.Spacer()),
 
     Component.Search(),
-    Component.DesktopOnly(Component.Explorer({
-      folderClickBehavior: "link", 
+    Component.DesktopOnly(Component.Explorer({ 
       filterFn: (node) => node.name !== "templates",
     })),
     
