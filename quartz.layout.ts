@@ -17,7 +17,7 @@ const graphConfig = {
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
-  header: [Component.LinksHeader()],
+  header: [Component.DesktopOnly(Component.LinksHeader())],
   afterBody: [
     Component.ContentMeta(),
     //Component.Graph(),
@@ -37,25 +37,26 @@ export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     //Component.Breadcrumbs(),
     //Component.ArticleTitle(),
-    
+    Component.MobileOnly(),
     Component.MobileOnly(Component.TableOfContents2()),
   ],
   left: [
     Component.PageTitle(),
-    Component.MobileOnly(Component.Spacer()),
+    //Component.MobileOnly(Component.Spacer()),
 
-
-    Component.DesktopOnly(Component.Explorer({
-      folderClickBehavior: "link", 
+    Component.Search(),
+    Component.DesktopOnly(Component.Explorer({ 
       filterFn: (node) => node.name !== "templates",
     })),
+    
+    
   ],
   right: [
     Component.MobileOnly(Component.Explorer({
        
       filterFn: (node) => node.name !== "templates",
     })),
-    Component.Search(),
+
     Component.Backlinks(),    
   ],
 }
