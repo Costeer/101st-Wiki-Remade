@@ -18,6 +18,19 @@ Same goes with the rest
 I dont wanna se CPLs doing platoon wide pings
 And SLs doing company wide pings
 
+
+> [!QUOTE] BM-04 "Stells"
+> **Squad Pings** Nobody is allowed to do Squad pings aside from the respective Sergeants and up. If the Corporal from said squad has special permission from his Sergeant, he is the only exception (within reason). 
+> 
+> **Nobody else.** Permission or not- Specialists cannot do squad pings. Privates cannot do squad pings.
+> 
+> You may ping your squad in the signups. if you have permission.
+
+Midget Company Company Hub 19.10.2024 16:00
+
+
+***
+
 - Be respectful to everyone, especially JCOs, SCOs, HC and especially in public channels. If you have something to say or suggest, go to your CPL/SGT first and run it by them
 
 ***

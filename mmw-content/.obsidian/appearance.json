@@ -13,5 +13,6 @@
   "theme": "obsidian",
   "cssTheme": "Vanilla AMOLED",
   "showViewHeader": false,
-  "nativeMenus": false
+  "nativeMenus": false,
+  "accentColor": "#e6de00"
 }
