@@ -15,11 +15,13 @@ The 101st Hell Battalion was a ragtag and disorganized group, often ridiculed an
 -[[lore|Battalion Lore Document]] 
 ***
 
-
 ## New to the 101st?
-we have a very short Getting started guide for you so you can start defending Managed Democracy as fast as Possible [[newbie-overview]]
+we have a very short Getting started guide for you so you can start defending Managed Democracy as fast as Possible [[newbie-overview]] (to list deployments type `/upcoming events` in the commands channel)
 
 ***
+
+Certainly! Below is your HTML code rewritten as a reusable HTML component using a template-like structure. This makes it easier to understand and maintain:
+
 **If you are interested in doing more than just joining deployments** we have departments within our community, every member has the right to grind towards and earn [[medals]]  Here are some departments:  
 
 - [[heat-index|H.E.A.T. ]] Is a in depth class system with training tiers and difficulty levels respective to certain players skill levels in the game.  

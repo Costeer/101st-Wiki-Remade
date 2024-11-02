@@ -3,7 +3,7 @@ title: Battalion Lore Document
 ---
 # <div class="dividernc">Introduction & Founding</div>
 
-Once upon a time, in a land where patriotism burned brighter than the sun, there existed the 51st Inferno Battalion, renowned for their unwavering loyalty and fierce dedication to the cause of liberty and democracy. At the heart of this venerated battalion was a soldier unlike any other, Mind. His name was earned through his exceptional tactical and strategic mindset which in battles that were considered by Super Earth Tactical Command to of been unwinnable fights.
+Once upon a time, in a land where patriotism burned brighter than the sun, there existed the 51st Inferno Battalion, renowned for their unwavering loyalty and fierce dedication to the cause of liberty and democracy. At the heart of this venerated battalion was a soldier unlike any other, Mind. His name was earned through his exceptional tactical and strategic mindset which in battles that were considered by Super Earth Tactical Command to of been unwinnable fights. (to list deployments type `/upcoming events` in the commands channel)
 
 Mind’s brilliance in combat defied the odds and in every battle his battalion faced they achieved resounding victories.
 

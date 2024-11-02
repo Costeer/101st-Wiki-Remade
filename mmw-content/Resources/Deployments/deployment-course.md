@@ -7,115 +7,139 @@ tags:
 title: Deployment Course
 ---
 ![[header-dco.png]]
-This will be a short course or Reminder on how to create and manage Departure Notices. If you have any Questions after this please feel free to message your Commanding Officer and if they are not reachable the Person above them.
+###### <span style="color:rgb(195, 165, 168)">DEPLOYMENT GUIDE AND RULES. YOUR PATH TO A SUCCESSFUL DEPLOYMENT.</span>
 
-I’m going to be splitting this Guide  into 3 different Segments:  
-**Signup Creation**
-- Creation  
-- Theming  
+With the new deployment bot "Athena" our deployment system is easier than ever.
+There are now 2 different paths you can choose from when opting into an official 101st Deployment.
 
-**Signup Editing**
-- Changes  
-- Informing People of Changes
- - Rules for Changes
+"[[#Option 1 - Hot Drops|Hot Drops]]" and "[[#Option 2 Scheduled Deployments|Scheduled Deployments]]"
 
-**Signup Removal**  
-- Reasons for Removal
-- Procedure for Removal
-- Informing People of Removal
+### Option 1 Hot Drops
+If you want to get right into the action you can head to the [Hot drop](https://discord.com/channels/1218615560049397770/1297308619641061397) Channel in the discord to be put into a deployment ASAP.
 
-### Signup Creation:
-**Creation:**
-First of head into the “Deployment-Signup” Channel within the Discord, this is where you will be posting your Signups. After doing so go to the Message Bar and write 
+- **SPC rank or higher** you can click the "Host" button to be placed into Athena's queue as a host.
 
-“/Event Create” and click on the event create Option. Afterwards you should see this:  
+- **PVT rank or higher** you can click the "Join" button to be placed into Athena's queue as a participant.
 
-![[event_create.png]]
+Once you have selected an option, you will be placed into Athena's queue, she will begin going through the list of sign ups and will begin matchmaking deployments automatically.
+If you wish to remove yourself from the queue, click the "Leave" button!
 
-Event Creations are split up into 3 parts:  the title, the event start and the Description.  
-The title can be anything you want to call it for Example you could just type Operation:“name” in it but this is solely up to you.  
+![[athenaBot-Hotdropqueue.png]]
+Once Athena has chosen you for a deployment, she will create a Departure Notice with pings for the host and the chosen participants automatically in the [Helldive departures](https://discord.com/channels/1218615560049397770/1297304177021685821) channel in the discord.
 
-![[title.png]]
+Athena will also at this time automatically create a Voice Channel with access limited to the deployment members. You have up to 15 minutes to join the official VC once it has been created.
 
-Afterwards you set the Time of the Deployment. You will type in the “event_start” Option in  this format: year-month-day time an example would be this:  
+Once an hour has passed and all members have left the VC it will be taken down by Athena.
 
-![[event_start.png]]
+### Option 2 Scheduled Deployments
+If you are of SPC rank or higher and wish to Host a deployment at a specific time and date, you may do so within the [Create a deployment](https://discord.com/channels/1218615560049397770/1297304898446164121) channel in the discord.
 
-**Be advised:** The time has to be written in the 24 Hour Clock in UTC+2.
+Once you are within the "create-a-deployment" channel, go to the Athena bot and click on the "New Deployment" button.
 
-You will have to adjust this in order to set correct times for your Deployments.
+![[athenaBot-createNewDeployment.png]]
 
-If for example you are one hour ahead in UTC+3 and it is 24:00 for you and the next day has started. You would have to set the date a day back since it is only 23:00 and the day before in UTC+2
+After you have clicked the button, Athena will pop up and ask you to provide the details of your deployment, please do so accurately.
 
-  
-Last but not least you can add a Description by clicking in the Chat Bar outside of any of the already given templates. There you see Options of what you can do but the only important one is the “Description” option. Click this again and you will add a field for your Description. In this you can type anything you want to do in your Deployment.  
-For example, if you wish to host a Deployment on the Automaton front on Difficulty 9 with only Barrages you could type it up like this:
+![[athenaBot-newDeploymentCard.png]]
 
+Take special care to fill out the last box exactly as shown using the `"YYYY-MM-DD HH:MM UTC(+/-)X" format`
+```
+Examples 
+2024-10-14 16:30 UTC-7
+2024-10-16 05:30 UTC+5
+```
+If you input this information incorrectly Athena will not process your request.
+If you are unsure of your timezone value for UTC please visit the following links below to ensure you add the appropriate value after "UTC" when submitting your deployment to Athena.
 
-After you have done all of the Above your deployment Signup should look something like this:
+https://www.google.com/search?q=what+is+my+time+zone&oq=what+is+my+time+zone
+https://www.timeanddate.com/time/map/
 
-![[description_long.png]]
+Once you have given Athena all the information she needs, click the "Submit" button and she will respond with the following message:
 
-or like this
+![[athenaBot-selectChannel.png]]
 
-![[description_short.png]]
+After Athena asks you to select a channel, click the "Select a Channel" dropdown menu and you will see the following 3 options:
 
-Once you have done all of these Steps you can just hit enter and the Bot will automatically create your Signup and all you have left to do is be sure to Join your own Deployment.
+![[athenaBot-selectChannel2.png]]
 
-##### Theming:
-The theme of the Deployment is completely left up to you, all you have to do is to make sure to write anything specific you want to do within the Description in order for everyone who signs up to know what will be happening in this Mission.
+The options include the following:
+- **Battalion** deployments open to the entire Battalion, heroes of PVT rank or above may join, regardless of region.
+- **EU** seperate deployment channel for heroes ranked PVT or above who are based in a EU company.
+- **NA** seperate deployment channel for heroes ranked PVT or above who are based in a NA company.
 
-### Signup Editing:
+Once you select a channel, Athena will respond with "Deployment Created Successfully" and she will post your deployment signup in the appropriate channel based on your selection.
 
-Changes:
+![[channelListDeployments.png]]
 
-If you need to change anything within your existing Deployment just go into the Chat bar again and type in “event edit”, click on the Option which will prompt a window that should look like this:  
+Within the channel you selected, you will now see your deployment signup open for others to register. Athena will automatically sign you up as "Offense" if you created the deployment, but you can change your role at any time using the "Select role to sign up" drop down menu at the bottom of the post.
 
-![[event_edit.png]]
+![[athenaBot-message.png]]
 
-Here you have 3 fields that need to be filled out. First is the event id. If you click on it it should display all currently ongoing deployments. If you wish to find your deployment then you just need to click on the Deployment that has your name in it. After this is done you can click on the certain “Field” you want to change, for example if i wish to change the time of the deployment due to me being unable to host at the given time i can click on the “event start” Option, which will then prompt me to assign a new value to the event start time.
+You will also see 2 additional buttons at the bottom of your signup
 
-You will have to Type in the entire time again in the format given on the previous page. Let’s say i want to change the time from 15:00 to 16:00 I’d have to type it like this:
+- **Delete Deployment** will cancel your deployment and remove your signup. There is no confirmation on this, so don't click this button unless you are sure you want to scrub the operation.
+- **Edit Deployment** will let you change your signup details if you wish to make changes after posting.
 
-![[event_edit.png]]
+![[athenaBot-selectOption.png]]
 
-The same goes for the Description and title. If you want to add something to your description then you need to copy the existing Description and add anything in it.
+![[athenaBot-selectEdit.png]]
 
-After you have done this you can just hit enter and the Bot will automatically change anything you wanted to change.
+15 minutes before your deployment is slated to begin, Athena will Create a private Voice Channel for use during your deployment.
 
-**Informing people of Changes:**
-Once you have changed either the time or Description of the Signup after people have already joined the Deployment just inform them in the Hub or in Dms with a small message that pings them and states what you changed, for example like this:
+At this time Athena will also create a departure notice with pings for host and participants.
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdeF_eSWgWp2WqkiXa60K6waoDD-6sfJhA4G1Bh-u5P1-cK-9TbB6gdVEMzUOuqMzAcwn0pnXzYN2750Dl7v6K475dyhQt4KOwsPPs4GTO3ixR8BiLs9ra5mUYKBFZS8i5DfcUnZpZrMhx4otvXxppKaC4?key=W5XAO3bVFvSLejVCAHP2MA)
+Once your Deployment is complete, you have **48** hours to post a proper Deployment Tally in the [deployment tallies](https://discord.com/channels/1218615560049397770/1227727893740781719)  channel.
 
-**Rules for Changes:**
-If you are planning on changing either the time or adding more Conditions to the Deployment Description then you will be required to inform already existing members in the Deployment signup, that is either within the main Deployment or the Backup of said changes. If you fail to do so and a person does not wish or can not attend the Deployment any longer then it is on you and the person who does not attend is not at fault and will not be held accountable.
-#### Signup Removal:
-**Reasons for Removal:**
+If you are to write your tally within the discord channel itself, **you must**, at minimum, follow the format provided here [Discord template](https://docs.google.com/document/d/1Sn6gsPAzKgqqhBUZ6ydYEjyEe58B2_G7Tesu7nAVKGQ/edit)
 
-There are 2 Main Reasons for Deployment removal:  
-1. The Deployment has ended and the Signup is just taking up Space.
-Whenever you finish a Deployment you are asked to remove your own Deployment Signup in order to not cluster the chat with already finished Deployments.
-2. You will not be able to host the Deployment and need to cancel it.
-If you are ever unable to host the Deployment due to whatever reason please remove it in order to not confuse people with a non-existent Deployment.
+If you wish to utilize our google doc system instead of writing the tally within Discord itself, **you must**, at minimum, use the sheet provided here [SITREP template](https://docs.google.com/document/d/1xkLRULZne8kqpC5HCleaOTFmA7CPEQbTKBdoJqrdGiE/edit?tab=t.0)
 
-**Procedure of Removal:**
-If you wish to remove your Signup you again go into the chat bar and type in “event removal”
-Be sure that it is removal and not “event close” ,these two options do different things.
-Once you have done so you again just choose your event Id and click on it from the list given above the chat. Once you have chosen your Signup you just hit enter and the Bot automatically removes your signup. BE WARNED you are able to remove other people's signups so make sure you only select your own to not cause confusion about missing signups. If you get caught doing this you will be punished.
-
-**Informing People of Removal:**
-If you have removed the Deployment signup for reason 2. You will need to inform anyone signed up as either Main Squad or Backup of the removal.
-Again you will do this in the hub or Dms using a small message that states which deployment it is and give the reason (as long as it isn’t too personal) of why you did so, for example like this:
-
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcQEhavL1FRH4eNnJIK4i-t-w0nQ2x4BjAJDCI8OrQ3l2ky-2ywy22A8sTqAlkKa026G97Xbt4ekwbMya8PZl3qAGn0q-8YzDRtfTgQ72QB9W5kfC7jw6zWk8K6xCgIOROKx04q_Lz53i9Tem1BRxFnIQG1?key=W5XAO3bVFvSLejVCAHP2MA)
-
-After you have done this you fulfilled your role in informing anyone involved of the cancellation of the Deployment and can go about your day.
-Congratulations Helldivers now you know how to manage your Deployment Signups!
-If you have any other Questions feel free to message your CO’s with these Questions.
-I hope you all have a Wonderful day. At ease Soldiers!  
-  
-**SM Ain signing off.**
+When posting the link to your google sheet/tally **you must** follow the format provided here [SITREP template example](https://docs.google.com/document/d/1cn5v5WVoKbprx652FLgBEVDKSPKaNJIyA3_yaWWhGlg/edit?usp=sharing)
 
 
-![[note-end-logo.png]]
+We encourage creative freedom, however, the telly channel is our only enforced RP channel and we take it very seriously.
+
+You are free to add to the provided examples and formats when writing your tally, however, you are forbidden from cutting corners and removing information/shortening the examples we provide.
+
+### Backup Protocols
+
+If you wish to sign up for a Scheduled Deployment as a "Backup" you MUST be available for up to 2 hours after the deployment start time, or until the deployment is finished in case you are called upon to serve. 
+
+If at any point a participant from a Deployment is lost, a backup is to be summoned in their place to allow the deployment to remain on schedule. 
+
+If you sign up as a backup and are called upon, but do not respond to your call to arms, then the penalties will be the same as if you didnt show up for your deployment, repeat offenders will be punished and eventually blacklisted from deploying entirely.
+
+HOT DROPS do not have backups in our new system.
+HOT DROPS are designed for heroes who are READY to dive and have an appropriate amount of time available to complete a full deployment. 
+
+If you signup for a HOT DROP and have to leave at any point, your squad will be without a backup and will suffer.
+Because of this the penalites for leaving a HOT DROP will be more severe and will include but are not limited to being blacklisted from deploying entirely. 
+
+# <span style="color:rgb(255, 26, 48)">REQUIREMENTS TO RECEIVE CREDIT FOR YOUR DEPLOYMENT.</span>
+<span style="color:rgb(255, 26, 48)">ALL DEPLOYMENTS MUST HAVE THE FOLLOWING</span>
+
+- UTILIZATION OF ATHENA DEPLOYMENT SYSTEM
+
+- 3 PARTICIPANTS
+
+- 3 DROPS
+
+- T5+ Difficulty
+
+- MINIMUM 45 MINUTE RUN TIME
+
+- BE HELD IN OFFICIAL DEPLOYMENT VC
+
+- POST A PROPERLY WRITTEN TALLY
+
+- MISSIONS CAN BE FROM DIFFERENT OPERATIONS BUT MUST MEET ALL THE ABOVE REQUIREMENTS
+
+- MULTIPLE POINTS WILL NOT BE AWARDED FOR RUNNING MULTIPLE SETS OF OPERATIONS DURING THE SAME DEPLOYMENT
+
+- IF YOU WISH TO RECEIVE MULTIPLE DEPLOYMENT POINTS YOU MUST CREATE A NEW SIGN UP VIA ATHENA AND POST A TALLY FOR EACH INDIVIDUAL DEPLOYMENT
+
+- REPORT ANY HELLDIVERS WHO ARE A NO-CALL NO-SHOW FOR A DEPLOYMENT TO THEIR IMMEDIATE COMMANDING OFFICER [SGT, SM, SL]
+
+- DO NOT DOUBLE BOOK DEPLOYMENTS! YOU MAY ONLY JOIN OR CREATE OR SIGN UP FOR 1 DEPLOYMENT EVERY 2 HOURS TO AVOID SCHEDULE CONFLICTS BETWEEN DROPS. THIS INCLUDES BACKUPS.
+
+<span style="color:rgb(255, 26, 48)">IF YOU FAIL TO FOLLOW THE INFORMATION PROVIDED IN THIS DOCUMENT YOU ARE SUBJECT TO THE PENALTIES LISTED IN THE LINK BELOW</span> 
