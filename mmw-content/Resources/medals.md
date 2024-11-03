@@ -66,7 +66,6 @@ Make sure you invite people with your own link so we can track it!
 **SPC and up**
 
 Deployment Host Medals are awarded for hosting large numbers of deployments with your members. Those interested in Deployment Host Medals should keep a log of contracts they run through the deployment-tallies channel in the Discord.
-(to list deployments type `/upcoming events` in the commands channel)
 
 | Medal Type                                                   | Requirements          |
 | ------------------------------------------------------------ | --------------------- |
@@ -79,7 +78,7 @@ Deployment Host Medals are awarded for hosting large numbers of deployments with
 *available to*
 **Everyone**
 
-Deployment Attendance Medals are awarded for attending large numbers of deployments, including as the deployment leader. Those interested in Deployment Attendance Medals should keep a log of deployments they attend, noting the date and the deployment leader keeping an eye out for the deployment tallies channel in the Discord. (to list deployments type `/upcoming events` in the commands channel)
+Deployment Attendance Medals are awarded for attending large numbers of deployments, including as the deployment leader. Those interested in Deployment Attendance Medals should keep a log of deployments they attend, noting the date and the deployment leader keeping an eye out for the deployment tallies channel in the Discord. 
 
 | Medal Type                                                   | Requirements            |
 | ------------------------------------------------------------ | ----------------------- |

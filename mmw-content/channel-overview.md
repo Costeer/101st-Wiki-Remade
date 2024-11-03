@@ -125,7 +125,6 @@ LFG channels are for playing casual matches that don't award any points and also
 ![[deploy.png]]
 
 Look here for an explanation [[deployment-dignups]]
-(to list deployments type `/upcoming events` in the commands channel)
 
 ***
 

@@ -2,7 +2,7 @@
 title: Sanction System
 ---
 ![[header-sanctions.png]]
-In the spirit of maintaining discipline and order, violations of our sacred code will not go unpunished. (to list deployments type `/upcoming events` in the commands channel) Our Commanding Officers (COs) shall mete out justice with a firm yet fair hand, employing a system of warning points commensurate with the transgression. Behold the consequences:
+In the spirit of maintaining discipline and order, violations of our sacred code will not go unpunished. Our Commanding Officers (COs) shall mete out justice with a firm yet fair hand, employing a system of warning points commensurate with the transgression. Behold the consequences:
 
 - 5 points: A 24-hour silence befalls you, akin to a temporary radio blackout. 
 - 10 points: A 48-hour silence echoes through the ranks, a stern reminder of the gravity of your actions. 

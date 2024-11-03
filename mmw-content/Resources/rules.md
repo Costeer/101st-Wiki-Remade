@@ -32,7 +32,7 @@ Midget Company Company Hub 19.10.2024 16:00
 ***
 
 - Be respectful to everyone, especially JCOs, SCOs, HC and especially in public channels. If you have something to say or suggest, go to your CPL/SGT first and run it by them
-- Make sure to never sign up to a deployment if you already signed up to a deployment that is less than 2 hours apart from the one you want to sign up (to list deployments type `/upcoming events` in the commands channel)
+- Make sure to never sign up to a deployment if you already signed up to a deployment that is less than 2 hours apart from the one you want to sign up 
 
 ***
 

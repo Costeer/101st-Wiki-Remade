@@ -8,33 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "20c6c7773cf74ce2",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "01-Pictures/channelListDeployments.png"
-              },
-              "icon": "lucide-image",
-              "title": "channelListDeployments"
-            }
-          },
-          {
             "id": "972addb964b35d7c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "H.E.A.T./heat-index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "heat-index"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,13 +164,20 @@
   },
   "active": "972addb964b35d7c",
   "lastOpenFiles": [
+    "H.E.A.T./heat-classes.md",
+    "Resources/sanction-system.md",
+    "Resources/useful-tools.md",
+    "index.md",
+    "channel-overview.md",
+    "Resources/rules.md",
+    "Resources/medals.md",
+    "Ministry of Truth/lore.md",
     "Resources/Deployments/deployment-course.md",
     "Resources/Deployments/departure-course.md",
     "Resources/Deployments/deployment-tallie-guide.md",
     "Resources/Deployments/deployment-templates.md",
     "Resources/Deployments/mission-types.md",
     "Resources/acronyms-abbreviations-slang.md",
-    "channel-overview.md",
     "01-Pictures/athenaBot-createNewDeployment.png",
     "01-Pictures/athenaBot-selectOption.png",
     "01-Pictures/channelListDeployments.png",
@@ -191,20 +185,14 @@
     "01-Pictures/athenaBot-selectEdit.png",
     "01-Pictures/athenaBot-selectChannel2.png",
     "01-Pictures/athenaBot-selectChannel.png",
-    "index.md",
     "01-Pictures/athenaBot-newDeploymentCard.png",
     "01-Pictures/athenaBot-Hotdropqueue.png",
-    "Resources/medals.md",
     "Internal Affairs/ia-resources.md",
     "00-Meta/templates/divider-text.md",
-    "Resources/sanction-system.md",
-    "Resources/rules.md",
     "Resources/Chain of Command/command-structure.md",
-    "Ministry of Truth/lore.md",
     "00-Meta/templates/template.md",
     "00-Meta/templates/personnel-file-header.md",
     "Resources/external-resources.md",
-    "00-Meta/deployment-dignups.md",
-    "Resources/useful-tools.md"
+    "00-Meta/deployment-dignups.md"
   ]
 }
