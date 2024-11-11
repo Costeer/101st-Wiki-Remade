@@ -3,29 +3,14 @@ title: H.E.A.T. Resources
 ---
 ![[header-heatres.png]]
 ***
-
-![[heat-please.png]]
+# [Discord Chanel](https://discord.com/channels/1218615560049397770/1221569714099322880)
 ***
-#### [Challenges for HEAT](https://docs.google.com/document/d/1FIyTpIZ49e4ZGgD6UBXn7HkznYmeLeSsAzK2EywGeow/edit#heading=h.aae8xtng0nb2)
 
-#### [HEAT Certification Rules](https://docs.google.com/document/d/1_QIrqXWPbaftLJhrRuXSrLEWRSUbcX41Nd8e1ZI4-Yk/edit?usp=sharing)
+# HEAT LINKS
 
-#### [101st "Hell" Battalion Basic Certification Classes Guide](https://docs.google.com/presentation/d/1dZMNV413d6bxONV-ZCc657jZ-VLcR5Bn9w8lqzGHK9I/edit#slide=id.g2f240a3e088_0_0)
-
-<div class="dividernc">H.E.A.T. Certification Request Template</div>
-
-```
-**Callsign:**[Ping Yourself]
-**Certification Requested: **[Tier + Class]
-
-**Availability:** [Time]
-
-Reason for seeking training: [Give us some lore; bring a little RP into here]
-```
-
-1. **Remember to Ping yourself**
-2. **The availability time should be formatted in UTC +2 or using [[useful-tools#Discord Date Picker|Discord date picker]]**
-
-
+### [HEAT Class Guide](https://docs.google.com/presentation/d/1Pj1ZmM0bqdOPMO6hAw9QJmLhw14PvhKFI-4_MqqSQRw/present)
+### [HEAT Challenges](https://docs.google.com/document/d/1DeUsLwxzW9FmhItug2bE6XUA0-KYVzPO4Ah2FptjXh4/edit?tab=t.0#heading=h.aae8xtng0nb2)
+### [HEAT Request Form](https://forms.gle/bhm9Vz6F7D3rd3Sj9)
+### [HEAT Roster](https://docs.google.com/spreadsheets/d/1ghe_IFosAef79b97FO0JmQBwvmaL1lsLHxAOfNH_5n0/edit?gid=0#gid=0)
 
 ![[note-end-logo.png]]
