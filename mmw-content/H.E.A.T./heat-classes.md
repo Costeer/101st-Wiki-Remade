@@ -1,6 +1,8 @@
 ---
 title: Heat Classes
 ---
+![[header-heat-clases.png]]
+
 ### This document will be detailing the parameters around the H.E.A.T. Qualification system.
 
 **The system is broken down into 3 steps:**  
