@@ -1,5 +1,5 @@
 ---
-title: Heat Classes
+title: H.E.A.T. Classes
 ---
 ![[header-heat-clases.png]]
 
