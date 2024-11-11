@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "H.E.A.T./heat-classes.md",
+                "file": "H.E.A.T./frequently-asked-questions-heat.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "heat-classes"
+              "title": "frequently-asked-questions-heat"
             }
           }
         ],
@@ -180,11 +180,11 @@
   },
   "active": "5b2b8f6bc578b6d4",
   "lastOpenFiles": [
+    "H.E.A.T./heat-resources.md",
     "H.E.A.T./heat-index.md",
     "H.E.A.T./heat-classes.md",
     "H.E.A.T./frequently-asked-questions-heat.md",
     "01-Pictures/headers/header-heat-clases.png",
-    "H.E.A.T./heat-resources.md",
     "H.E.A.T./heat-quall-guide.md",
     "Resources/external-resources.md",
     "Resources/rules.md",
