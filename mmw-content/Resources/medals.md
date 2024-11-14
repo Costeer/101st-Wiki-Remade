@@ -14,7 +14,7 @@ Medals demonstrate excellent dedication or service to the 101st. Medals are grou
 ##### **Non SPC and J/SCO**
 the only medals you can't get are the [[#Deployment Host Medals]], and the [[#Trainer Medals]] to get them you will need to climb the ranks of the Battalion
 
-
+leave feedback here https://forms.gle/PsXMdcZiGd35SXxF7
 #### Index
 - [[#Service medals]]
 - [[#Recruitment Medals]]

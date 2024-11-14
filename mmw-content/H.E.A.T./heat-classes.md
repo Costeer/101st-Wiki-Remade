@@ -17,6 +17,8 @@ For the best of those who have their H.E.A.T. Advanced Qualification will be kno
 ## <span style="color:rgb(255, 255, 0)">Null Divers</span> 
 
 ***
+
+leave feedback here https://forms.gle/PsXMdcZiGd35SXxF7
 ### **Index**
 - **[[#Offense|Offense]]**
 	- [[#Area of Effect]]

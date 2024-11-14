@@ -11,6 +11,7 @@ title: Useful Tools
 - [[#Date Picker]]
 - [[#Helldiver Training Manual]]
 - [[#Helldivers Companion]]
+- leave feedback here https://forms.gle/PsXMdcZiGd35SXxF7
 ## Color your Discord messages
 
 | ![[colorpickerimmage.png]]                             |

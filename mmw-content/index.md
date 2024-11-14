@@ -17,6 +17,11 @@ The 101st Hell Battalion was a ragtag and disorganized group, often ridiculed an
 we have a very short Getting started guide for you so you can start defending Managed Democracy as fast as Possible [[newbie-overview]] 
 
 ***
+## Want to help with development of the wiki?
+leave feedback here https://forms.gle/PsXMdcZiGd35SXxF7
+
+***
+
 
 **If you are interested in doing more than just joining deployments** we have departments within our community, every member has the right to grind towards and earn [[medals]]  Here are some departments:  
 
@@ -51,5 +56,7 @@ We are always looking for interested Helldivers willing to help maintaining the 
 
 #### Acknowledgements
 - layout heavily inspired by the [Morrowind Modding wiki](https://github.com/morrowind-modding/morrowind-modding.github.io)
+
+leave feedback here https://forms.gle/PsXMdcZiGd35SXxF7
 
 ![[note-end-logo.png]]

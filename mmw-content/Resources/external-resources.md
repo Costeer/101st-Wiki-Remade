@@ -2,7 +2,7 @@
 title: External Resources
 ---
 ![[header-externalr.png]]
-## [Battalion Roster](https://docs.google.com/spreadsheets/d/1D1jGrBB1qZpftDeHL7laI_1r4HBO2NDjnYSBF-NVh4s/edit?gid=538383608#gid=538383608)
+# [Battalion Roster](https://docs.google.com/spreadsheets/d/1D1jGrBB1qZpftDeHL7laI_1r4HBO2NDjnYSBF-NVh4s/edit?gid=538383608#gid=538383608)
 You can find most information about Company's Platoons Squads and individual members in the Battalion Roster.
 
 ## [Rank Responsibilities](https://docs.google.com/document/d/1Ma2f6EDOE3t_hS_kW-F0oGpBvgi51i8GabiiONC4-hQ/edit?usp=sharing)
@@ -12,6 +12,9 @@ You can find most information about Company's Platoons Squads and individual mem
 
 
 ## [SCO Leadership Course](https://docs.google.com/document/d/1rhKn3eonk-LN9OF9oenVpCNp7glfQvC7EBzkkngjwCc/edit?usp=sharing)
+
+
+leave feedback here https://forms.gle/PsXMdcZiGd35SXxF7
 
 ***
 # Tech Department
@@ -24,15 +27,15 @@ You can find most information about Company's Platoons Squads and individual mem
 
 ![[deployment-templates]]
 
+leave feedback here https://forms.gle/PsXMdcZiGd35SXxF7
 
 ***
 (not external resources but here are the links anyway)
 ## [[medals|Medal System]]
 
-
 ## [[basic-training-introduction|Basic Training Program]]
 
-
+leave feedback here https://forms.gle/PsXMdcZiGd35SXxF7
 
 
 

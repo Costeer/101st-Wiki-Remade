@@ -6,6 +6,8 @@ title: Newbie Overview
 ## Welcome to the Server!
 
 if you haven't done so already you should read the [[basic-training-introduction]] as it covers most important things after that you can come back here!
+
+if you want to help with the wiki feel free to leave feedback here https://forms.gle/PsXMdcZiGd35SXxF7
 ## Rules
 We don't have that many rules in this server but if you are unsure about certain edge cases you can always consult the [[rules]] page on here
 ## Tools
