@@ -116,7 +116,7 @@ Medal is awarded to drill sergeants who have taken new cadets through training d
 ***
 
 #### Diamond Medals
-The Diamond medal is only awarded to people that hold at least **4**, or more **GOLD MEDALS.**
+The Diamond medal is only awarded to people that hold at least **5**, or more **GOLD MEDALS.**
 
 An official Awarding Ceremony needs to be held when giving away a Diamond Medal in the general VC inviting the whole community to salute our bravest troops with outstanding dedication.
 

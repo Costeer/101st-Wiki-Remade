@@ -59,4 +59,6 @@ We are always looking for interested Helldivers willing to help maintaining the 
 
 leave feedback here https://forms.gle/PsXMdcZiGd35SXxF7
 
+
+
 ![[note-end-logo.png]]

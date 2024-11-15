@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/external-resources.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "external-resources"
+              "title": "index"
             }
           }
         ]
@@ -165,16 +165,17 @@
   },
   "active": "972addb964b35d7c",
   "lastOpenFiles": [
+    "Resources/medals.md",
+    "index.md",
+    "Resources/external-resources.md",
+    "H.E.A.T./heat-index.md",
     "Resources/sanction-system.md",
     "Resources/rules.md",
     "101 Training Program/advanced-movement-mechanics.md",
     "101 Training Program/newbie-overview.md",
-    "index.md",
     "Resources/acronyms-abbreviations-slang.md",
-    "Resources/medals.md",
     "H.E.A.T./heat-resources.md",
     "H.E.A.T./heat-classes.md",
-    "H.E.A.T./heat-index.md",
     "Resources/useful-tools.md",
     "channel-overview.md",
     "Internal Affairs/ia-resources.md",
@@ -189,7 +190,6 @@
     "Clippings",
     "01-Pictures/headers/header-heat-clases.png",
     "H.E.A.T./heat-quall-guide.md",
-    "Resources/external-resources.md",
     "Ministry of Truth/lore.md",
     "Resources/Deployments/mission-types.md",
     "01-Pictures/athenaBot-createNewDeployment.png",
