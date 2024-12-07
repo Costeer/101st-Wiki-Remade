@@ -1,3 +1,8 @@
+<h1 style="color:#9446f8"> This is the most up to date version of the wiki before the nuke destroyed the 101st </h1>
+
+this is going to stay up for anybody who is interested in looking at it
+
+
 ![image](https://github.com/user-attachments/assets/e7dc07b5-802b-4cb5-b4fa-4ffc5421aed1)
 
 ## The Official Wiki of the 101st "Hell" Battalion
