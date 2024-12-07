@@ -3,6 +3,9 @@
 this is going to stay up for anybody who is interested in looking at it
 
 
+# Old Description
+
+
 ![image](https://github.com/user-attachments/assets/e7dc07b5-802b-4cb5-b4fa-4ffc5421aed1)
 
 ## The Official Wiki of the 101st "Hell" Battalion
