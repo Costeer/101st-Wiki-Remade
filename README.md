@@ -1,12 +1,10 @@
-![image](https://github.com/user-attachments/assets/e7dc07b5-802b-4cb5-b4fa-4ffc5421aed1)
-
-## The Official Wiki of the 101st "Hell" Battalion
+# the wiki is currently being reworked please wait democratically
 
 This is the remake and the currently maintained version of the wiki. The old and archived version can be found [here](https://github.com/Costeer/101st-Wiki). This wiki is built using Quartz but heavily modifies the default layout.
 
 #### How Do I Contribute to the Wiki?
 
-First of all, you need to be an active member of the 101st.
+First of all, you need to be an active member of the 505th.
 
 If you are already a member, consult the Contributing page found in the wiki.
 
